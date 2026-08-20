@@ -1,12 +1,16 @@
 # BestHistory
 
+<p align="center">
+  <img src="assets/besthistory-icon.png" alt="BestHistory" width="112" />
+</p>
+
 **Turn browser history into a website library you can actually rediscover.**
 
 BestHistory is a local-first browser history organizer. Instead of treating your history as one endless timeline, it groups visits by website and helps you find the sites and pages you remember only vaguely.
 
 > 浏览历史不该只是一条越来越长的流水账。BestHistory 把它整理成按网站聚合、可以重新找回的个人网站工具箱。
 
-![BestHistory beta interface](assets/besthistory-ui.png)
+![BestHistory beta interface](assets/besthistory-ui.jpg)
 
 ## Why BestHistory
 
