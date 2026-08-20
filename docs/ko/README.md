@@ -3,6 +3,10 @@
 <p align="center"><img src="../../assets/besthistory-icon.png" alt="BestHistory" width="112" /></p>
 <p align="center"><strong>브라우저 기록을, 나중에 정말 다시 찾을 수 있는 ‘웹사이트 도구함’으로.</strong></p>
 
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_START -->
+<p align="center">BestHistory는 Chrome / Chromium용 개인정보 보호 중심 브라우저 방문 기록 관리자입니다. 오래된 Chrome 기록을 검색하고, 예전에 방문했지만 이름을 잊은 웹사이트를 다시 찾고, 사이트·태그·메모·페이지 제목을 기준으로 방문 기록을 정리할 수 있습니다.</p>
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_END -->
+
 <p align="center">
 [简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · 한국어 · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)
 </p>

@@ -1,0 +1,10 @@
+title: BestHistory
+description: Privacy-first Chrome browser history manager for searching old browser history, finding forgotten websites, and organizing history by website.
+url: "https://renboxue.github.io"
+baseurl: "/BestHistory"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+markdown: kramdown
+permalink: pretty

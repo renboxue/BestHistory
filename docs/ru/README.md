@@ -3,6 +3,10 @@
 <p align="center"><img src="../../assets/besthistory-icon.png" alt="BestHistory" width="112" /></p>
 <p align="center"><strong>Превратите историю браузера в коллекцию сайтов, которые действительно можно снова найти.</strong></p>
 
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_START -->
+<p align="center">BestHistory — ориентированный на конфиденциальность менеджер истории для Chrome и Chromium. Он помогает искать старую историю браузера, находить ранее посещённые, но забытые сайты и организовывать историю по сайтам, тегам, заметкам и заголовкам страниц.</p>
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_END -->
+
 <p align="center">
 [简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · Русский · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)
 </p>

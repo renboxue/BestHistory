@@ -6,6 +6,10 @@
 
 <p align="center"><strong>把浏览历史变成真正能重新找回的网站工具箱。</strong></p>
 
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_START -->
+<p align="center">BestHistory 是一款面向 Chrome / Chromium 的隐私优先浏览历史管理器：它可以搜索旧的浏览记录、找回曾经访问过但已经忘记名称的网站，并按照网站、标签和备注重新组织历史数据。</p>
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_END -->
+
 <p align="center">
 简体中文 · [繁體中文](docs/zh-TW/README.md) · [English](docs/en/README.md) · [日本語](docs/ja/README.md) · [한국어](docs/ko/README.md) · [Español](docs/es/README.md) · [Português](docs/pt/README.md) · [Français](docs/fr/README.md) · [Deutsch](docs/de/README.md) · [Italiano](docs/it/README.md) · [Nederlands](docs/nl/README.md) · [Русский](docs/ru/README.md) · [العربية](docs/ar/README.md) · [हिन्दी](docs/hi/README.md) · [Bahasa Indonesia](docs/id/README.md) · [Türkçe](docs/tr/README.md) · [বাংলা](docs/bn/README.md) · [Tiếng Việt](docs/vi/README.md)
 </p>
@@ -18,6 +22,20 @@
   &nbsp;·&nbsp;
   <a href="docs/LANGUAGES.md">18 种语言文档</a>
 </p>
+
+<!-- BESTHISTORY_SEO_STEP27_CN_GUIDES_START -->
+## 想找以前访问过、但已经忘记名字的网站？
+
+BestHistory 主要解决的不是“把 Chrome 历史记录换个皮肤”，而是几个非常具体的问题：**怎么搜索很久以前的 Chrome 历史记录、怎么找回曾经访问过但已经忘记名称的网站，以及怎么按照网站而不是几万条页面记录来整理浏览历史。**
+
+- [怎么搜索很久以前的 Chrome 历史记录](docs/zh-CN/guides/search-old-chrome-history.md)
+- [怎么找回以前访问过、但已经忘记名字的网站](docs/zh-CN/guides/find-website-you-visited-before.md)
+- [Chrome 历史记录管理器应该解决什么问题](docs/zh-CN/guides/chrome-history-manager.md)
+- [English browser-history guides](docs/en/guides/index.md)
+
+<!-- BESTHISTORY_SEO_STEP27_CN_GUIDES_END -->
+
+---
 
 ## 写在前面：为什么会有 BestHistory
 

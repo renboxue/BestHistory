@@ -3,6 +3,10 @@
 <p align="center"><img src="../../assets/besthistory-icon.png" alt="BestHistory" width="112" /></p>
 <p align="center"><strong>Transformer l’historique du navigateur en une vraie boîte à outils de sites que l’on peut retrouver.</strong></p>
 
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_START -->
+<p align="center">BestHistory est un gestionnaire d’historique pour Chrome et Chromium axé sur la confidentialité : il permet de rechercher un ancien historique, de retrouver des sites déjà visités mais oubliés et d’organiser l’historique par site, étiquettes, notes et titres de pages.</p>
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_END -->
+
 <p align="center">
 [简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · Français · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)
 </p>

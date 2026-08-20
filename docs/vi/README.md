@@ -3,6 +3,10 @@
 <p align="center"><img src="../../assets/besthistory-icon.png" alt="BestHistory" width="112" /></p>
 <p align="center"><strong>Biến lịch sử trình duyệt thành một hộp công cụ website mà bạn thực sự có thể tìm lại.</strong></p>
 
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_START -->
+<p align="center">BestHistory là trình quản lý lịch sử duyệt web ưu tiên quyền riêng tư dành cho Chrome và Chromium. Công cụ giúp tìm kiếm lịch sử Chrome cũ, tìm lại những website từng truy cập nhưng đã quên tên, và sắp xếp lịch sử theo website, thẻ, ghi chú và tiêu đề trang.</p>
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_END -->
+
 <p align="center">
 [简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · Tiếng Việt
 </p>

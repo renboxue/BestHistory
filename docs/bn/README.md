@@ -3,6 +3,10 @@
 <p align="center"><img src="../../assets/besthistory-icon.png" alt="BestHistory" width="112" /></p>
 <p align="center"><strong>ব্রাউজারের ইতিহাসকে এমন এক ওয়েবসাইট সংগ্রহে বদলে দিন, যা সত্যিই আবার খুঁজে পাওয়া যায়।</strong></p>
 
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_START -->
+<p align="center">BestHistory হলো Chrome ও Chromium-এর জন্য privacy-first browser history manager। এটি পুরোনো browser history খুঁজতে, আগে দেখা কিন্তু নাম ভুলে যাওয়া website আবার খুঁজে পেতে এবং website, tag, note ও page title অনুযায়ী history গুছিয়ে রাখতে সাহায্য করে।</p>
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_END -->
+
 <p align="center">
 [简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · বাংলা · [Tiếng Việt](../vi/README.md)
 </p>

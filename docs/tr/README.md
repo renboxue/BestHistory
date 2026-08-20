@@ -3,6 +3,10 @@
 <p align="center"><img src="../../assets/besthistory-icon.png" alt="BestHistory" width="112" /></p>
 <p align="center"><strong>Tarayıcı geçmişini gerçekten yeniden bulabileceğiniz bir site kutusuna dönüştürün.</strong></p>
 
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_START -->
+<p align="center">BestHistory, Chrome ve Chromium için gizlilik odaklı bir tarayıcı geçmişi yöneticisidir. Eski tarayıcı geçmişini aramanıza, daha önce ziyaret edip adını unuttuğunuz siteleri bulmanıza ve geçmişi site, etiket, not ve sayfa başlığına göre düzenlemenize yardımcı olur.</p>
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_END -->
+
 <p align="center">
 [简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · Türkçe · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)
 </p>

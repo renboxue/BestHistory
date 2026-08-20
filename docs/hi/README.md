@@ -3,6 +3,10 @@
 <p align="center"><img src="../../assets/besthistory-icon.png" alt="BestHistory" width="112" /></p>
 <p align="center"><strong>ब्राउज़र हिस्ट्री को ऐसी वेबसाइट सूची में बदलें जिसे आप सच में दोबारा खोज सकें।</strong></p>
 
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_START -->
+<p align="center">BestHistory Chrome और Chromium के लिए privacy-first browser history manager है। इससे आप पुरानी Chrome history खोज सकते हैं, पहले देखी लेकिन नाम भूल चुके वेबसाइट फिर से ढूँढ सकते हैं, और history को website, tags, notes तथा page titles के आधार पर व्यवस्थित कर सकते हैं।</p>
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_END -->
+
 <p align="center">
 [简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · हिन्दी · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)
 </p>

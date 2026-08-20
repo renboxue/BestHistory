@@ -6,6 +6,10 @@
 
 <p align="center"><strong>Turn browser history into a website toolbox you can actually find things in again.</strong></p>
 
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_START -->
+<p align="center">BestHistory is a privacy-first Chrome and Chromium browser history manager for searching old browser history, finding websites you visited before but forgot, and organizing browsing history by website, tags, notes and page titles.</p>
+<!-- BESTHISTORY_SEO_STEP27_SUMMARY_END -->
+
 <p align="center">
 [简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · English · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)
 </p>
@@ -18,6 +22,22 @@
   &nbsp;·&nbsp;
   <a href="../LANGUAGES.md">Documentation in 18 languages</a>
 </p>
+
+<!-- BESTHISTORY_SEO_STEP27_GUIDES_START -->
+## Trying to find something in old Chrome history?
+
+BestHistory is designed for the moments when you remember **the website or what you used it for**, but not the exact page title or date. These practical guides cover the most common browser-history problems:
+
+- [How to search old Chrome history](guides/search-old-chrome-history.md)
+- [How to find a website you visited before but forgot](guides/find-website-you-visited-before.md)
+- [How to organize Chrome history by website](guides/organize-browser-history-by-website.md)
+- [Browser history manager: what to look for beyond Chrome's default history](guides/browser-history-manager.md)
+- [How to save incognito history privately when you choose to](guides/save-incognito-history-privately.md)
+- [Looking for a BetterHistory / Better History alternative?](guides/betterhistory-alternative.md)
+
+<!-- BESTHISTORY_SEO_STEP27_GUIDES_END -->
+
+---
 
 ## A note from the developer: why BestHistory exists
 
