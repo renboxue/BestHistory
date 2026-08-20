@@ -1,39 +1,41 @@
-# BestHistory Privacy Notice
+# BestHistory 隐私说明
 
-_Last updated: 2026-08-20_
+_最后更新：2026-08-20_
 
-BestHistory is a local-first browser extension for organizing browser history.
+[🌐 18 种语言文档](docs/LANGUAGES.md)
 
-## Browsing data
+BestHistory 是一款以本地数据为优先的浏览器历史整理扩展。
 
-BestHistory processes browser history, visited URLs, page titles, website metadata, tags, notes, search input and private-mode records on the user's device. These browsing datasets are not uploaded to the BestHistory account server.
+## 浏览数据
 
-## Account and entitlement data
+BestHistory 会在用户设备上处理浏览历史、访问过的网址、页面标题、网站元数据、标签、备注、搜索输入和私密模式记录。这些浏览数据不会上传到 BestHistory 的账户服务器。
 
-If you choose to sign in, BestHistory uses account infrastructure to identify your BestHistory account and determine Free, Trial or Pro eligibility. Account-side data may include:
+## 账户与权益数据
 
-- account ID
-- email address and authentication metadata
-- preferred interface language
-- membership / trial / subscription status and validity period
-- payment-provider identifiers after paid subscriptions are introduced
+如果你选择登录，BestHistory 会使用账户基础设施识别你的 BestHistory 账户，并判断 Free、Trial 或 Pro 权益。账户侧可能包含：
 
-## Private Mode
+- 账户 ID；
+- 邮箱地址和必要的认证元数据；
+- 首选界面语言；
+- 会员 / 试用 / 订阅状态及有效期；
+- 正式付费订阅上线后所需的支付平台标识。
 
-Private Mode encrypts private browsing records locally. Private URLs, titles and visit data are encrypted on the device. The private-mode password and decrypted private browsing data are not sent to the BestHistory server.
+## 私密模式
 
-## Backup files
+私密模式会在本机加密保存私密浏览记录。私密网址、标题和访问数据均在设备上加密。私密模式密码以及解密后的私密浏览数据不会发送到 BestHistory 服务器。
 
-BestHistory backup files are created locally and are not uploaded by BestHistory. Users are responsible for storing backup files safely. Private-mode records in a backup remain encrypted; public history data in a backup should not be assumed to be encrypted as a whole.
+## 备份文件
 
-## Third-party services
+BestHistory 备份文件由用户在本地生成，BestHistory 不会自动上传。用户需要自行妥善保存备份文件。备份中的私密模式记录仍保持加密，但普通历史数据不应被视为整个文件都经过加密。
 
-BestHistory currently uses Supabase for account authentication and entitlement data, and Amazon SES as the outbound email provider for authentication email. Those services process only the data needed for account and email delivery workflows, not the user's browsing history.
+## 第三方服务
 
-## Data deletion
+BestHistory 当前使用 Supabase 处理账户认证和权益数据，使用 Amazon SES 发送认证邮件。这些服务只处理账户和邮件投递流程所需的数据，不处理或保存用户的浏览历史。
 
-Users can delete local BestHistory data from the extension. Signing out removes the local account session but does not intentionally delete the user's local browsing-history organization data. Account deletion workflows may be expanded during beta.
+## 数据删除
 
-## Contact
+用户可以从扩展中删除本地 BestHistory 数据。退出登录会移除本地账户会话，但不会刻意删除用户本地的浏览历史整理数据。账户删除流程可能会在 Beta 期间继续完善。
 
-Privacy questions: **besthistory@126.com**
+## 联系方式
+
+隐私问题：**besthistory@126.com**

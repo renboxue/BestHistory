@@ -1,26 +1,37 @@
-# Install BestHistory Beta on Chrome
+# 在 Chrome 安装 BestHistory Beta
 
-The current beta is distributed outside the Chrome Web Store.
+[🌐 18 种语言文档](docs/LANGUAGES.md)
 
-1. Download the latest BestHistory beta package from this repository's release/download section.
-2. Unzip the package to a folder you will keep on your computer.
-3. Open `chrome://extensions/`.
-4. Turn on **Developer mode**.
-5. Click **Load unpacked**.
-6. Select the unzipped BestHistory extension folder.
-7. Pin BestHistory from Chrome's Extensions menu if desired.
-8. Click the BestHistory toolbar icon to open the main BestHistory page directly.
+当前 Beta 通过 GitHub Release 提供，在正式进入 Chrome Web Store 前，需要手动安装。
 
-## Incognito / Private Mode
+## 下载
 
-If you want BestHistory Pro Private Mode to capture incognito visits, Chrome requires you to explicitly allow the extension in incognito:
+从这里下载最新版本：
 
-1. Open `chrome://extensions/`.
-2. Open BestHistory **Details**.
-3. Enable **Allow in Incognito**.
+**https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta**
 
-This permission is optional. BestHistory shows an in-product guide when it is needed.
+下载文件：`BestHistory-v0.1.0-beta-chrome.zip`
 
-## Updating a manually installed beta
+## 安装步骤
 
-A new beta may require replacing the extracted extension folder and reloading the extension from `chrome://extensions/`. Back up important BestHistory data before testing early beta updates.
+1. 解压 ZIP 到一个以后不会随便删除的文件夹。
+2. 在 Chrome 地址栏打开 `chrome://extensions/`。
+3. 打开右上角的 **开发者模式**。
+4. 点击 **加载已解压的扩展程序**。
+5. 选择刚才解压后的 BestHistory 文件夹。
+6. 如有需要，可以在 Chrome 的扩展菜单中固定 BestHistory。
+7. 点击工具栏中的 BestHistory 图标即可直接打开主页面。
+
+## 无痕窗口 / 私密模式
+
+如果希望 BestHistory Pro 私密模式自动保存无痕窗口中的访问记录，Chrome 要求你明确允许扩展在无痕模式中运行：
+
+1. 打开 `chrome://extensions/`。
+2. 打开 BestHistory 的 **详细信息**。
+3. 开启 **在无痕模式下启用 / Allow in Incognito**。
+
+这个权限是可选的，BestHistory 无法代替你自动开启。
+
+## 手动更新 Beta
+
+新的 Beta 版本可能需要替换原先解压出的扩展文件夹，并在 `chrome://extensions/` 中重新加载。测试早期版本前，建议先导出一份 `.bhbackup` 备份。

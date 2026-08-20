@@ -6,6 +6,19 @@
 
 <p align="center"><strong>把浏览历史变成真正能重新找回的网站工具箱。</strong></p>
 
+<p align="center">
+简体中文 · [繁體中文](docs/zh-TW/README.md) · [English](docs/en/README.md) · [日本語](docs/ja/README.md) · [한국어](docs/ko/README.md) · [Español](docs/es/README.md) · [Português](docs/pt/README.md) · [Français](docs/fr/README.md) · [Deutsch](docs/de/README.md) · [Italiano](docs/it/README.md) · [Nederlands](docs/nl/README.md) · [Русский](docs/ru/README.md) · [العربية](docs/ar/README.md) · [हिन्दी](docs/hi/README.md) · [Bahasa Indonesia](docs/id/README.md) · [Türkçe](docs/tr/README.md) · [বাংলা](docs/bn/README.md) · [Tiếng Việt](docs/vi/README.md)
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta"><strong>⬇️ 下载 Chrome Beta v0.1.0</strong></a>
+  &nbsp;·&nbsp;
+  <a href="INSTALL.md">安装说明</a>
+  &nbsp;·&nbsp;
+  <a href="docs/LANGUAGES.md">18 种语言文档</a>
+</p>
+
 ## 写在前面：为什么会有 BestHistory
 
 BestHistory 是我作为一名个人开发者，因为自己的真实困扰做出来的一个小工具。
@@ -35,7 +48,7 @@ BestHistory 是我作为一名个人开发者，因为自己的真实困扰做�
 目前 BestHistory 仍然是一个很早期的个人项目。如果它刚好也解决了你的困扰，我会非常开心。也很希望你能告诉我哪些地方好用、哪些地方不好用，以及你真正希望它继续解决什么问题。
 
 <p align="center">
-  <img src="assets/screenshots/home.webp" alt="BestHistory 我的网页" width="100%" />
+  <img src="assets/screenshots/home.webp" alt="BestHistory 我的网站" width="100%" />
 </p>
 <p align="center"><sub>把成千上万条页面历史先还原成“我用过哪些网站”。</sub></p>
 
@@ -78,18 +91,7 @@ BestHistory 会先自动按照**网站**进行聚合。
 
 同一个网站，对别人可能是“工具”，对你可能是“工作”；也可能同时属于“设计”“AI”“以后还会用”。
 
-所以 BestHistory 支持给网站添加**自定义标签**，而且可以一个网站拥有多个标签。
-
-你可以完全按照自己的方式整理，例如：
-
-- 工作
-- 学习
-- AI 工具
-- 设计参考
-- 稍后再看
-- 经常采购
-- 孩子学习
-- 临时项目
+所以 BestHistory 支持给网站添加**自定义标签**，而且一个网站可以拥有多个标签。
 
 标签不是为了把所有东西整理得非常完美，而是为了未来某一天，你只记得“它大概是做什么的”时，还能有一条路把它找回来。
 
@@ -101,25 +103,18 @@ BestHistory 会先自动按照**网站**进行聚合。
 
 所以 BestHistory 保留了时间线，但不会简单复制浏览器原生历史。
 
-连续访问同一个网站的多个页面，会先折叠成一组，例如：
+连续访问同一个网站的多个页面，会先折叠成一组，需要时再展开具体页面。这样既保留浏览过程，又不会因为在同一个网站里连续点击很多页面，让整条时间线变得非常嘈杂。
 
-```text
-GitHub   +5
-知乎     +3
-GitHub   +4
-```
-
-需要时再展开具体页面。
-
-这样既保留浏览过程，又不会因为在同一个网站里连续点击很多页面，让整条时间线变得非常嘈杂。
+<p align="center">
+  <img src="assets/screenshots/timeline.webp" alt="BestHistory 按网站折叠的时间线" width="100%" />
+</p>
+<p align="center"><sub>同一个网站连续打开的页面折叠在一起，时间线更像“浏览过程”，而不是一堵页面标题墙。</sub></p>
 
 ### 5. 给网站写一句“只有自己看得懂”的描述
 
 这也是我自己非常需要的功能。
 
-有些网站名字本身并不能提醒我它到底是干什么的。
-
-所以你可以给网站添加自己的备注或描述，比如：
+有些网站名字本身并不能提醒我它到底是干什么的。所以你可以给网站添加自己的备注或描述，比如：
 
 > “上次用来把 PDF 转成图片的那个网站”
 
@@ -127,9 +122,7 @@ GitHub   +4
 
 > “那个可以查历史价格的小工具”
 
-以后搜索这些你自己写过的话，也可以重新找到网站。
-
-我觉得这种信息有时候比网站官方标题更接近我们的真实记忆。
+以后搜索这些你自己写过的话，也可以重新找到网站。我觉得这种信息有时候比网站官方标题更接近我们的真实记忆。
 
 <p align="center">
   <img src="assets/screenshots/site-detail.webp" alt="BestHistory 网站详情、标签和备注" width="100%" />
@@ -142,9 +135,7 @@ GitHub   +4
 
 这是 BestHistory 里我非常重视的一部分。
 
-浏览历史有一个很尴尬的问题：
-
-有些网站并不是“不想留下记录”，而只是**不希望它们和普通浏览历史放在一起，被其他人随手看到**。
+浏览历史有一个很尴尬的问题：有些网站并不是“不想留下记录”，而只是**不希望它们和普通浏览历史放在一起，被其他人随手看到**。
 
 所以 BestHistory 提供了 **私密模式（Pro）**。
 
@@ -169,13 +160,7 @@ GitHub   +4
 
 BestHistory 的搜索不仅仅匹配域名。
 
-目前可以通过网站、域名、标签、备注以及页面标题等信息进行查找。
-
-例如你可能完全忘记某个网站叫什么，只记得：
-
-> “我以前在里面看过闲鱼相关的内容。”
-
-只要过去访问过的页面标题或你留下的信息里存在相关内容，BestHistory 就尽量帮你把那个网站重新找出来。
+目前可以通过网站、域名、标签、备注以及页面标题等信息进行查找。你可能完全忘记某个网站叫什么，只记得“以前在里面看过某个内容”，BestHistory 会尽量利用过去访问过的页面标题和你自己留下的信息，把那个网站重新找出来。
 
 进入网站以后，还可以继续查看和搜索它下面曾经访问过的具体页面。
 
@@ -190,9 +175,7 @@ BestHistory 的搜索不仅仅匹配域名。
 - **恢复**：以后发现还需要，可以再移回来；
 - **永久删除**：确认不再需要时，可以从 BestHistory 和对应浏览器历史中删除。
 
-我的想法是：整理历史记录不应该要求用户一开始就做很多艰难决定。
-
-“先放一边，以后再处理”本身就应该是一种正常操作。
+我的想法是：整理历史记录不应该要求用户一开始就做很多艰难决定。“先放一边，以后再处理”本身就应该是一种正常操作。
 
 ---
 
@@ -205,7 +188,7 @@ BestHistory 的浏览历史整理数据主要保存在本机。
 - 更换电脑；
 - 重新安装浏览器或 BestHistory；
 - 将 BestHistory 数据迁移到另一台设备；
-- 在不同浏览器之间迁移和合并历史整理数据。
+- 在不同浏览器之间迁移和合并 BestHistory 历史整理数据。
 
 恢复时采用安全合并逻辑：已有数据不会简单粗暴地整库覆盖，备份中的历史和当前数据会尽量去重合并。
 
@@ -222,8 +205,6 @@ BestHistory 的浏览历史整理数据主要保存在本机。
 ## 隐私：这是我不希望为了功能妥协的一件事
 
 BestHistory 会接触到浏览历史，而浏览历史本身就是非常私人的数据。
-
-所以目前产品的基本原则很明确：
 
 ### 浏览数据留在你的设备上
 
@@ -269,9 +250,9 @@ BestHistory 服务器不会保存：
 
 ---
 
-## 18 种界面语言
+## 18 种界面语言，也提供 18 种文档
 
-BestHistory 目前已经支持 18 种界面语言，包括：
+BestHistory 目前支持：
 
 简体中文、繁体中文、English、日本語、한국어、Español、Português、Français、Deutsch、Italiano、Nederlands、Русский、العربية、हिन्दी、Bahasa Indonesia、Türkçe、বাংলা、Tiếng Việt。
 
@@ -279,7 +260,7 @@ BestHistory 目前已经支持 18 种界面语言，包括：
   <img src="assets/screenshots/languages.webp" alt="BestHistory 18 种界面语言" width="100%" />
 </p>
 
-我希望它最终不仅是一个只服务中文用户的小工具，也可以让不同国家、不同浏览器习惯的人一起使用和提出意见。
+这次公开 Beta 的 README、安装、隐私、FAQ、安全说明、更新日志和 Release Note 也提供对应的 18 种语言版本。完整入口见 [docs/LANGUAGES.md](docs/LANGUAGES.md)。
 
 ---
 
@@ -287,17 +268,13 @@ BestHistory 目前已经支持 18 种界面语言，包括：
 
 BestHistory 目前仍然是一个很早期的 Beta 产品。
 
-我还有很多想继续解决的问题。
-
-比如我最开始做这个插件，就是因为自己总是：
+我最开始做这个插件，就是因为自己总是：
 
 > 怕关掉标签页以后再也找不到，所以浏览器里长期堆着很多标签和窗口。
 
 现在 BestHistory 已经能帮助我重新找到关闭过的网站。未来我也希望继续围绕这个核心问题思考：怎样让我们更放心地关闭不再需要一直开着的标签页、怎样更轻松地整理自己真正使用过的网站，而不是单纯不断增加功能。
 
-但我不想在没有真实用户之前，把所有自己想到的功能全都做进去。
-
-所以现在最需要的是你的反馈。
+但我不想在没有真实用户之前，把所有自己想到的功能全都做进去。所以现在最需要的是你的反馈。
 
 ---
 
@@ -310,15 +287,7 @@ BestHistory 目前仍然是一个很早期的 Beta 产品。
 - 💡 告诉我你平时是怎么管理历史记录、收藏夹和一大堆标签页的；
 - ✉️ 如果不方便公开反馈，也可以发邮件到 **besthistory@126.com**。
 
-哪怕只是告诉我：
-
-> “这个功能我真的会用。”
-
-或者：
-
-> “这个设计我觉得很麻烦。”
-
-对一个个人开发项目来说，都非常有价值。
+哪怕只是告诉我“这个功能我真的会用”或者“这个设计我觉得很麻烦”，对一个个人开发项目来说，都非常有价值。
 
 如果你提交公开 Issue，请不要附上私密网址、私密浏览记录、密码、备份文件或其他敏感浏览数据。
 
@@ -328,21 +297,17 @@ BestHistory 目前仍然是一个很早期的 Beta 产品。
 
 ## Beta 安装
 
-BestHistory 当前处于早期公开 Beta 阶段。在正式进入 Chrome Web Store 等浏览器商店之前，会先通过 GitHub 提供测试版本。
+BestHistory v0.1.0 Beta 已经可以通过 GitHub Release 下载：
 
-安装方式和当前已知限制请查看 [INSTALL.md](INSTALL.md)。
+**[⬇️ 下载 BestHistory v0.1.0 Beta for Chrome](https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta)**
+
+当前仍需要通过 Chrome 的“开发者模式 → 加载已解压的扩展程序”安装。详细步骤见 [INSTALL.md](INSTALL.md)。
 
 ---
 
 ## 关于这个仓库
 
-这个 GitHub 仓库用于：
-
-- 产品介绍；
-- Beta 版本发布；
-- 使用文档；
-- 隐私与安全说明；
-- Issue 与用户反馈。
+这个 GitHub 仓库用于产品介绍、Beta 版本发布、使用文档、隐私与安全说明，以及 Issue 与用户反馈。
 
 **BestHistory 应用源码目前为非开源专有代码，不会在这个公开仓库中发布。**
 

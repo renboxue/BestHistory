@@ -1,19 +1,21 @@
-# FAQ
+# 常见问题
 
-## Do I need an account to use BestHistory?
-No. Core local history organization features are designed to work without an account. An account is used for Pro / trial entitlement.
+[🌐 18 种语言文档](docs/LANGUAGES.md)
 
-## Does BestHistory upload my browsing history?
-No. BestHistory's account server is not designed to store your browser history, URLs, titles, tags, notes, searches or private records.
+## 使用 BestHistory 必须注册账户吗？
+不需要。核心的本地历史整理功能无需账户即可使用。账户主要用于识别 Pro / 试用权益。
 
-## What happens when my Pro trial expires?
-Pro-only features become unavailable. Existing encrypted private data is kept locally rather than deleted. Regaining Pro access restores access to that local encrypted data.
+## BestHistory 会上传我的浏览历史吗？
+不会。BestHistory 的账户服务器不会保存你的浏览历史、网址、标题、标签、备注、搜索内容或私密记录。
 
-## Is `.bhbackup` a full browser restore?
-It is a BestHistory data-transfer and safe-merge format. It is designed primarily for moving and merging BestHistory data between installations. It does not rewind Chrome itself to a historical snapshot.
+## Pro 试用到期后会发生什么？
+Pro 专属功能会暂时不可使用，但已经存在的加密私密数据会继续保留在本地，不会因为试用到期而删除。重新获得 Pro 权益后可以再次访问这些本地加密数据。
 
-## Why is incognito permission separate?
-Chrome requires the user to explicitly allow each extension to run in incognito. BestHistory cannot enable that permission on your behalf.
+## `.bhbackup` 是完整的浏览器快照恢复吗？
+不是。它是 BestHistory 的数据迁移和安全合并格式，主要用于不同安装、设备或浏览器之间迁移和合并 BestHistory 数据。它不会把 Chrome 本身回滚到过去某个时间点。
 
-## Is the source code open source?
-No. This public repository contains product information, documentation, feedback and beta release materials. The application source code remains proprietary.
+## 为什么无痕权限要单独开启？
+Chrome 要求用户明确允许每一个扩展在无痕窗口中运行，BestHistory 无法替用户自动开启这个权限。
+
+## 为什么 GitHub 上看不到源码？
+这个公开仓库用于产品介绍、文档、反馈和 Beta 发布。BestHistory 应用源码目前是非开源专有代码。

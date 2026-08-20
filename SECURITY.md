@@ -1,7 +1,9 @@
-# Security
+# 安全说明
 
-Please do not report security or privacy vulnerabilities in a public issue if the report contains sensitive data.
+[🌐 18 种语言文档](docs/LANGUAGES.md)
 
-Contact: **besthistory@126.com**
+如果安全或隐私漏洞报告中包含敏感数据，请不要在公开 Issue 中提交。
 
-Do not send real private-history exports, passwords, authentication tokens, private keys, payment secrets or full backup files unless explicitly requested through a secure follow-up channel.
+联系邮箱：**besthistory@126.com**
+
+除非我们通过安全的后续沟通渠道明确要求，请不要发送真实的私密历史导出、密码、认证 Token、私钥、支付密钥或完整备份文件。

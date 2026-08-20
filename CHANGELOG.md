@@ -1,37 +1,41 @@
-# Changelog
+# 更新日志
 
-## v0.1.0 Beta — 2026-08
+[🌐 18 种语言文档](docs/LANGUAGES.md)
 
-First public beta candidate.
+## v0.1.0 Beta — 2026-08-20
 
-### Core
-- Website-first browser-history aggregation
-- Recent, frequent, alphabetical, pinned, unorganized and wastebasket views
-- Search across websites, domains, tags, notes and page titles
-- Website detail and recent-page views
-- Tags, notes and pinned sites
-- Collapsible timeline
-- CSV history export
+BestHistory 第一个公开 Beta 版本。
 
-### Privacy & data portability
-- Local-first data processing
-- Pro Private Mode with local AES-256-GCM encrypted private records
-- Optional incognito capture with explicit browser permission
-- Private-site and private-page handling
-- Password change, lock, auto-lock and destructive reset flows
-- Single-file `.bhbackup` backup / restore with safe merge behavior
-- Wastebasket restore, permanent website deletion and clear-wastebasket actions
+### 核心功能
+- 以网站为中心自动聚合浏览历史
+- 最近访问、最常访问、名称排序、已固定、未整理、废件箱等视图
+- 搜索网站、域名、标签、备注和页面标题
+- 网站详情和最近页面
+- 自定义标签、备注与固定网站
+- 按网站折叠的时间线
+- CSV 历史导出
+- BestHistory 长时间保持打开时，网站与时间线会在新历史产生、页面重新可见或窗口重新获得焦点时自动刷新
 
-### Account & Pro
-- Email OTP account login
-- Server-side entitlement model
-- 30-day Pro trial for newly registered accounts during beta
-- Local entitlement cache and limited offline grace for Pro features
-- Background private capture gated by cached Pro / Trial entitlement
+### 隐私与数据迁移
+- 本地优先的数据处理方式
+- Pro 私密模式：使用 AES-256-GCM 在本机加密保存私密记录
+- 用户明确授权后可记录无痕窗口访问
+- 支持私密网站和私密页面
+- 密码修改、锁定、自动锁定和破坏性重置
+- 单文件 `.bhbackup` 备份 / 恢复，采用安全合并逻辑
+- 废件箱恢复、永久删除网站和清空废件箱
 
-### Product polish
-- 18 interface languages
-- BestHistory brand icon
-- Toolbar click opens BestHistory directly
-- Feedback entry
-- Release preflight and secret scan
+### 账户与 Pro
+- 邮箱 OTP 登录
+- 服务端权益模型
+- Beta 阶段新注册账户 30 天 Pro 试用
+- 本地权益缓存与有限离线宽限
+- 后台私密记录受缓存的 Pro / Trial 权益控制
+
+### 产品完善
+- 18 种界面语言
+- 18 种语言的公开文档与 Release Note
+- BestHistory 品牌图标
+- 点击浏览器工具栏图标直接打开 BestHistory
+- 意见反馈入口
+- 发布前构建检查与敏感信息扫描
