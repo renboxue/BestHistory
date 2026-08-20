@@ -34,6 +34,11 @@ BestHistory 是我作为一名个人开发者，因为自己的真实困扰做�
 
 目前 BestHistory 仍然是一个很早期的个人项目。如果它刚好也解决了你的困扰，我会非常开心。也很希望你能告诉我哪些地方好用、哪些地方不好用，以及你真正希望它继续解决什么问题。
 
+<p align="center">
+  <img src="assets/screenshots/home.webp" alt="BestHistory 我的网页" width="100%" />
+</p>
+<p align="center"><sub>把成千上万条页面历史先还原成“我用过哪些网站”。</sub></p>
+
 ---
 
 ## BestHistory 和普通历史记录有什么不同？
@@ -125,6 +130,11 @@ GitHub   +4
 以后搜索这些你自己写过的话，也可以重新找到网站。
 
 我觉得这种信息有时候比网站官方标题更接近我们的真实记忆。
+
+<p align="center">
+  <img src="assets/screenshots/site-detail.webp" alt="BestHistory 网站详情、标签和备注" width="100%" />
+</p>
+<p align="center"><sub>网站可以有自己的名称、备注、标签，也可以继续查看它下面曾经访问过的页面。</sub></p>
 
 ---
 
@@ -264,6 +274,10 @@ BestHistory 服务器不会保存：
 BestHistory 目前已经支持 18 种界面语言，包括：
 
 简体中文、繁体中文、English、日本語、한국어、Español、Português、Français、Deutsch、Italiano、Nederlands、Русский、العربية、हिन्दी、Bahasa Indonesia、Türkçe、বাংলা、Tiếng Việt。
+
+<p align="center">
+  <img src="assets/screenshots/languages.webp" alt="BestHistory 18 种界面语言" width="100%" />
+</p>
 
 我希望它最终不仅是一个只服务中文用户的小工具，也可以让不同国家、不同浏览器习惯的人一起使用和提出意见。
 
