@@ -4,72 +4,95 @@
   <img src="assets/besthistory-icon.png" alt="BestHistory" width="112" />
 </p>
 
-**Turn browser history into a website library you can actually rediscover.**
+<p align="center"><strong>把浏览历史变成真正能重新找回的网站工具箱。</strong></p>
 
-BestHistory is a local-first browser history organizer. Instead of treating your history as one endless timeline, it groups visits by website and helps you find the sites and pages you remember only vaguely.
+BestHistory 是一款以本地数据和隐私为核心的浏览器历史管理工具。
 
-> 浏览历史不该只是一条越来越长的流水账。BestHistory 把它整理成按网站聚合、可以重新找回的个人网站工具箱。
+传统浏览器历史往往是一条不断变长的时间流水账。BestHistory 更关注“网站”本身：把访问记录按网站聚合，再通过搜索、标签、固定、时间线等方式，帮助你重新找到那些“记得用过，但已经想不起名字或具体页面”的网站和内容。
 
-![BestHistory beta interface](assets/besthistory-ui.jpg)
+> 浏览历史不该只是越来越长的一串记录，而应该成为一个以后还能重新利用的个人网站资料库。
 
-## Why BestHistory
+## 为什么做 BestHistory
 
-- **Website-first history** — browse by website instead of digging through thousands of individual visits.
-- **Search** — search websites, domains, tags, notes and page titles.
-- **Tags & pinned sites** — organize important websites your own way.
-- **Timeline** — keep the chronological view when you need it.
-- **Wastebasket** — hide sites without immediately deleting their history; restore or permanently delete later.
-- **Private Mode (Pro)** — locally encrypted private URLs, titles and visit data, including optional incognito capture.
-- **Backup & restore** — move BestHistory data between computers with one `.bhbackup` file.
-- **18 interface languages** — including Chinese, English, Japanese, Korean, Spanish, French, German, Arabic, Hindi and more.
+很多时候，我们记得的是：
 
-## Privacy by design
+- “以前访问过一个很好用的网站，但名字忘了。”
+- “几个月前看过一个页面，现在只记得大概内容。”
+- “我知道是在某个网站里看到的，但不记得具体是哪一页。”
 
-BestHistory is designed so browsing data stays on your device.
+浏览器原生历史更擅长回答“我什么时候访问过什么”，BestHistory 希望进一步解决：
 
-**The BestHistory server may store:**
-- account identity / email
-- subscription and entitlement status
-- product configuration required for membership features
+**“我以前用过的那个网站，到底在哪里？”**
 
-**The BestHistory server does not store:**
-- browsing history
-- visited URLs
-- page titles
-- tags or notes
-- search queries
-- private browsing records
-- private-mode encryption keys or backup contents
+## 主要功能
 
-See [PRIVACY.md](PRIVACY.md) for details.
+- **按网站聚合历史** — 不再只面对成千上万条零散访问记录，而是先从网站层面整理和回忆。
+- **搜索** — 搜索网站、域名、标签、备注和页面标题。
+- **标签与固定** — 用自己的方式整理重要网站，并把常用网站固定在前面。
+- **时间线** — 在需要时仍然可以按时间查看具体浏览过程。
+- **废件箱** — 暂时隐藏不想看到的网站，不立即删除历史；之后可以恢复或永久删除。
+- **私密模式（Pro）** — 在本机加密保存私密网址、标题和访问数据，并可选择记录无痕窗口中的访问。
+- **备份与恢复** — 使用一个 `.bhbackup` 文件迁移 BestHistory 数据，方便换电脑、换浏览器或重新安装。
+- **18 种界面语言** — 包括简体中文、繁体中文、英文、日文、韩文、西班牙文、法文、德文、阿拉伯文、印地文等。
 
-## Free and Pro
+## 隐私设计
 
-BestHistory's core local history features can be used without signing in.
+BestHistory 的核心原则是：**浏览数据留在你的设备上。**
 
-New accounts currently receive a **30-day Pro trial** during the beta. Pro currently includes Private Mode. Trial length and Pro features may change while the product is in beta.
+BestHistory 服务器可能保存：
 
-## Beta installation
+- BestHistory 账户标识和邮箱
+- 试用、会员和订阅权益状态
+- 会员功能所需的产品配置
 
-The first public beta is distributed as a Chrome extension package before store publication.
+BestHistory 服务器不会保存：
 
-See [INSTALL.md](INSTALL.md) for installation steps and known limitations.
+- 浏览历史
+- 访问过的网址
+- 页面标题
+- 标签和备注
+- 搜索内容
+- 私密浏览记录
+- 私密模式加密密钥
+- 备份文件内容
 
-## Feedback
+更详细的说明请查看 [PRIVACY.md](PRIVACY.md)。
 
-BestHistory is in early public beta. The most useful feedback is whether the website-first history workflow actually helps you rediscover things you visited before.
+## Free 与 Pro
 
-- Open a GitHub Issue in this repository, or
-- Email: **besthistory@126.com**
+BestHistory 的核心本地历史功能**无需登录即可长期使用**。
 
-Please do **not** include private URLs, private browsing records, passwords, backup files or other sensitive browsing data in public issues.
+Beta 阶段，新注册账户目前会获得 **30 天 Pro 试用**。
 
-## Source code
+当前 Pro 主要包含私密模式。试用时长以及 Pro 功能范围可能会在 Beta 期间根据实际反馈调整。
 
-This repository is the public product and release repository for BestHistory. **The application source code is proprietary and is not published here.**
+## Beta 安装
 
-## Current beta
+BestHistory 当前处于早期公开 Beta 阶段，在浏览器商店正式上架前，先通过 GitHub 提供 Chrome 扩展测试版本。
+
+安装方法和当前已知限制请查看 [INSTALL.md](INSTALL.md)。
+
+## 反馈
+
+BestHistory 现在最希望验证的不是功能数量，而是：
+
+**“按网站整理浏览历史，是否真的能帮助你重新找回以前访问过的内容？”**
+
+如果你在使用过程中有任何建议，可以：
+
+- 在本仓库提交 GitHub Issue；
+- 或发送邮件至 **besthistory@126.com**。
+
+为了保护隐私，请不要在公开 Issue 中提交私密网址、私密浏览记录、密码、备份文件或其他敏感浏览数据。
+
+## 关于源码
+
+这个仓库是 BestHistory 的公开产品介绍、文档、反馈和 Beta 发布仓库。
+
+**BestHistory 应用源码为非开源专有代码，不会在这里公开。**
+
+## 当前版本
 
 **v0.1.0 Beta**
 
-See [CHANGELOG.md](CHANGELOG.md).
+版本变化请查看 [CHANGELOG.md](CHANGELOG.md)。
