@@ -23,18 +23,6 @@
   <a href="docs/LANGUAGES.md">18 种语言文档</a>
 </p>
 
-<!-- BESTHISTORY_SEO_STEP27_CN_GUIDES_START -->
-## 想找以前访问过、但已经忘记名字的网站？
-
-BestHistory 主要解决的不是“把 Chrome 历史记录换个皮肤”，而是几个非常具体的问题：**怎么搜索很久以前的 Chrome 历史记录、怎么找回曾经访问过但已经忘记名称的网站，以及怎么按照网站而不是几万条页面记录来整理浏览历史。**
-
-- [怎么搜索很久以前的 Chrome 历史记录](docs/zh-CN/guides/search-old-chrome-history.md)
-- [怎么找回以前访问过、但已经忘记名字的网站](docs/zh-CN/guides/find-website-you-visited-before.md)
-- [Chrome 历史记录管理器应该解决什么问题](docs/zh-CN/guides/chrome-history-manager.md)
-- [English browser-history guides](docs/en/guides/index.md)
-
-<!-- BESTHISTORY_SEO_STEP27_CN_GUIDES_END -->
-
 ---
 
 ## 写在前面：为什么会有 BestHistory
@@ -312,6 +300,21 @@ BestHistory 目前仍然是一个很早期的 Beta 产品。
 谢谢你愿意看到这里，也谢谢你愿意尝试 BestHistory。
 
 ---
+
+
+---
+
+<!-- BESTHISTORY_SEO_STEP27_CN_GUIDES_START -->
+## 想找以前访问过、但已经忘记名字的网站？
+
+BestHistory 主要解决的不是“把 Chrome 历史记录换个皮肤”，而是几个非常具体的问题：**怎么搜索很久以前的 Chrome 历史记录、怎么找回曾经访问过但已经忘记名称的网站，以及怎么按照网站而不是几万条页面记录来整理浏览历史。**
+
+- [怎么搜索很久以前的 Chrome 历史记录](docs/zh-CN/guides/search-old-chrome-history.md)
+- [怎么找回以前访问过、但已经忘记名字的网站](docs/zh-CN/guides/find-website-you-visited-before.md)
+- [Chrome 历史记录管理器应该解决什么问题](docs/zh-CN/guides/chrome-history-manager.md)
+- [English browser-history guides](docs/en/guides/index.md)
+
+<!-- BESTHISTORY_SEO_STEP27_CN_GUIDES_END -->
 
 ## Beta 安装
 

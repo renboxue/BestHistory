@@ -23,20 +23,6 @@
   <a href="../LANGUAGES.md">Documentation in 18 languages</a>
 </p>
 
-<!-- BESTHISTORY_SEO_STEP27_GUIDES_START -->
-## Trying to find something in old Chrome history?
-
-BestHistory is designed for the moments when you remember **the website or what you used it for**, but not the exact page title or date. These practical guides cover the most common browser-history problems:
-
-- [How to search old Chrome history](guides/search-old-chrome-history.md)
-- [How to find a website you visited before but forgot](guides/find-website-you-visited-before.md)
-- [How to organize Chrome history by website](guides/organize-browser-history-by-website.md)
-- [Browser history manager: what to look for beyond Chrome's default history](guides/browser-history-manager.md)
-- [How to save incognito history privately when you choose to](guides/save-incognito-history-privately.md)
-- [Looking for a BetterHistory / Better History alternative?](guides/betterhistory-alternative.md)
-
-<!-- BESTHISTORY_SEO_STEP27_GUIDES_END -->
-
 ---
 
 ## A note from the developer: why BestHistory exists
@@ -303,6 +289,23 @@ Please do not include private URLs, private browsing records, passwords, backup 
 Thank you for reading this far — and for giving BestHistory a try.
 
 ---
+
+
+---
+
+<!-- BESTHISTORY_SEO_STEP27_GUIDES_START -->
+## Trying to find something in old Chrome history?
+
+BestHistory is designed for the moments when you remember **the website or what you used it for**, but not the exact page title or date. These practical guides cover the most common browser-history problems:
+
+- [How to search old Chrome history](guides/search-old-chrome-history.md)
+- [How to find a website you visited before but forgot](guides/find-website-you-visited-before.md)
+- [How to organize Chrome history by website](guides/organize-browser-history-by-website.md)
+- [Browser history manager: what to look for beyond Chrome's default history](guides/browser-history-manager.md)
+- [How to save incognito history privately when you choose to](guides/save-incognito-history-privately.md)
+- [Looking for a BetterHistory / Better History alternative?](guides/betterhistory-alternative.md)
+
+<!-- BESTHISTORY_SEO_STEP27_GUIDES_END -->
 
 ## Beta installation
 

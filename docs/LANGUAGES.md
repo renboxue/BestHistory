@@ -1,3 +1,8 @@
+---
+layout: default
+title: Languages
+---
+
 # BestHistory — 18 种语言文档 / Documentation in 18 Languages
 
 BestHistory 的公开文档与 v0.1.0 Beta Release Note 已提供以下 18 种语言版本。

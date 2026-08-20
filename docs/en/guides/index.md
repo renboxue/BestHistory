@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Browser History Guides - BestHistory
+title: Guides
 description: Practical guides for searching old Chrome history, finding forgotten websites, organizing browser history, and comparing browser history managers.
 ---
 
