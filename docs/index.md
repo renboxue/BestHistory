@@ -10,6 +10,8 @@ description: Search old Chrome history, find websites you visited before but for
 
 BestHistory is a privacy-first **Chrome browser history manager** that organizes browsing history by **website first**. It is designed for the common situation where you remember what a website was for, but not its name, page title, or the exact day you visited it.
 
+[Privacy Policy](en/PRIVACY.md) · [Terms of Service](en/TERMS.md) · [Documentation](en/README.md)
+
 ![BestHistory website-first browser history manager](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
 ## What BestHistory helps you do
