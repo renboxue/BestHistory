@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex,nofollow" />
+  <title>BestHistory Pro — Paddle Sandbox Test</title>
+  <meta name="description" content="BestHistory Pro Paddle sandbox checkout test page." />
+  <script src="https://cdn.paddle.com/paddle/v2/paddle.js"></script>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f6f7fb;
+      --card: #ffffff;
+      --text: #182033;
+      --muted: #667085;
+      --border: #e5e7eb;
+      --accent: #4f46e5;
+      --accent2: #7c3aed;
+      --ok: #067647;
+      --warn-bg: #fff7ed;
+      --warn-border: #fed7aa;
+      --warn-text: #9a3412;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+    .wrap { max-width: 1080px; margin: 0 auto; padding: 42px 20px 64px; }
+    .top { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 28px; }
+    .brand { font-weight: 800; font-size: 20px; }
+    .back { color: var(--accent); text-decoration: none; font-size: 14px; }
+    .notice {
+      border: 1px solid var(--warn-border);
+      background: var(--warn-bg);
+      color: var(--warn-text);
+      border-radius: 14px;
+      padding: 14px 16px;
+      margin-bottom: 34px;
+      line-height: 1.5;
+      font-size: 14px;
+    }
+    h1 { margin: 0; font-size: clamp(34px, 5vw, 56px); line-height: 1.05; letter-spacing: -0.04em; }
+    .lead { max-width: 700px; margin: 14px auto 38px; color: var(--muted); font-size: 17px; line-height: 1.6; }
+    .hero { text-align: center; }
+    .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 28px;
+      box-shadow: 0 8px 30px rgba(16, 24, 40, .06);
+      display: flex;
+      flex-direction: column;
+      min-height: 360px;
+    }
+    .card.featured { border: 2px solid var(--accent); position: relative; }
+    .badge {
+      position: absolute;
+      top: -13px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      color: white;
+      padding: 6px 12px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    .plan { font-size: 20px; font-weight: 800; margin-bottom: 12px; }
+    .price { font-size: 42px; font-weight: 850; letter-spacing: -0.04em; }
+    .period { color: var(--muted); font-size: 14px; margin-top: 4px; }
+    .saving { color: var(--ok); font-size: 13px; font-weight: 700; margin-top: 8px; min-height: 20px; }
+    ul { padding-left: 20px; color: var(--muted); line-height: 1.8; flex: 1; }
+    button {
+      border: 0;
+      border-radius: 12px;
+      padding: 13px 16px;
+      font: inherit;
+      font-weight: 750;
+      cursor: pointer;
+      background: #111827;
+      color: white;
+      width: 100%;
+    }
+    .featured button { background: linear-gradient(135deg, var(--accent), var(--accent2)); }
+    button:disabled { opacity: .55; cursor: wait; }
+    #status { margin-top: 24px; text-align: center; min-height: 24px; color: var(--muted); font-size: 14px; }
+    .foot { text-align: center; margin-top: 34px; color: var(--muted); font-size: 13px; line-height: 1.6; }
+    @media (max-width: 820px) { .grid { grid-template-columns: 1fr; } .card { min-height: 0; } }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <div class="top">
+      <div class="brand">BestHistory</div>
+      <a class="back" href="/">Back to BestHistory</a>
+    </div>
+
+    <div class="notice">
+      <strong>Sandbox test page.</strong> Paddle is running in test mode. No real money will be charged. This page is intentionally excluded from search indexing while the payment integration is being tested.
+    </div>
+
+    <section class="hero">
+      <h1>BestHistory Pro</h1>
+      <p class="lead">Test the three Paddle Sandbox checkout flows before the real payment and entitlement integration is enabled.</p>
+    </section>
+
+    <section class="grid" aria-label="BestHistory Pro test plans">
+      <article class="card">
+        <div class="plan">Monthly</div>
+        <div class="price">$2.99</div>
+        <div class="period">per month · auto-renews</div>
+        <div class="saving"></div>
+        <ul>
+          <li>BestHistory Pro access</li>
+          <li>Monthly recurring subscription</li>
+          <li>Cancel before the next renewal</li>
+        </ul>
+        <button type="button" data-price="pri_01m0y8qr1c3ffr964bp7a9ss1t">Test Monthly Checkout</button>
+      </article>
+
+      <article class="card featured">
+        <div class="badge">Save about 30%</div>
+        <div class="plan">Annual</div>
+        <div class="price">$24.99</div>
+        <div class="period">per year · auto-renews</div>
+        <div class="saving">About $2.08/month</div>
+        <ul>
+          <li>BestHistory Pro access</li>
+          <li>Yearly recurring subscription</li>
+          <li>Lower effective monthly price</li>
+        </ul>
+        <button type="button" data-price="pri_01m0y8v82sxexbwyety9276pzr">Test Annual Checkout</button>
+      </article>
+
+      <article class="card">
+        <div class="plan">Lifetime</div>
+        <div class="price">$59.99</div>
+        <div class="period">one-time payment</div>
+        <div class="saving">No recurring charge</div>
+        <ul>
+          <li>BestHistory Pro access</li>
+          <li>One-time purchase</li>
+          <li>No subscription renewal</li>
+        </ul>
+        <button type="button" data-price="pri_01m0y8xm16wg5ghbpn9edghjf1">Test Lifetime Checkout</button>
+      </article>
+    </section>
+
+    <div id="status" role="status" aria-live="polite"></div>
+    <div class="foot">Sandbox checkout only. Real purchases are not enabled on this page.</div>
+  </main>
+
+  <script>
+    const statusEl = document.getElementById('status');
+    const buttons = Array.from(document.querySelectorAll('[data-price]'));
+
+    function setBusy(busy) {
+      buttons.forEach((button) => { button.disabled = busy; });
+    }
+
+    try {
+      Paddle.Environment.set('sandbox');
+      Paddle.Initialize({
+        token: 'test_b87d133e3906a5974c5a3d9c5bc',
+        eventCallback: function (event) {
+          if (event && event.name === 'checkout.completed') {
+            statusEl.textContent = 'Sandbox checkout completed successfully. Next we will verify the transaction in Paddle.';
+          }
+          if (event && (event.name === 'checkout.closed' || event.name === 'checkout.error')) {
+            setBusy(false);
+          }
+        }
+      });
+
+      buttons.forEach((button) => {
+        button.addEventListener('click', () => {
+          const priceId = button.dataset.price;
+          statusEl.textContent = 'Opening Paddle Sandbox Checkout…';
+          setBusy(true);
+          try {
+            Paddle.Checkout.open({
+              items: [{ priceId, quantity: 1 }],
+              settings: {
+                displayMode: 'overlay',
+                variant: 'one-page',
+                theme: 'light',
+                locale: 'en'
+              }
+            });
+            window.setTimeout(() => setBusy(false), 1200);
+          } catch (error) {
+            console.error(error);
+            statusEl.textContent = 'Checkout could not be opened. Check the browser console for the Paddle error.';
+            setBusy(false);
+          }
+        });
+      });
+    } catch (error) {
+      console.error(error);
+      statusEl.textContent = 'Paddle.js could not be initialized. Check the browser console for details.';
+      setBusy(false);
+    }
+  </script>
+</body>
+</html>
