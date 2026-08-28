@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="{% if page.lang == 'zh-CN' %}zh-CN{% else %}en{% endif %}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <link rel="icon" href="https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/besthistory-icon.png">
+</head>
+<body>
+  <header class="site-header" role="banner">
+    <div class="wrapper bh-nav-wrap">
+      <a class="site-title" rel="author" href="{% if page.lang == 'zh-CN' %}/zh-CN/{% else %}/{% endif %}">BestHistory</a>
+      <nav class="bh-nav" aria-label="Main navigation">
+        {% if page.lang == 'zh-CN' %}
+          <a href="/zh-CN/story/">为什么做 BestHistory</a>
+          <a href="/zh-CN/guides/">使用指南</a>
+          <a href="/zh-CN/faq/">常见问题</a>
+          <a href="/zh-CN/privacy/">隐私</a>
+          <a class="bh-nav-lang" href="/">English</a>
+        {% else %}
+          <a href="/story/">Why I built BestHistory</a>
+          <a href="/en/guides/">Guides</a>
+          <a href="/LANGUAGES.html">Languages</a>
+          <a href="https://github.com/renboxue/BestHistory">GitHub</a>
+          <a class="bh-nav-lang" href="/zh-CN/">简体中文</a>
+        {% endif %}
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer h-card">
+    <div class="wrapper bh-footer-grid">
+      <div>
+        <strong>BestHistory</strong>
+        <p>{% if page.lang == 'zh-CN' %}把浏览历史变成真正能重新找回的网站工具箱。{% else %}Turn browser history into a website memory tool you can actually reuse.{% endif %}</p>
+      </div>
+      <div class="bh-footer-nav">
+        {% if page.lang == 'zh-CN' %}
+          <a href="/zh-CN/">首页</a>
+          <a href="/zh-CN/install/">安装</a>
+          <a href="/zh-CN/faq/">常见问题</a>
+          <a href="/zh-CN/security/">安全</a>
+          <a href="/zh-CN/privacy/">隐私</a>
+          <a href="/zh-CN/terms/">条款</a>
+          <a href="https://github.com/renboxue/BestHistory">GitHub</a>
+        {% else %}
+          <a href="/">Home</a>
+          <a href="/story/">Story</a>
+          <a href="/en/guides/">Guides</a>
+          <a href="/privacy/">Privacy</a>
+          <a href="/terms/">Terms</a>
+          <a href="https://github.com/renboxue/BestHistory">GitHub</a>
+        {% endif %}
+      </div>
+      <div class="bh-footer-copy">© 2026 BestHistory · besthistory@126.com</div>
+    </div>
+  </footer>
+</body>
+</html>
