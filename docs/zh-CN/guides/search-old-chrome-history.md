@@ -2,7 +2,10 @@
 layout: default
 title: 怎么搜索很久以前的 Chrome 历史记录
 description: 忘记网页标题或访问时间时，如何搜索旧的 Chrome 历史记录，并通过网站、域名、标签、备注和页面标题找回以前访问过的网站。
+lang: zh-CN
 ---
+
+<div class="bh-doc-page" markdown="1">
 
 # 怎么搜索很久以前的 Chrome 历史记录
 
@@ -24,4 +27,6 @@ BestHistory 会先按照**网站**聚合浏览历史，再在网站下面保留�
 
 BestHistory 支持搜索网站、域名、标签、备注和页面标题，让同一条历史有更多找回路径。
 
-BestHistory **v1.0.0 已正式发布**，Chrome Web Store 商店版本即将上线。[了解 BestHistory](https://github.com/renboxue/BestHistory#readme)。
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="/zh-CN/">了解 BestHistory</a><a class="bh-btn bh-btn-secondary" href="/zh-CN/guides/">返回中文指南</a></div>
+
+</div>
