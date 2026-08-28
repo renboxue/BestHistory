@@ -99,9 +99,9 @@ body {
 }
 
 .bh-hero h1 {
-  font-size: clamp(2.6rem, 6vw, 5.4rem);
-  line-height: .98;
-  letter-spacing: -.055em;
+  font-size: clamp(2.35rem, 5.2vw, 4.75rem);
+  line-height: 1.02;
+  letter-spacing: -.05em;
   margin: 0 auto 24px;
   max-width: 980px;
 }
@@ -192,9 +192,9 @@ body {
 }
 
 .bh-section h2 {
-  font-size: clamp(2rem, 4vw, 3.25rem);
-  line-height: 1.08;
-  letter-spacing: -.04em;
+  font-size: clamp(1.85rem, 3.4vw, 2.85rem);
+  line-height: 1.12;
+  letter-spacing: -.035em;
   margin: 0 0 18px;
 }
 
@@ -280,9 +280,9 @@ body {
 }
 
 .bh-quote {
-  font-size: clamp(1.8rem, 4vw, 3.2rem);
-  line-height: 1.18;
-  letter-spacing: -.035em;
+  font-size: clamp(1.65rem, 3.4vw, 2.75rem);
+  line-height: 1.22;
+  letter-spacing: -.03em;
   font-weight: 760;
   margin-bottom: 28px;
 }
@@ -335,18 +335,18 @@ body {
 
 .bh-story-page h1,
 .bh-doc-page h1 {
-  font-size: clamp(2.35rem, 5vw, 4.5rem);
-  line-height: 1.06;
-  letter-spacing: -.045em;
+  font-size: clamp(2.15rem, 4.4vw, 3.9rem);
+  line-height: 1.08;
+  letter-spacing: -.04em;
   margin-bottom: 28px;
 }
 
 .bh-story-page h2,
 .bh-doc-page h2 {
   margin-top: 52px;
-  font-size: 1.85rem;
-  line-height: 1.25;
-  letter-spacing: -.025em;
+  font-size: 1.75rem;
+  line-height: 1.28;
+  letter-spacing: -.02em;
 }
 
 .bh-story-page p,
@@ -382,6 +382,22 @@ body {
   border: 1px solid var(--bh-line);
   border-radius: 16px;
   box-shadow: 0 18px 52px rgba(37,49,69,.10);
+}
+
+.bh-install-box {
+  margin: 34px 0;
+  padding: 26px 28px;
+  border: 1px solid #d9dcf6;
+  border-radius: 18px;
+  background: #f7f7ff;
+}
+
+.bh-install-box h2 {
+  margin-top: 0;
+}
+
+.bh-install-box blockquote {
+  background: #fff;
 }
 
 .site-footer {
@@ -435,6 +451,7 @@ body {
   .bh-section { padding: 58px 0; }
   .bh-shot-hero { margin-bottom: 58px; }
   .bh-privacy { padding-left: 18px; padding-right: 18px; }
+  .bh-install-box { padding: 20px; }
   .bh-btn { width: 100%; }
   .bh-footer-nav { justify-content: flex-start; }
 }
