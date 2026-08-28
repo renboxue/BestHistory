@@ -2,53 +2,63 @@
 layout: default
 title: BestHistory Terms of Service
 permalink: /terms/
+description: BestHistory Terms of Service covering accounts, trials, pricing, subscriptions, refunds, acceptable use, privacy, and the operating entity.
 ---
 
-# BestHistory 服务条款
+<div class="bh-doc-page" markdown="1">
 
-_Last updated: 2026-08-27_
+# BestHistory Terms of Service
 
-使用 BestHistory 即表示你同意本条款。BestHistory 是一款浏览器历史整理工具，核心功能以本地数据处理为主。
+**Last updated: 2026-08-28**
 
-## 账户与试用
+These Terms of Service apply to BestHistory, operated by **Beijing Boxue Zhiban Software Development Studio**. By using BestHistory, you agree to these terms.
 
-使用本地核心功能无需注册账户。登录用于 Pro Trial、Pro 权益和支付关联。新账户当前提供 30 天 Pro Trial；我们可以在未来版本中调整新用户试用政策，但不会追溯缩短已经授予的有效试用期。
+BestHistory is a browser-history organization and recall tool. Its core browsing-history database is designed to remain local on the user's device.
 
-## 付费计划
+## Accounts and trial
 
-- 月付：**$2.99/月**，自动续费；
-- 年付：**$24.99/年**，自动续费；
-- 终身版：**$59.99 一次性付款**，无自动续费。
+An account is not required for the core local history-management features.
 
-订阅会持续到取消为止。终身版指在 BestHistory 产品持续运营和技术上可提供的生命周期内提供对应 Pro 权益，不构成对软件永久运营的保证。
+Signing in is mainly used for the Pro Trial, Pro entitlements, and purchase association. New accounts currently receive a 30-day Pro Trial. We may change the trial offered to future new users, but we will not retroactively shorten a trial period that has already been granted.
 
-## 支付、取消与退款
+## Paid plans
 
-支付由 Paddle 处理，Paddle 是 Merchant of Record；Google 不是卖家。月付和年付可通过 Paddle 提供的客户门户或付款邮件中的管理链接取消，通常在当前计费周期结束时停止后续续费。退款请求由 Paddle 的买家支持和适用的退款政策处理；如遇产品故障也可先联系 **besthistory@126.com**。
+BestHistory Pro is currently offered as:
 
-## 合理使用
+- **$2.99/month**, recurring automatically until canceled;
+- **$24.99/year**, recurring automatically until canceled;
+- **$59.99 Lifetime**, a one-time purchase with no automatic renewal.
 
-不得利用 BestHistory 进行违法活动、攻击服务、绕过权益控制、批量滥用 AI 或支付接口、逆向获取密钥，或侵犯他人权利。
+“Lifetime” means access to the applicable BestHistory Pro entitlement for the commercially and technically supported lifetime of the BestHistory product. It is not a guarantee that the software or any third-party service will operate forever.
 
-## 服务变化
+## Payments, cancellation and refunds
 
-BestHistory 是独立开发产品，功能、价格、支持范围和第三方服务可能随版本变化。我们会尽量保持数据格式和服务器接口向后兼容，并在重大数据实践变化时提供清晰说明。
+Payments are processed by **Paddle**, which acts as the Merchant of Record. Google is not the seller of BestHistory Pro.
 
-## 隐私
+Monthly and yearly subscriptions may be canceled through Paddle's customer portal or the subscription-management link in Paddle payment emails. Cancellation normally stops future renewals at the end of the current paid billing period.
 
-使用 BestHistory 同时受 [隐私说明](PRIVACY.md) 约束。
+Refunds are handled according to our [Refund Policy](/refund/), Paddle's applicable refund policy, and mandatory consumer law.
 
-## 免责声明
+## Acceptable use
 
-软件按“现状”和“可用”提供。在法律允许的最大范围内，不保证服务永不中断、所有历史记录都能被恢复、AI 输出始终准确，或第三方服务始终可用。重要数据请自行保留备份。
+You must not use BestHistory to conduct unlawful activity, attack the service, bypass entitlement controls, abuse AI or payment interfaces at scale, attempt to obtain server-side secrets, or infringe the rights of others.
 
-## 联系
+## Service changes
+
+BestHistory is an independently developed product. Features, pricing, support scope, integrations, and third-party services may change over time. We aim to preserve reasonable backward compatibility for data formats and server interfaces and to communicate material changes to data practices clearly.
+
+## Privacy
+
+Use of BestHistory is also governed by the [BestHistory Privacy Notice](/privacy/).
+
+## Disclaimer
+
+BestHistory is provided on an “as is” and “as available” basis. To the maximum extent permitted by law, we do not guarantee uninterrupted availability, successful recovery of every historical record, perfect AI accuracy, or permanent availability of third-party services. Please keep your own backups of important data.
+
+## Contact
 
 **besthistory@126.com**
 
-如翻译版本与英文版本在法律含义上存在冲突，以英文版本为准。
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-secondary" href="/privacy/">Privacy Notice</a><a class="bh-btn bh-btn-secondary" href="/refund/">Refund Policy</a><a class="bh-btn bh-btn-primary" href="/">Back to BestHistory</a></div>
 
-
----
-
-[18-language documentation](../LANGUAGES.md) · [Privacy Notice](../privacy/)
+</div>
