@@ -1,38 +1,37 @@
 ---
 layout: default
-title: Install BestHistory v1.0
-description: BestHistory installation guide for Chrome Web Store, GitHub manual installation, Developer Mode, incognito permission, and updates.
+title: Install BestHistory v1.0.0
+description: BestHistory v1.0.0 installation guide for GitHub manual installation, Developer Mode, Chrome Web Store, incognito permission, and updates.
 permalink: /en/install/
 lang: en
 ---
 
 <div class="bh-doc-page" markdown="1">
 
-# Install BestHistory v1.0
+# Install BestHistory v1.0.0
 
-The recommended way to install BestHistory is the **Chrome Web Store**. Once the store listing is live, that will be the easiest option and Chrome will handle updates automatically.
-
-The Chrome Web Store listing is still on the way. If you want to try BestHistory now, **GitHub Releases** is available as a manual-install path.
+BestHistory v1.0.0 is now available on **GitHub Releases**. Chrome Web Store publication is still in progress, so GitHub is currently the way to try the official v1.0 release.
 
 <div class="bh-install-box" markdown="1">
 
-## Want to try it now? Install from GitHub
+## Install v1.0.0 from GitHub now
 
-1. Open [BestHistory GitHub Releases](https://github.com/renboxue/BestHistory/releases) and download the Chrome / Chromium package currently provided there.
-2. If the download is a `.zip`, extract it to a folder you will not accidentally delete.
-3. Open `chrome://extensions/` in Chrome.
-4. Turn on **Developer mode** in the top-right corner.
-5. Click **Load unpacked**.
-6. Choose the extracted BestHistory folder that contains `manifest.json`.
-7. Optionally pin BestHistory from the extensions menu, then click its toolbar icon to open it.
+1. Open [BestHistory v1.0.0 on GitHub Releases](https://github.com/renboxue/BestHistory/releases/tag/v1.0.0).
+2. Download `BestHistory-v1.0.0-chrome.zip`.
+3. Extract the ZIP to a folder you will not accidentally delete.
+4. Open `chrome://extensions/` in Chrome.
+5. Turn on **Developer mode** in the top-right corner.
+6. Click **Load unpacked**.
+7. Choose the extracted BestHistory folder that contains `manifest.json`.
+8. Optionally pin BestHistory from the extensions menu, then click its toolbar icon to open it.
 
-> Manual installation is useful for early access and testing. Unlike a Chrome Web Store installation, a manually loaded build usually does not update automatically. When a new build is available, return to GitHub Releases and install the newer package.
+> A manually installed build does not update automatically like a Chrome Web Store installation. When a new release is available, return to GitHub Releases and install the newer package.
 
 </div>
 
 ## After the Chrome Web Store listing is live
 
-For most users, the store version will become the recommended route:
+For most users, the store version will become the recommended route because installation and future updates are automatic:
 
 1. Open the Chrome Web Store.
 2. Search for **BestHistory**.
@@ -41,9 +40,9 @@ For most users, the store version will become the recommended route:
 
 ## Why keep GitHub installation as a second path?
 
-GitHub is not only a temporary option while the Chrome Web Store listing is pending. If BestHistory later ships Edge, Firefox, or other browser builds, GitHub Releases can remain a useful home for preview packages, standalone builds, and release notes.
+GitHub is also useful beyond the current Chrome Web Store rollout. If BestHistory later ships Edge, Firefox, or other browser builds, GitHub Releases can remain a home for preview packages, standalone builds, and release notes.
 
-The long-term installation model is therefore:
+The long-term installation model is:
 
 - **Official browser stores** — recommended for most users and automatic updates;
 - **GitHub Releases** — early access, testing, and future browser-specific builds.
@@ -60,10 +59,10 @@ This permission is optional. BestHistory cannot enable it on your behalf.
 
 ## Updates and backup
 
-Chrome Web Store installations update automatically. GitHub manual installations require you to install newer builds yourself.
+Chrome Web Store installations update automatically. GitHub manual installations require you to install newer releases yourself.
 
 Before major upgrades, keeping a `.bhbackup` file is still recommended.
 
-<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://github.com/renboxue/BestHistory/releases">Open GitHub Releases</a><a class="bh-btn bh-btn-secondary" href="/">Back to the homepage</a></div>
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://github.com/renboxue/BestHistory/releases/tag/v1.0.0">Download BestHistory v1.0.0</a><a class="bh-btn bh-btn-secondary" href="/">Back to the homepage</a></div>
 
 </div>
