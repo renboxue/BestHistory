@@ -7,11 +7,14 @@ lang: zh-CN
 ---
 
 <div class="bh-hero">
-  <div class="bh-eyebrow">BESTHISTORY · v1.0</div>
+  <div class="bh-eyebrow">BESTHISTORY · v1.0.0 已发布</div>
   <h1>放心关掉那些“怕以后找不到”的标签页。</h1>
   <p class="bh-lead">浏览器记住的是一条条页面记录，<strong>BestHistory 想帮你记住的是：你以前到底用过哪些网站。</strong> 即使你已经忘了名字，只记得“它是干什么的”，也尽量把它重新找回来。</p>
-  <div class="bh-actions"><a class="bh-btn bh-btn-primary" href="https://github.com/renboxue/BestHistory">在 GitHub 查看 BestHistory ★</a><a class="bh-btn bh-btn-secondary" href="/zh-CN/story/">为什么我做了 BestHistory</a></div>
-  <p class="bh-trust">本地优先 · 支持 18 种界面语言 · 私密模式本机加密 · 新账户 30 天 Pro 试用</p>
+  <div class="bh-actions">
+    <a class="bh-btn bh-btn-primary" href="https://github.com/renboxue/BestHistory/releases/tag/v1.0.0">在 GitHub 下载 v1.0</a>
+    <a class="bh-btn bh-btn-secondary" href="/zh-CN/install/">查看安装说明</a>
+  </div>
+  <p class="bh-trust">本地优先 · 支持 18 种界面语言 · 私密模式本机加密 · 新账户 30 天 Pro 试用 · Chrome Web Store 上线中</p>
 </div>
 
 <div class="bh-shot bh-shot-hero"><img src="https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp" alt="BestHistory 以网站为中心的浏览历史首页"></div>
@@ -28,10 +31,10 @@ lang: zh-CN
 
 <section class="bh-section bh-story"><div class="bh-quote">“我并不需要另一条更漂亮的历史记录列表。我只是希望：以后真正需要的时候，还能把那个网站找回来。”</div><p>BestHistory 最初就是因为一个很普通的问题做出来的：标签页越来越多，收藏夹越来越乱，历史记录越来越长，但真正想找某个以前用过的网站时，还是经常找不到。</p><div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="/zh-CN/story/">读完整开发者故事 →</a><a class="bh-btn bh-btn-secondary" href="https://github.com/renboxue/BestHistory">在 GitHub Star / 关注 BestHistory ★</a></div></section>
 
-<section class="bh-section"><div class="bh-section-heading"><span class="bh-kicker">BESTHISTORY PRO</span><h2>简单清楚的价格，新账户目前有 30 天 Pro 试用。</h2></div><div class="bh-grid bh-grid-3 bh-pricing"><div class="bh-card"><span>月付</span><strong>$2.99</strong><small>每月</small></div><div class="bh-card bh-card-accent"><span>年付</span><strong>$24.99</strong><small>每年</small></div><div class="bh-card"><span>终身版</span><strong>$59.99</strong><small>一次性付款</small></div></div><p class="bh-fine">支付由 Paddle 作为 Merchant of Record 处理。Chrome Web Store 商店版本即将上线。</p></section>
+<section class="bh-section"><div class="bh-section-heading"><span class="bh-kicker">BESTHISTORY PRO</span><h2>简单清楚的价格，新账户目前有 30 天 Pro 试用。</h2></div><div class="bh-grid bh-grid-3 bh-pricing"><div class="bh-card"><span>月付</span><strong>$2.99</strong><small>每月</small></div><div class="bh-card bh-card-accent"><span>年付</span><strong>$24.99</strong><small>每年</small></div><div class="bh-card"><span>终身版</span><strong>$59.99</strong><small>一次性付款</small></div></div><p class="bh-fine">支付由 Paddle 作为 Merchant of Record 处理。Chrome Web Store 正在上线中；BestHistory v1.0.0 目前已经可以从 GitHub 手动安装。</p></section>
 
-<section class="bh-section bh-languages"><div class="bh-section-heading"><span class="bh-kicker">18 种语言</span><h2>BestHistory 已经支持 18 种界面语言。</h2><p>新版营销官网会逐步把同样的产品叙事扩展到其他语言版本，简体中文和英文先作为完整版本。</p></div><p class="bh-language-list">简体中文 · 繁體中文 · English · 日本語 · 한국어 · Español · Português · Français · Deutsch · Italiano · Nederlands · Русский · العربية · हिन्दी · Bahasa Indonesia · Türkçe · বাংলা · Tiếng Việt</p><div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-secondary" href="/LANGUAGES.html">查看全部语言文档</a></div></section>
+<section class="bh-section bh-languages"><div class="bh-section-heading"><span class="bh-kicker">18 种语言</span><h2>BestHistory 已经支持 18 种界面语言。</h2><p>产品本身支持 18 种界面语言。考虑到 BestHistory、支付和官网最近仍在频繁调整，完整营销官网目前先维护 English / 简体中文两套；等产品更稳定后，再补其他语言版本。</p></div><p class="bh-language-list">简体中文 · 繁體中文 · English · 日本語 · 한국어 · Español · Português · Français · Deutsch · Italiano · Nederlands · Русский · العربية · हिन्दी · Bahasa Indonesia · Türkçe · বাংলা · Tiếng Việt</p><div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-secondary" href="/LANGUAGES.html">查看全部语言文档</a></div></section>
 
-<section class="bh-section bh-final"><span class="bh-kicker">BESTHISTORY v1.0</span><h2>别再因为“以后可能找不到”而一直留着标签页。</h2><p>把浏览历史变成一个真正可以重新利用的网站工具箱。</p><div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://github.com/renboxue/BestHistory">在 GitHub 查看 BestHistory ★</a><a class="bh-btn bh-btn-secondary" href="/zh-CN/guides/">阅读中文指南</a></div></section>
+<section class="bh-section bh-final"><span class="bh-kicker">BESTHISTORY v1.0.0</span><h2>别再因为“以后可能找不到”而一直留着标签页。</h2><p>BestHistory v1.0.0 已经可以从 GitHub Releases 下载，Chrome Web Store 商店版本正在上线中。</p><div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://github.com/renboxue/BestHistory/releases/tag/v1.0.0">在 GitHub 下载 v1.0</a><a class="bh-btn bh-btn-secondary" href="/zh-CN/install/">怎么安装</a></div></section>
 
-<div class="bh-footer-links"><a href="/zh-CN/">简体中文首页</a> · <a href="/">English</a> · <a href="https://github.com/renboxue/BestHistory">GitHub</a> · <a href="https://github.com/renboxue/BestHistory/issues">问题反馈</a> · <a href="/zh-CN/privacy/">隐私</a> · <a href="/zh-CN/terms/">条款</a> · <a href="/zh-CN/refund/">退款</a> · <a href="mailto:besthistory@126.com">支持</a></div>
+<div class="bh-footer-links"><a href="/zh-CN/">简体中文首页</a> · <a href="/">English</a> · <a href="https://github.com/renboxue/BestHistory">GitHub</a> · <a href="https://github.com/renboxue/BestHistory/releases/tag/v1.0.0">v1.0 Release</a> · <a href="https://github.com/renboxue/BestHistory/issues">问题反馈</a> · <a href="/zh-CN/privacy/">隐私</a> · <a href="/zh-CN/terms/">条款</a> · <a href="/zh-CN/refund/">退款</a> · <a href="mailto:besthistory@126.com">支持</a></div>
