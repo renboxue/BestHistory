@@ -3,9 +3,10 @@ layout: default
 title: Why I built BestHistory
 permalink: /story/
 description: The personal story behind BestHistory — why a browser-history tool should help you remember websites, not just display a longer list of pages.
+lang: en
 ---
 
-<div class="bh-story-page">
+<div class="bh-story-page" markdown="1">
 
 <span class="bh-kicker">WHY BESTHISTORY EXISTS</span>
 
