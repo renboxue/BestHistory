@@ -2,7 +2,10 @@
 layout: default
 title: Chrome 历史记录管理器应该解决什么问题
 description: Chrome 历史记录管理插件除了换界面，还可以改进搜索、按网站聚合、标签备注、隐私、本地存储、备份和历史找回体验。
+lang: zh-CN
 ---
+
+<div class="bh-doc-page" markdown="1">
 
 # Chrome 历史记录管理器应该解决什么问题
 
@@ -23,4 +26,6 @@ BestHistory 更偏向其中的“**重新找回网站**”：先按照网站聚�
 
 如果你的主要痛点是“我明明以前用过一个很好用的网站，但现在怎么也想不起名字”，这种网站优先的方式会比单纯的页面时间线更接近实际记忆。
 
-[查看 BestHistory](https://github.com/renboxue/BestHistory#readme)。
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="/zh-CN/">了解 BestHistory</a><a class="bh-btn bh-btn-secondary" href="/zh-CN/guides/">返回中文指南</a></div>
+
+</div>
