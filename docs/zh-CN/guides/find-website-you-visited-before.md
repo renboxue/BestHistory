@@ -2,7 +2,10 @@
 layout: default
 title: 怎么找回以前访问过但已经忘记名字的网站
 description: 只记得网站大概是做什么的，却忘记网站名称、网页标题和访问日期时，可以怎样从 Chrome 历史记录里重新找到它。
+lang: zh-CN
 ---
+
+<div class="bh-doc-page" markdown="1">
 
 # 怎么找回以前访问过但已经忘记名字的网站
 
@@ -30,4 +33,6 @@ BestHistory 的核心思路是先把成千上万条页面访问聚合成“我�
 
 以后直接搜索这些自己会说的话，更容易再次找回来。
 
-BestHistory **v1.0.0 已正式发布**，Chrome Web Store 商店版本即将上线。[了解 BestHistory](https://github.com/renboxue/BestHistory#readme)。
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="/zh-CN/">了解 BestHistory</a><a class="bh-btn bh-btn-secondary" href="/zh-CN/guides/">返回中文指南</a></div>
+
+</div>
