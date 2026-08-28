@@ -6,14 +6,14 @@ description: BestHistory turns Chrome history into a website-first memory tool. 
 ---
 
 <div class="bh-hero">
-  <div class="bh-eyebrow">BESTHISTORY · v1.0</div>
+  <div class="bh-eyebrow">BESTHISTORY · v1.0.0 IS OUT</div>
   <h1>Close the tabs you're afraid you'll never find again.</h1>
   <p class="bh-lead">Your browser remembers pages. <strong>BestHistory helps you remember websites.</strong> It turns Chrome history into a website-first memory tool, so you can rediscover something even when you no longer remember its name.</p>
   <div class="bh-actions">
-    <a class="bh-btn bh-btn-primary" href="https://github.com/renboxue/BestHistory">View BestHistory on GitHub ★</a>
-    <a class="bh-btn bh-btn-secondary" href="/story/">Why I built BestHistory</a>
+    <a class="bh-btn bh-btn-primary" href="https://github.com/renboxue/BestHistory/releases/tag/v1.0.0">Download v1.0 on GitHub</a>
+    <a class="bh-btn bh-btn-secondary" href="/en/install/">Installation guide</a>
   </div>
-  <p class="bh-trust">Local-first · 18 interface languages · Private Mode encrypted on your device · 30-day Pro Trial for new accounts</p>
+  <p class="bh-trust">Local-first · 18 interface languages · Private Mode encrypted on your device · 30-day Pro Trial · Chrome Web Store publication in progress</p>
 </div>
 
 <div class="bh-shot bh-shot-hero">
@@ -69,11 +69,11 @@ description: BestHistory turns Chrome history into a website-first memory tool. 
 <section class="bh-section">
   <div class="bh-section-heading"><span class="bh-kicker">BESTHISTORY PRO</span><h2>Simple pricing, with a 30-day Pro Trial for new accounts.</h2></div>
   <div class="bh-grid bh-grid-3 bh-pricing"><div class="bh-card"><span>Monthly</span><strong>$2.99</strong><small>per month</small></div><div class="bh-card bh-card-accent"><span>Yearly</span><strong>$24.99</strong><small>per year</small></div><div class="bh-card"><span>Lifetime</span><strong>$59.99</strong><small>one-time</small></div></div>
-  <p class="bh-fine">Payments are processed by Paddle, the Merchant of Record. Chrome Web Store installation is coming soon.</p>
+  <p class="bh-fine">Payments are processed by Paddle, the Merchant of Record. Chrome Web Store publication is in progress; BestHistory v1.0.0 can be installed manually from GitHub now.</p>
 </section>
 
-<section class="bh-section bh-languages"><div class="bh-section-heading"><span class="bh-kicker">GLOBAL FROM DAY ONE</span><h2>BestHistory already supports 18 interface languages.</h2><p>The full marketing homepage is currently being rebuilt language by language. Product documentation is already available across the supported languages.</p></div><p class="bh-language-list">简体中文 · 繁體中文 · English · 日本語 · 한국어 · Español · Português · Français · Deutsch · Italiano · Nederlands · Русский · العربية · हिन्दी · Bahasa Indonesia · Türkçe · বাংলা · Tiếng Việt</p><div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-secondary" href="/LANGUAGES.html">Browse language documentation</a></div></section>
+<section class="bh-section bh-languages"><div class="bh-section-heading"><span class="bh-kicker">GLOBAL FROM DAY ONE</span><h2>BestHistory already supports 18 interface languages.</h2><p>The product supports 18 interface languages. While BestHistory, checkout, and the website are still changing frequently, the complete marketing website is currently maintained in English and Simplified Chinese. Other full website languages can follow once the product is more stable.</p></div><p class="bh-language-list">简体中文 · 繁體中文 · English · 日本語 · 한국어 · Español · Português · Français · Deutsch · Italiano · Nederlands · Русский · العربية · हिन्दी · Bahasa Indonesia · Türkçe · বাংলা · Tiếng Việt</p><div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-secondary" href="/LANGUAGES.html">Browse language documentation</a></div></section>
 
-<section class="bh-section bh-final"><span class="bh-kicker">BESTHISTORY v1.0</span><h2>Stop keeping tabs open just because you're afraid of losing them.</h2><p>Turn your browser history into something you can actually remember and reuse.</p><div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://github.com/renboxue/BestHistory">View BestHistory on GitHub ★</a><a class="bh-btn bh-btn-secondary" href="/en/guides/">Read the guides</a></div></section>
+<section class="bh-section bh-final"><span class="bh-kicker">BESTHISTORY v1.0.0</span><h2>Stop keeping tabs open just because you're afraid of losing them.</h2><p>BestHistory v1.0.0 is available now on GitHub Releases while Chrome Web Store publication is in progress.</p><div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://github.com/renboxue/BestHistory/releases/tag/v1.0.0">Download v1.0 on GitHub</a><a class="bh-btn bh-btn-secondary" href="/en/install/">How to install</a></div></section>
 
-<div class="bh-footer-links"><a href="https://github.com/renboxue/BestHistory">GitHub</a> · <a href="https://github.com/renboxue/BestHistory/issues">Issues</a> · <a href="https://github.com/renboxue/BestHistory/blob/main/CHANGELOG.md">Changelog</a> · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a> · <a href="/refund/">Refund</a> · <a href="mailto:besthistory@126.com">Support</a></div>
+<div class="bh-footer-links"><a href="https://github.com/renboxue/BestHistory">GitHub</a> · <a href="https://github.com/renboxue/BestHistory/releases/tag/v1.0.0">v1.0 Release</a> · <a href="https://github.com/renboxue/BestHistory/issues">Issues</a> · <a href="https://github.com/renboxue/BestHistory/blob/main/CHANGELOG.md">Changelog</a> · <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a> · <a href="/refund/">Refund</a> · <a href="mailto:besthistory@126.com">Support</a></div>
