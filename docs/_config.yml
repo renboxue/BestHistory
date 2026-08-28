@@ -1,5 +1,5 @@
 title: BestHistory
-description: Privacy-first Chrome browser history manager for searching old browser history, finding forgotten websites, and organizing history by website.
+description: A website-first, privacy-first Chrome browser history manager for finding forgotten websites, searching old browser history, and organizing what you used before.
 url: "https://besthistory.boxuezhiban.cn"
 baseurl: ""
 theme: minima
@@ -9,5 +9,6 @@ plugins:
 markdown: kramdown
 permalink: pretty
 header_pages:
+  - story.md
   - en/guides/index.md
   - LANGUAGES.md
