@@ -2,7 +2,7 @@
 layout: default
 title: BestHistory 服务条款
 permalink: /zh-CN/terms/
-description: BestHistory 简体中文服务条款：账户、试用、付费计划、取消退款、合理使用与免责声明。
+description: BestHistory 简体中文服务条款：账户、试用、付费计划、取消退款、合理使用、隐私与运营主体信息。
 lang: zh-CN
 ---
 
@@ -10,9 +10,11 @@ lang: zh-CN
 
 # BestHistory 服务条款
 
-**最后更新：2026-08-27**
+**最后更新：2026-08-28**
 
-使用 BestHistory 即表示你同意本条款。BestHistory 是一款浏览器历史整理工具，核心功能以本地数据处理为主。
+BestHistory 由 **Beijing Boxue Zhiban Software Development Studio** 运营。使用 BestHistory 即表示你同意本条款。
+
+BestHistory 是一款浏览器历史整理与找回工具，核心浏览历史数据库以本地处理为主。
 
 ## 账户与试用
 
@@ -32,13 +34,11 @@ lang: zh-CN
 
 ## 支付、取消与退款
 
-支付由 Paddle 处理，Paddle 是 Merchant of Record；Google 不是卖家。
+支付由 **Paddle** 处理，Paddle 是 Merchant of Record；Google 不是 BestHistory Pro 的卖家。
 
 月付和年付可以通过 Paddle 提供的客户门户或付款邮件中的管理链接取消，通常会在当前计费周期结束后停止续费。
 
-退款请求由 Paddle 的买家支持和适用退款政策处理；如果遇到产品故障，也可以先联系：
-
-**besthistory@126.com**
+退款按照 [BestHistory 退款政策](/zh-CN/refund/)、Paddle 适用的退款政策以及用户所在地区强制适用的消费者保护法律处理。
 
 ## 合理使用
 
@@ -68,6 +68,6 @@ BestHistory 按“现状”和“可用”提供。
 
 > 如果翻译版本与英文版本在法律含义上存在冲突，以英文版本为准。
 
-<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-secondary" href="/zh-CN/">返回简体中文首页</a></div>
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-secondary" href="/zh-CN/privacy/">隐私说明</a><a class="bh-btn bh-btn-secondary" href="/zh-CN/refund/">退款政策</a><a class="bh-btn bh-btn-primary" href="/zh-CN/">返回 BestHistory</a></div>
 
 </div>
