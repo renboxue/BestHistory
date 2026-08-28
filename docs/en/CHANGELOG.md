@@ -1,41 +1,24 @@
 # Changelog
 
-[← BestHistory](README.md) · [All documentation languages](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
+BestHistory v1.0.0 is the first official release. The Chrome Web Store listing is coming soon.
 
-The first public BestHistory Beta.
+- Website-first history instead of a wall of page entries
+- Search across domains, page titles, tags and your own notes
+- AI Recall that expands a vague memory into local search hypotheses
+- AI website organization that suggests useful tags
+- Private Mode with local encryption and optional incognito capture
+- Single-file backup / restore with safe merge
+- Google sign-in and email-code sign-in
+- 30-day Pro Trial for new accounts
 
-### Core
-- Website-first browser-history aggregation
-- Recent, most visited, alphabetical, pinned, unorganized and Wastebasket views
-- Search across websites, domains, tags, notes and page titles
-- Website detail and recent-page views
-- Custom tags, notes and pinned sites
-- Collapsible website timeline
-- CSV history export
-- Live refresh when BestHistory stays open: websites and timeline update when new history appears, the page becomes visible again, or the window regains focus
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### Privacy & data portability
-- Local-first data processing
-- Pro Private Mode with local AES-256-GCM encrypted private records
-- Optional incognito capture with explicit browser permission
-- Private-site and private-page handling
-- Password change, lock, auto-lock and destructive reset flows
-- Single-file `.bhbackup` backup / restore with safe merge behavior
-- Wastebasket restore, permanent website deletion and clear-Wastebasket actions
+## Earlier beta
 
-### Account & Pro
-- Email OTP account login
-- Server-side entitlement model
-- 30-day Pro trial for newly registered accounts during Beta
-- Local entitlement cache and limited offline grace
-- Background private capture gated by cached Pro / Trial entitlement
-
-### Product polish
-- 18 interface languages
-- Public documentation and release notes in all 18 languages
-- BestHistory brand icon
-- Toolbar click opens BestHistory directly
-- Feedback entry
-- Release preflight and secret scan
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.

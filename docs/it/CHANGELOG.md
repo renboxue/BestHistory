@@ -1,37 +1,24 @@
-# Changelog
+# Novità
 
-[← BestHistory](README.md) · [Tutte le lingue](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
-Prima Beta pubblica di BestHistory.
+BestHistory v1.0.0 è la prima versione ufficiale. La pubblicazione sul Chrome Web Store arriverà a breve.
 
-### Core
-- Cronologia aggregata per sito
-- Recenti, Più visitati, Nome, Fissati, Non organizzati, Cestino
-- Ricerca siti, domini, etichette, note, titoli
-- Dettagli sito e pagine recenti
-- Etichette, note e siti fissati
-- Timeline comprimibile per sito
-- Export CSV
-- Aggiornamento automatico con nuova cronologia, ritorno di visibilità o focus
+- Cronologia per sito invece di un elenco infinito di pagine
+- Ricerca in domini, titoli, tag e note
+- AI Recall trasforma ricordi vaghi in ipotesi di ricerca locale
+- Organizzazione IA e suggerimenti di tag
+- Private Mode con crittografia locale e acquisizione incognito opzionale
+- Backup / ripristino in un file con fusione sicura
+- Accesso Google e codice e-mail
+- 30 giorni di Pro Trial per nuovi account
 
-### Privacy e portabilità
-- Elaborazione local-first
-- Modalità privata Pro con AES-256-GCM locale
-- Cattura incognito opzionale con permesso esplicito
-- Siti/pagine private
-- Cambio password, blocco, auto-blocco, reset distruttivo
-- `.bhbackup` singolo con fusione sicura
-- Ripristino e cancellazione dal Cestino
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### Account e Pro
-- Login OTP e-mail
-- Modello diritti server
-- 30 giorni di prova Pro per nuovi account Beta
-- Cache locale e tolleranza offline limitata
+## Earlier beta
 
-### Rifinitura
-- 18 lingue UI
-- Documentazione e Release Note in 18 lingue
-- Icona, apertura diretta, feedback
-- Controlli release e secret scan
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.

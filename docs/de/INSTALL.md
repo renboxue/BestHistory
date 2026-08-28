@@ -1,23 +1,19 @@
-# BestHistory Beta in Chrome installieren
+# Installation — BestHistory v1.0.0
 
-[← BestHistory](README.md) · [Alle Sprachen](../LANGUAGES.md)
+BestHistory v1.0.0 is distributed through the Chrome Web Store. Once the listing is live, install and update it through the store.
 
-Vor der Veröffentlichung im Chrome Web Store wird die Beta über GitHub Releases verteilt.
+## Install
 
-Download: **https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta**
+1. Open the Chrome Web Store.
+2. Search for **BestHistory**.
+3. Verify the developer and website information, then choose **Add to Chrome**.
+4. Optionally pin BestHistory in the extensions menu.
+5. Click the toolbar icon to open BestHistory.
 
-Datei: `BestHistory-v0.1.0-beta-chrome.zip`
+## Incognito / Private Mode
 
-1. ZIP in einen dauerhaft aufbewahrten Ordner entpacken.
-2. `chrome://extensions/` öffnen.
-3. **Entwicklermodus** aktivieren.
-4. **Entpackte Erweiterung laden** klicken.
-5. Den entpackten BestHistory-Ordner auswählen.
-6. BestHistory bei Bedarf im Erweiterungsmenü anheften.
-7. Das Toolbar-Symbol öffnet die Hauptseite.
+If you want BestHistory Pro to save selected incognito-window visits into encrypted Private Mode, Chrome requires you to explicitly enable **Allow in Incognito** in `chrome://extensions/`. This permission is optional.
 
-## Inkognito / Privatmodus
-Für Inkognito-Aufzeichnung: `chrome://extensions/` → BestHistory-Details → **Im Inkognitomodus zulassen**. Diese Berechtigung ist optional und kann nicht von BestHistory selbst aktiviert werden.
+## Updates
 
-## Manuelles Update
-Eine neue Beta kann das Ersetzen des entpackten Ordners und Neuladen erfordern. Vor frühen Updates empfehlen wir ein `.bhbackup`.
+Chrome automatically updates Chrome Web Store installations. Before major upgrades, keeping a `.bhbackup` file is still recommended.

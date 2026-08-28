@@ -1,23 +1,19 @@
-# BestHistory Beta installeren in Chrome
+# Installatie — BestHistory v1.0.0
 
-[← BestHistory](README.md) · [Alle talen](../LANGUAGES.md)
+BestHistory v1.0.0 is distributed through the Chrome Web Store. Once the listing is live, install and update it through the store.
 
-Voor publicatie in de Chrome Web Store wordt de Beta via GitHub Releases verspreid.
+## Install
 
-Download: **https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta**
+1. Open the Chrome Web Store.
+2. Search for **BestHistory**.
+3. Verify the developer and website information, then choose **Add to Chrome**.
+4. Optionally pin BestHistory in the extensions menu.
+5. Click the toolbar icon to open BestHistory.
 
-Bestand: `BestHistory-v0.1.0-beta-chrome.zip`
+## Incognito / Private Mode
 
-1. Pak de ZIP uit naar een map die je bewaart.
-2. Open `chrome://extensions/`.
-3. Zet **Ontwikkelaarsmodus** aan.
-4. Klik **Uitgepakte extensie laden**.
-5. Kies de uitgepakte BestHistory-map.
-6. Zet BestHistory eventueel vast via het extensiemenu.
-7. Klik op het werkbalkpictogram om de hoofdpagina te openen.
+If you want BestHistory Pro to save selected incognito-window visits into encrypted Private Mode, Chrome requires you to explicitly enable **Allow in Incognito** in `chrome://extensions/`. This permission is optional.
 
-## Incognito / Privémodus
-Voor incognitobezoeken: `chrome://extensions/` → Details BestHistory → **Toestaan in incognito**. Dit is optioneel en BestHistory kan het niet namens jou inschakelen.
+## Updates
 
-## Handmatig bijwerken
-Een nieuwe Beta kan vereisen dat je de uitgepakte map vervangt en de extensie opnieuw laadt. Maak vóór vroege updates bij voorkeur een `.bhbackup`.
+Chrome automatically updates Chrome Web Store installations. Before major upgrades, keeping a `.bhbackup` file is still recommended.

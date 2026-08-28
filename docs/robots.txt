@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://renboxue.github.io/BestHistory/sitemap.xml
+Sitemap: https://besthistory.boxuezhiban.cn/sitemap.xml

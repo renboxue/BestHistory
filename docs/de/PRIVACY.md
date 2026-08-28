@@ -1,28 +1,52 @@
-# BestHistory Datenschutzhinweis
+# Datenschutz
 
-_Letzte Aktualisierung: 2026-08-20_
+_Last updated: 2026-08-27_
 
-[← BestHistory](README.md) · [Alle Sprachen](../LANGUAGES.md)
+Local-first: Die vollständige Verlaufsdatenbank, Private-Mode-Daten und Backups werden nicht auf den BestHistory-Kontoserver hochgeladen. Nur wenn du bewusst eine KI-Funktion nutzt, werden die dafür notwendigen begrenzten Daten an Server und KI-Anbieter übertragen. Details stehen in der Datenschutzerklärung.
 
-BestHistory ist eine Local-first-Browsererweiterung zur Organisation des Browserverlaufs.
+## Local data
 
-## Browsing-Daten
-Verlauf, besuchte URLs, Seitentitel, Website-Metadaten, Tags, Notizen, Sucheingaben und Privatmodus-Daten werden auf dem Gerät verarbeitet und nicht zum BestHistory-Kontoserver hochgeladen.
+- Local-first: Die vollständige Verlaufsdatenbank, Private-Mode-Daten und Backups werden nicht auf den BestHistory-Kontoserver hochgeladen. Nur wenn du bewusst eine KI-Funktion nutzt, werden die dafür notwendigen begrenzten Daten an Server und KI-Anbieter übertragen. Details stehen in der Datenschutzerklärung.
+- BestHistory does not sell user data or use it for personalized advertising.
 
-## Konto und Berechtigungen
-Bei Anmeldung nutzt BestHistory Kontoinfrastruktur, um dein Konto zu erkennen und Free / Trial / Pro zu bestimmen. Dazu können Konto-ID, E-Mail und Authentifizierungsmetadaten, bevorzugte Sprache, Test-/Mitglieds-/Abostatus und Laufzeit sowie künftige Zahlungsanbieter-IDs gehören.
+## Optional AI processing
 
-## Privatmodus
-Private URLs, Titel und Besuche werden auf dem Gerät verschlüsselt. Privatpasswort und entschlüsselte private Daten werden nicht an den Server gesendet.
+AI features are optional and user-initiated. AI Recall may send the search description, existing tags and a small number of local domain/title hints. AI Organize may send domain, display name, current tags, up to 5 recent page titles, visit count and page count. The complete browsing-history database, Private Mode records, page contents and backup files are not sent for AI processing.
 
-## Backups
-Backups werden lokal erstellt und nicht automatisch hochgeladen. Privatmodus-Daten bleiben im Backup verschlüsselt; normale Verlaufsdaten sollten nicht als vollständig verschlüsselt betrachtet werden.
+## Accounts and service providers
 
-## Drittanbieter
-BestHistory nutzt derzeit Supabase für Authentifizierung/Berechtigungen und Amazon SES für Authentifizierungs-E-Mails. Diese Dienste verarbeiten nur für Konto und E-Mail nötige Daten, nicht deinen Browserverlauf.
+Supabase handles authentication, entitlement data and Edge Functions; Google may provide OAuth sign-in; Resend delivers authentication email; Paddle processes purchases as Merchant of Record; Volcano Engine / Doubao Ark processes AI requests.
 
-## Löschung
-Lokale Daten können in der Erweiterung gelöscht werden. Abmelden entfernt die lokale Sitzung, aber nicht absichtlich die lokalen Organisationsdaten. Konto-Löschabläufe können während der Beta erweitert werden.
+Account-side data may include account ID, email, preferred language, trial/plan status, validity dates and payment-provider identifiers. BestHistory does not receive or store full card details.
 
-## Kontakt
-Datenschutz: **besthistory@126.com**
+## Private Mode
+
+Private Mode records are encrypted locally. The Private Mode password and decrypted private records are not sent to BestHistory servers.
+
+## Payments
+
+BestHistory Pro is offered as **$2.99/month**, **$24.99/year**, or a **$59.99 one-time Lifetime** purchase. Paddle processes checkout, tax, receipts, refunds and subscription administration as Merchant of Record. Google is not the seller. BestHistory does not receive or store full payment-card details.
+
+## Sharing and use restrictions
+
+Data is transferred only when necessary to provide the chosen feature, authentication/payment, security, or legal compliance. It is not sold or used for personalized advertising.
+
+## Chrome Web Store Limited Use
+
+> The use of information received from Google APIs will adhere to the Chrome Web Store User Data Policy, including the Limited Use requirements.
+
+BestHistory limits Google/Chrome user data to the disclosed, user-facing purpose of helping you organize, search, privately manage, back up, and rediscover your browser history and related account/entitlement operations.
+
+## Retention and deletion
+
+You can delete local BestHistory data in the extension. To request deletion of server-side account data, contact besthistory@126.com.
+
+## Security
+
+Data sent to BestHistory services is transmitted over HTTPS. Authentication credentials, payment secrets and AI provider secrets are kept server-side and are not included in the extension package.
+
+## Contact
+
+**besthistory@126.com**
+
+> If a translated version differs from the English version on a legal or policy point, the English version controls.

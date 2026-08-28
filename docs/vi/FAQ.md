@@ -1,21 +1,26 @@
 # FAQ
 
-[← BestHistory](README.md) · [Tất cả ngôn ngữ](../LANGUAGES.md)
+## Do I need an account?
+No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
 
-## Có cần tài khoản không?
-Không. Các tính năng local chính hoạt động không cần tài khoản. Tài khoản chủ yếu dùng cho quyền Pro / Trial.
+## Does BestHistory upload my browsing history?
+The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
 
-## BestHistory có upload lịch sử của tôi không?
-Không. Máy chủ tài khoản không lưu lịch sử, URL, tiêu đề, tag, ghi chú, tìm kiếm hoặc bản ghi riêng tư.
+## Does AI read my entire history?
+No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
 
-## Hết trial Pro thì sao?
-Tính năng Pro không dùng được, nhưng dữ liệu riêng tư đã mã hóa vẫn ở trên thiết bị và không bị xóa. Khi Pro hoạt động lại, quyền truy cập trở lại.
+## What does Pro cost?
+$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
 
-## `.bhbackup` có phải snapshot toàn bộ browser không?
-Không. Đây là định dạng chuyển và safe merge dữ liệu BestHistory giữa bản cài đặt, thiết bị hoặc browser. Nó không đưa Chrome trở lại trạng thái cũ.
+## How do cancellation and refunds work?
+Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
 
-## Vì sao quyền incognito tách riêng?
-Chrome yêu cầu người dùng cho phép rõ ràng từng extension. BestHistory không thể bật thay bạn.
+## Where is Private Mode data stored?
+Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
 
-## Source code có open source không?
-Không. Repository công khai này dành cho thông tin sản phẩm, tài liệu, feedback và Beta. Mã nguồn ứng dụng là proprietary.
+## Why isn't the source code on GitHub?
+The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+
+## Contact
+
+Hỗ trợ: besthistory@126.com

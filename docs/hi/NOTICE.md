@@ -1,7 +1,5 @@
-# सूचना
+# Notice
 
-[← BestHistory](README.md) · [सभी भाषाएँ](../LANGUAGES.md)
+BestHistory is proprietary software. Copyright © 2026 BestHistory. All rights reserved.
 
-BestHistory proprietary software है। Copyright © 2026 BestHistory. All rights reserved.
-
-यह public repository product documentation, Beta distribution और feedback के लिए है। Documentation या compiled Beta packages का publication, BestHistory application source code को copy, modify, redistribute या derivative work बनाने की permission नहीं देता।
+This public repository is used for the product website, documentation, privacy/service policies, support, and release information. Public documentation or compiled extension packages do not grant a license to copy, modify, redistribute the proprietary BestHistory application source, or create derivative works.

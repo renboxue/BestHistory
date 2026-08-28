@@ -24,4 +24,4 @@ BestHistory 会先按照**网站**聚合浏览历史，再在网站下面保留�
 
 BestHistory 支持搜索网站、域名、标签、备注和页面标题，让同一条历史有更多找回路径。
 
-[了解 BestHistory](https://github.com/renboxue/BestHistory#readme) 或下载当前 [Chrome Beta](https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta)。
+BestHistory **v1.0.0 已正式发布**，Chrome Web Store 商店版本即将上线。[了解 BestHistory](https://github.com/renboxue/BestHistory#readme)。

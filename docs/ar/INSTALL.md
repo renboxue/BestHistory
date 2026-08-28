@@ -1,23 +1,19 @@
-# تثبيت BestHistory Beta على Chrome
+# التثبيت — BestHistory v1.0.0
 
-[← BestHistory](README.md) · [كل اللغات](../LANGUAGES.md)
+BestHistory v1.0.0 is distributed through the Chrome Web Store. Once the listing is live, install and update it through the store.
 
-قبل النشر في Chrome Web Store تُوزع Beta عبر GitHub Releases.
+## Install
 
-التنزيل: **https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta**
+1. Open the Chrome Web Store.
+2. Search for **BestHistory**.
+3. Verify the developer and website information, then choose **Add to Chrome**.
+4. Optionally pin BestHistory in the extensions menu.
+5. Click the toolbar icon to open BestHistory.
 
-الملف: `BestHistory-v0.1.0-beta-chrome.zip`
+## Incognito / Private Mode
 
-1. فك ZIP إلى مجلد ستحتفظ به.
-2. افتح `chrome://extensions/`.
-3. فعّل **وضع المطوّر**.
-4. اختر **تحميل إضافة غير مضغوطة**.
-5. حدد مجلد BestHistory المفكوك.
-6. يمكنك تثبيت BestHistory في شريط الأدوات.
-7. انقر الأيقونة لفتح الصفحة الرئيسية.
+If you want BestHistory Pro to save selected incognito-window visits into encrypted Private Mode, Chrome requires you to explicitly enable **Allow in Incognito** in `chrome://extensions/`. This permission is optional.
 
-## التصفح المتخفي / الوضع الخاص
-لحفظ زيارات التصفح المتخفي: `chrome://extensions/` → تفاصيل BestHistory → فعّل **السماح في وضع التصفح المتخفي**. هذا الإذن اختياري ولا يستطيع BestHistory تفعيله نيابةً عنك.
+## Updates
 
-## تحديث يدوي
-قد تتطلب Beta جديدة استبدال المجلد وإعادة تحميل الإضافة. يُنصح بإنشاء `.bhbackup` قبل تحديثات الإصدارات المبكرة.
+Chrome automatically updates Chrome Web Store installations. Before major upgrades, keeping a `.bhbackup` file is still recommended.

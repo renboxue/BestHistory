@@ -1,21 +1,26 @@
 # FAQ
 
-[← BestHistory](README.md) · [Semua bahasa](../LANGUAGES.md)
+## Do I need an account?
+No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
 
-## Apakah saya perlu akun?
-Tidak. Fitur lokal utama berjalan tanpa akun. Akun terutama digunakan untuk hak Pro / Trial.
+## Does BestHistory upload my browsing history?
+The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
 
-## Apakah BestHistory mengunggah riwayat saya?
-Tidak. Server akun tidak menyimpan riwayat, URL, judul, tag, catatan, pencarian, atau record privat.
+## Does AI read my entire history?
+No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
 
-## Apa yang terjadi setelah trial Pro berakhir?
-Fitur Pro tidak tersedia, tetapi data privat terenkripsi yang sudah ada tetap di perangkat dan tidak dihapus. Saat Pro aktif lagi, akses kembali tersedia.
+## What does Pro cost?
+$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
 
-## Apakah `.bhbackup` snapshot browser penuh?
-Tidak. Ini format transfer dan safe merge data BestHistory antara instalasi, perangkat, atau browser. Chrome sendiri tidak dikembalikan ke keadaan masa lalu.
+## How do cancellation and refunds work?
+Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
 
-## Mengapa izin incognito terpisah?
-Chrome meminta izin eksplisit pengguna untuk setiap extension. BestHistory tidak dapat mengaktifkannya atas nama Anda.
+## Where is Private Mode data stored?
+Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
 
-## Apakah source code open source?
-Tidak. Repositori publik ini berisi informasi produk, dokumentasi, feedback, dan Beta. Source aplikasi proprietary.
+## Why isn't the source code on GitHub?
+The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+
+## Contact
+
+Dukungan: besthistory@126.com

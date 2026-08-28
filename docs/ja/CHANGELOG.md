@@ -1,38 +1,24 @@
 # 変更履歴
 
-[← BestHistory](README.md) · [全言語](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
+BestHistory v1.0.0 は最初の正式リリースです。Chrome Web Store 版は近日公開予定です。
 
-BestHistory 最初の公開 Beta。
+- ページの羅列ではなくサイト単位で履歴を整理
+- ドメイン、ページタイトル、タグ、メモを検索
+- AI Recall で曖昧な記憶をローカル検索候補に展開
+- AI によるサイト整理とタグ提案
+- ローカル暗号化の Private Mode と任意のシークレット履歴保存
+- 単一ファイルのバックアップ / 復元と安全なマージ
+- Google ログインとメールコードログイン
+- 新規アカウントに30日 Pro Trial
 
-### コア
-- サイト単位の履歴集約
-- 最近 / よく使う / 名前順 / 固定 / 未整理 / ごみ箱ビュー
-- サイト、ドメイン、タグ、メモ、ページタイトル検索
-- サイト詳細と最近のページ
-- カスタムタグ、メモ、固定
-- サイト単位で折りたためるタイムライン
-- CSV エクスポート
-- 長時間開いたままでも、新しい履歴、再表示、再フォーカス時にサイトとタイムラインを自動更新
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### プライバシーと移行
-- ローカルファースト
-- AES-256-GCM による Pro プライベートモード
-- 明示的な許可後のシークレット履歴保存
-- プライベートサイト / ページ
-- パスワード変更、ロック、自動ロック、破壊的リセット
-- `.bhbackup` 単一ファイルの安全マージ式バックアップ / 復元
-- ごみ箱復元、完全削除、空にする操作
+## Earlier beta
 
-### アカウントと Pro
-- メール OTP ログイン
-- サーバー側権利モデル
-- Beta 新規登録 30 日 Pro トライアル
-- ローカル権利キャッシュと限定的なオフライン猶予
-
-### 仕上げ
-- 18 UI 言語
-- 18 言語の公開ドキュメントと Release Note
-- ブランドアイコン、ツールバー直接起動、フィードバック
-- リリース前チェックとシークレットスキャン
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.

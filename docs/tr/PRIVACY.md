@@ -1,28 +1,52 @@
-# BestHistory Gizlilik Bildirimi
+# Gizlilik
 
-_Son güncelleme: 2026-08-20_
+_Last updated: 2026-08-27_
 
-[← BestHistory](README.md) · [Tüm diller](../LANGUAGES.md)
+Local-first: tam tarama geçmişi veritabanı, Private Mode verileri ve yedek dosyaları hesap sunucusuna yüklenmez. Yalnızca bir AI özelliğini bilerek kullandığınızda, o istek için gereken sınırlı veriler sunucuya ve AI sağlayıcısına gönderilir. Kesin alanlar için Gizlilik Bildirimi'ne bakın.
 
-BestHistory, tarayıcı geçmişini düzenleyen local-first bir uzantıdır.
+## Local data
 
-## Tarama verileri
-Geçmiş, ziyaret edilen URL'ler, sayfa başlıkları, site meta verileri, etiketler, notlar, arama girdileri ve Özel Mod kayıtları cihazda işlenir; BestHistory hesap sunucusuna yüklenmez.
+- Local-first: tam tarama geçmişi veritabanı, Private Mode verileri ve yedek dosyaları hesap sunucusuna yüklenmez. Yalnızca bir AI özelliğini bilerek kullandığınızda, o istek için gereken sınırlı veriler sunucuya ve AI sağlayıcısına gönderilir. Kesin alanlar için Gizlilik Bildirimi'ne bakın.
+- BestHistory does not sell user data or use it for personalized advertising.
 
-## Hesap ve haklar
-Giriş yaparsanız BestHistory hesabı tanımak ve Free / Trial / Pro hakkını belirlemek için hesap altyapısını kullanır. Hesap kimliği, e-posta ve kimlik doğrulama meta verileri, tercih edilen dil, deneme/üyelik/abonelik durumu ve geçerlilik süresi, gelecekte ödeme sağlayıcı kimlikleri bulunabilir.
+## Optional AI processing
 
-## Özel Mod
-Özel URL, başlık ve ziyaretler cihazda şifrelenir. Özel parola ve çözülmüş özel veriler sunucuya gönderilmez.
+AI features are optional and user-initiated. AI Recall may send the search description, existing tags and a small number of local domain/title hints. AI Organize may send domain, display name, current tags, up to 5 recent page titles, visit count and page count. The complete browsing-history database, Private Mode records, page contents and backup files are not sent for AI processing.
 
-## Yedekler
-Yedekler yerel oluşturulur ve BestHistory tarafından otomatik yüklenmez. Özel kayıtlar şifreli kalır; sıradan geçmiş bölümünün tüm dosya olarak tamamen şifreli olduğunu varsaymayın.
+## Accounts and service providers
 
-## Üçüncü taraf hizmetleri
-BestHistory şu anda kimlik doğrulama/haklar için Supabase, doğrulama e-postaları için Amazon SES kullanır. Bu hizmetler yalnızca hesap ve e-posta akışları için gerekli veriyi işler, tarama geçmişinizi değil.
+Supabase handles authentication, entitlement data and Edge Functions; Google may provide OAuth sign-in; Resend delivers authentication email; Paddle processes purchases as Merchant of Record; Volcano Engine / Doubao Ark processes AI requests.
 
-## Silme
-Yerel veriler uzantıdan silinebilir. Çıkış yapmak yerel oturumu kaldırır ancak yerel geçmiş düzenleme verisini bilerek silmez. Hesap silme akışları Beta sırasında genişletilebilir.
+Account-side data may include account ID, email, preferred language, trial/plan status, validity dates and payment-provider identifiers. BestHistory does not receive or store full card details.
 
-## İletişim
-Gizlilik: **besthistory@126.com**
+## Private Mode
+
+Private Mode records are encrypted locally. The Private Mode password and decrypted private records are not sent to BestHistory servers.
+
+## Payments
+
+BestHistory Pro is offered as **$2.99/month**, **$24.99/year**, or a **$59.99 one-time Lifetime** purchase. Paddle processes checkout, tax, receipts, refunds and subscription administration as Merchant of Record. Google is not the seller. BestHistory does not receive or store full payment-card details.
+
+## Sharing and use restrictions
+
+Data is transferred only when necessary to provide the chosen feature, authentication/payment, security, or legal compliance. It is not sold or used for personalized advertising.
+
+## Chrome Web Store Limited Use
+
+> The use of information received from Google APIs will adhere to the Chrome Web Store User Data Policy, including the Limited Use requirements.
+
+BestHistory limits Google/Chrome user data to the disclosed, user-facing purpose of helping you organize, search, privately manage, back up, and rediscover your browser history and related account/entitlement operations.
+
+## Retention and deletion
+
+You can delete local BestHistory data in the extension. To request deletion of server-side account data, contact besthistory@126.com.
+
+## Security
+
+Data sent to BestHistory services is transmitted over HTTPS. Authentication credentials, payment secrets and AI provider secrets are kept server-side and are not included in the extension package.
+
+## Contact
+
+**besthistory@126.com**
+
+> If a translated version differs from the English version on a legal or policy point, the English version controls.

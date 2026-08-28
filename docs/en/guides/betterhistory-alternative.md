@@ -44,16 +44,16 @@ BestHistory's website-first organization is designed around that situation.
 
 ## Privacy approach
 
-BestHistory is local-first. The BestHistory account server is not designed to store your complete browsing history, visited URLs, page titles, tags, notes, searches or private browsing records. Private Mode records are encrypted on the device.
+BestHistory is local-first. Your complete browsing-history database, Private Mode records, and backup files remain on the device by default. When you deliberately use an AI feature, BestHistory sends only the limited domain/title/tag or search-hint data needed for that AI request, as described in the current Privacy Notice. Private Mode records remain encrypted locally.
 
 Always review the current privacy disclosures of any browser extension before installing it, because extension permissions and product behavior can change over time.
 
 ## Current availability
 
-BestHistory is currently an early Chrome Beta distributed through GitHub Releases while the Chrome Web Store version is being prepared.
+BestHistory **v1.0.0 is now the official release**. The Chrome Web Store listing is coming soon.
 
-- [Read the BestHistory overview](https://github.com/renboxue/BestHistory#readme)
-- [Download the current BestHistory Chrome Beta](https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta)
+- [Read the BestHistory v1.0.0 overview](https://github.com/renboxue/BestHistory#readme)
+- [Read the BestHistory Privacy Notice](https://github.com/renboxue/BestHistory/blob/main/PRIVACY.md)
 - [Visit BetterHistory's official website](https://betterhistory.io/) if you want to compare the products directly
 
 BestHistory is not affiliated with BetterHistory. “BetterHistory” and “Better History” are used here only to help users compare browser-history tools.

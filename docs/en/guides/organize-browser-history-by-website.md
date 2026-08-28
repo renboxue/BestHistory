@@ -36,4 +36,4 @@ Website-first organization does not mean deleting chronological history. BestHis
 
 Tags, notes, pinning and a wastebasket can be enough. The goal is not to manually classify every browsing event. It is to create a few extra paths back to the websites you are likely to need again.
 
-If this is closer to how you want browser history to work, see [BestHistory](https://github.com/renboxue/BestHistory#readme) or the current [Chrome Beta](https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta).
+BestHistory **v1.0.0 is now the official release**, and the Chrome Web Store listing is coming soon. [Learn more about BestHistory](https://github.com/renboxue/BestHistory#readme).

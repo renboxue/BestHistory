@@ -1,21 +1,26 @@
 # الأسئلة الشائعة
 
-[← BestHistory](README.md) · [كل اللغات](../LANGUAGES.md)
+## Do I need an account?
+No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
 
-## هل أحتاج إلى حساب؟
-لا. الوظائف المحلية الأساسية تعمل دون حساب. الحساب يستخدم أساساً لحقوق Pro / Trial.
+## Does BestHistory upload my browsing history?
+The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
 
-## هل يرفع BestHistory سجل التصفح؟
-لا. خادم الحساب لا يخزن السجل أو الروابط أو العناوين أو الوسوم أو الملاحظات أو البحث أو السجلات الخاصة.
+## Does AI read my entire history?
+No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
 
-## ماذا يحدث بعد انتهاء تجربة Pro؟
-تتوقف وظائف Pro، لكن البيانات الخاصة المشفرة الموجودة تبقى على الجهاز ولا تُحذف. عند استعادة Pro يمكنك الوصول إليها مجدداً.
+## What does Pro cost?
+$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
 
-## هل `.bhbackup` لقطة كاملة للمتصفح؟
-لا. هو تنسيق لنقل ودمج بيانات BestHistory بأمان بين التثبيتات والأجهزة والمتصفحات، ولا يعيد Chrome نفسه إلى حالة سابقة.
+## How do cancellation and refunds work?
+Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
 
-## لماذا إذن التصفح المتخفي منفصل؟
-لأن Chrome يطلب موافقة صريحة من المستخدم لكل إضافة. لا يستطيع BestHistory تفعيله نيابةً عنك.
+## Where is Private Mode data stored?
+Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
 
-## هل الشفرة مفتوحة المصدر؟
-لا. المستودع العام يحتوي معلومات المنتج والوثائق وfeedback وBeta. شفرة التطبيق مملوكة.
+## Why isn't the source code on GitHub?
+The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+
+## Contact
+
+الدعم: besthistory@126.com

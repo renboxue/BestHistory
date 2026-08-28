@@ -1,7 +1,5 @@
-# Bildirim
+# Notice
 
-[← BestHistory](README.md) · [Tüm diller](../LANGUAGES.md)
+BestHistory is proprietary software. Copyright © 2026 BestHistory. All rights reserved.
 
-BestHistory özel mülkiyet yazılımdır. Copyright © 2026 BestHistory. All rights reserved.
-
-Bu herkese açık depo ürün dokümantasyonu, Beta dağıtımı ve geri bildirim içindir. Belgelerin veya derlenmiş Beta paketlerinin yayınlanması, BestHistory kaynak kodunu kopyalama, değiştirme, yeniden dağıtma veya türev eser üretme izni vermez.
+This public repository is used for the product website, documentation, privacy/service policies, support, and release information. Public documentation or compiled extension packages do not grant a license to copy, modify, redistribute the proprietary BestHistory application source, or create derivative works.

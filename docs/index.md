@@ -1,43 +1,48 @@
 ---
 layout: default
-title: BestHistory - Privacy-first Chrome Browser History Manager
-description: Search old Chrome history, find websites you visited before but forgot, and organize browser history by website instead of scrolling through thousands of page entries.
+title: BestHistory - Find websites you've forgotten
+description: A privacy-first Chrome browser history manager that groups history by website and helps you search, organize, privately store, back up, and rediscover sites you used before.
 ---
 
 # BestHistory
 
 **Find websites you've forgotten.**
 
-BestHistory is a privacy-first **Chrome browser history manager** that organizes browsing history by **website first**. It is designed for the common situation where you remember what a website was for, but not its name, page title, or the exact day you visited it.
+BestHistory v1.0.0 is a privacy-first Chrome / Chromium browser history manager built around a simple idea: you may forget a page title or date, but you often remember what kind of website it was and what you used it for.
 
-[Privacy Policy](en/PRIVACY.md) · [Terms of Service](en/TERMS.md) · [Documentation](en/README.md)
+![BestHistory](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
-![BestHistory website-first browser history manager](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
+## What it does
 
-## What BestHistory helps you do
+- Groups browser history by **website first**.
+- Searches domains, page titles, tags and your own notes.
+- Uses **AI Recall** to turn vague memories into hypotheses that are verified against your local history.
+- Uses **AI Organize** to suggest website tags from limited website metadata.
+- Includes encrypted **Private Mode**, optional incognito capture, and a single-file backup / restore workflow.
+- Supports **18 interface languages**, Google sign-in, email-code sign-in, and a 30-day Pro Trial for new accounts.
 
-- Search old Chrome history across websites, domains, tags, notes and page titles.
-- Find a website you visited before even when you cannot remember its exact name.
-- Organize browser history by website instead of browsing a long page-by-page timeline.
-- Pin useful websites and add your own tags and notes.
-- Keep selected private history encrypted locally with Private Mode.
-- Export, back up and move BestHistory data without uploading your complete browsing history to the cloud.
+## Local-first privacy
 
-## Browser history guides
+Your complete browsing-history database, Private Mode database and backup files stay on your device by default. When you deliberately use an AI feature, only the limited fields needed for that request are sent to BestHistory's server and AI provider. BestHistory does not sell user data or use browsing data for personalized advertising.
 
-- [How to search old Chrome history](en/guides/search-old-chrome-history.md)
-- [How to find a website you visited before but forgot](en/guides/find-website-you-visited-before.md)
-- [How to organize Chrome history by website](en/guides/organize-browser-history-by-website.md)
-- [What to look for in a browser history manager](en/guides/browser-history-manager.md)
-- [How to save incognito history privately when you choose to](en/guides/save-incognito-history-privately.md)
-- [BestHistory as a BetterHistory / Better History alternative](en/guides/betterhistory-alternative.md)
+[Privacy Notice](/privacy/) · [Terms of Service](/terms/) · [18 languages](LANGUAGES.md)
 
-## Try BestHistory
+## BestHistory Pro
 
-BestHistory is currently available as a Chrome Beta from [GitHub Releases](https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta). A Chrome Web Store listing is planned.
+- **$2.99/month**
+- **$24.99/year**
+- **$59.99 one-time Lifetime**
 
-BestHistory is local-first: your normal browsing-history dataset, website notes, tags, searches and private records are not stored by the BestHistory account server.
+Payments are processed by **Paddle**, the Merchant of Record. Google is not the seller.
 
-## Languages
+## Chrome Web Store
 
-BestHistory includes an 18-language interface and public documentation. See the [language index](LANGUAGES.md).
+BestHistory v1.0.0 is now the official release. The Chrome Web Store listing is coming soon; once it is live, installation and updates will be provided through Chrome Web Store.
+
+## Chrome Web Store Limited Use
+
+The use of information received from Google APIs will adhere to the Chrome Web Store User Data Policy, including the Limited Use requirements.
+
+## Support
+
+**besthistory@126.com**

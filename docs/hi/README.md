@@ -1,165 +1,50 @@
 # BestHistory
 
-<p align="center"><img src="../../assets/besthistory-icon.png" alt="BestHistory" width="112" /></p>
-<p align="center"><strong>ब्राउज़र हिस्ट्री को ऐसी वेबसाइट सूची में बदलें जिसे आप सच में दोबारा खोज सकें।</strong></p>
+<p align="center"><strong>वे वेबसाइट फिर खोजें जिन्हें आपने इस्तेमाल किया था लेकिन नाम भूल गए।</strong></p>
 
-<!-- BESTHISTORY_SEO_STEP27_SUMMARY_START -->
-<p align="center">BestHistory Chrome और Chromium के लिए privacy-first browser history manager है। इससे आप पुरानी Chrome history खोज सकते हैं, पहले देखी लेकिन नाम भूल चुके वेबसाइट फिर से ढूँढ सकते हैं, और history को website, tags, notes तथा page titles के आधार पर व्यवस्थित कर सकते हैं।</p>
-<!-- BESTHISTORY_SEO_STEP27_SUMMARY_END -->
+<p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · हिन्दी · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
+
+> **v1.0.0** — BestHistory v1.0.0 पहला आधिकारिक रिलीज़ है। Chrome Web Store संस्करण जल्द आ रहा है।
+
+BestHistory एक privacy-first Chrome / Chromium history manager है। यह पहले history को वेबसाइट के अनुसार समूहित करता है, फिर search, tags, notes, pin, private storage, backup और rediscovery आसान बनाता है।
 
 <p align="center">
-[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · हिन्दी · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)
+  <img src="../../assets/screenshots/home.webp" alt="BestHistory" width="100%" />
 </p>
 
-<p align="center"><a href="https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta"><strong>⬇️ Chrome Beta v0.1.0 डाउनलोड करें</strong></a> · <a href="INSTALL.md">इंस्टॉल</a> · <a href="../LANGUAGES.md">18 भाषाओं में दस्तावेज़</a></p>
+## v1.0.0
 
-## शुरुआत में: BestHistory क्यों बनाया
+- लंबी page list के बजाय website-first history
+- domain, page title, tag और notes में search
+- AI Recall धुंधली याद को local search hypotheses में बदलता है
+- AI website organization और tag suggestions
+- local encryption वाला Private Mode और optional incognito capture
+- एक फ़ाइल backup / restore और safe merge
+- Google sign-in और email code sign-in
+- नई accounts के लिए 30-day Pro Trial
 
-BestHistory एक छोटा टूल है जिसे मैंने एक स्वतंत्र डेवलपर के रूप में अपनी ही समस्या हल करने के लिए बनाना शुरू किया।
+## Local-first + AI
 
-मैं कोई बहुत उपयोगी वेबसाइट इस्तेमाल करता था, फिर कुछ दिन बाद उसकी ज़रूरत पड़ती और नाम याद नहीं रहता। कभी बस इतना याद रहता कि “किसी वेबसाइट पर यह देखा था”, लेकिन सही पेज नहीं। दोबारा न मिलने के डर से मैं बहुत सारे टैब और विंडो खुले रखता, साइटें पिन करता और बाकी चीज़ें बुकमार्क में डालता। धीरे-धीरे हिस्ट्री, पिन किए टैब, बुकमार्क और बंद करने से डर लगने वाले दर्जनों पेज जमा हो जाते — फिर भी पुरानी वेबसाइट ढूँढना मुश्किल रहता।
+Local-first: पूरी browsing-history database, Private Mode data और backup files BestHistory account server पर upload नहीं होते। केवल जब आप जानबूझकर AI feature इस्तेमाल करते हैं, उस request के लिए जरूरी सीमित data server और AI provider को भेजा जाता है। सटीक fields Privacy Notice में हैं।
 
-तब मुझे लगा कि मुझे बस “थोड़ी सुंदर हिस्ट्री सूची” नहीं चाहिए।
+## BestHistory Pro
 
-मुझे कुछ ऐसा चाहिए जो हमारी याददाश्त के ज़्यादा करीब हो:
+Pro: $2.99/माह, $24.99/वर्ष या $59.99 one-time Lifetime. Payment Paddle process करता है; Google seller नहीं है।
 
-**पेज का शीर्षक और तारीख भूल सकता हूँ, लेकिन अक्सर याद रहता है कि वह किस तरह की वेबसाइट थी और मैंने उसका इस्तेमाल किसलिए किया था।**
+New BestHistory accounts receive a **30-day Pro Trial** before paid access is required for Pro-only features.
 
-यहीं से BestHistory शुरू हुआ।
+## Install
 
-> **उन टैब को बंद करने का भरोसा देना जो सिर्फ इसलिए खुले हैं क्योंकि डर है कि बाद में नहीं मिलेंगे।**  
-> जब सच में ज़रूरत हो, BestHistory आपको वापस वहाँ पहुँचाने में मदद करे।
+v1.0.0 Chrome Web Store पर उपलब्ध होने के बाद store से install करें। Public repository में documentation और support है, proprietary app source code नहीं।
 
-यह अभी बहुत शुरुआती निजी प्रोजेक्ट है। अगर यह आपकी भी वही समस्या हल करता है तो मुझे बहुत खुशी होगी। क्या अच्छा है, क्या परेशान करता है और आगे क्या चाहिए — मैं सच में जानना चाहता हूँ।
+## Documentation
 
-<p align="center"><img src="../../assets/screenshots/home.webp" alt="BestHistory वेबसाइटें" width="100%" /></p>
-<p align="center"><sub>हज़ारों पेजों से पहले यह देखें: “मैंने कौन-कौन सी वेबसाइटें इस्तेमाल की हैं?”</sub></p>
+- [Privacy](PRIVACY.md)
+- [Terms](TERMS.md)
+- [FAQ](FAQ.md)
+- [Installation](INSTALL.md)
+- [Changelog](CHANGELOG.md)
 
----
+## Contact
 
-## सामान्य ब्राउज़र हिस्ट्री से क्या अलग है?
-
-### 1. पहले वेबसाइटें, न कि दसियों हज़ार पेज
-
-सामान्य हिस्ट्री हर विज़िट को अलग लाइन में रखती है। एक ही साइट पर बहुत पेज खोलें तो पूरी सूची उसी से भर सकती है।
-
-BestHistory पहले हिस्ट्री को **वेबसाइट के हिसाब से** समूहित करता है। हाल की साइटें, सबसे ज़्यादा उपयोग, आख़िरी विज़िट और उस साइट के भीतर देखे गए खास पेज दिखाई देते हैं।
-
-### 2. अलग-अलग क्रम
-
-- **हाल की**
-- **सबसे ज़्यादा देखी गई**
-- **नाम**
-- **पिन की गई**
-- अलग स्थिति जैसे **अव्यवस्थित / कूड़ेदान / निजी वेबसाइटें**
-
-### 3. अपने टैग
-
-जो साइट किसी और के लिए “टूल” है, आपके लिए “काम” हो सकती है। वह एक साथ “डिज़ाइन”, “AI” और “बाद में फिर उपयोग” भी हो सकती है।
-
-BestHistory **कस्टम टैग** और एक साइट पर कई टैग देता है। उद्देश्य परफेक्ट फाइलिंग सिस्टम बनाना नहीं, बल्कि महीनों बाद सिर्फ उसका काम याद हो तो वापस पहुँचने के और रास्ते देना है।
-
-### 4. एक ही साइट के पेज मोड़ने वाली टाइमलाइन
-
-कभी सवाल होता है: “कल दोपहर मैं क्या देख रहा था?”
-
-BestHistory टाइमलाइन एक ही साइट के लगातार पेजों को एक समूह में रखती है और ज़रूरत होने पर ही विस्तार दिखाती है।
-
-<p align="center"><img src="../../assets/screenshots/timeline.webp" alt="BestHistory मोड़ने वाली टाइमलाइन" width="100%" /></p>
-<p align="center"><sub>एक साइट के पेज साथ रहते हैं, इसलिए टाइमलाइन शीर्षकों की दीवार नहीं बल्कि ब्राउज़िंग यात्रा जैसी लगती है।</sub></p>
-
-### 5. ऐसा विवरण जिसे सिर्फ आपको समझना हो
-
-साइट का आधिकारिक नाम हमेशा यह याद नहीं दिलाता कि मैंने उसे किसलिए इस्तेमाल किया। इसलिए आप अपना नाम, नोट या विवरण लिख सकते हैं:
-
-> “PDF को इमेज में बदलने वाली वेबसाइट”
->
-> “बच्चों की illustration के लिए मिला reference”
->
-> “पुरानी कीमत देखने वाला छोटा tool”
-
-इन शब्दों को बाद में खोजा भी जा सकता है। कई बार आपकी अपनी भाषा आधिकारिक शीर्षक से आपकी याद के ज़्यादा करीब होती है।
-
-<p align="center"><img src="../../assets/screenshots/site-detail.webp" alt="BestHistory विवरण, टैग और नोट" width="100%" /></p>
-
----
-
-## निजी मोड: हिस्ट्री याद रखनी है, लेकिन सबको दिखानी नहीं
-
-कुछ वेबसाइटें ऐसी नहीं होतीं जिन्हें हम “भूलना” चाहते हैं। बस उन्हें सामान्य हिस्ट्री में दूसरों के सामने खुला नहीं रखना चाहते।
-
-**निजी मोड (Pro)** निजी URL, शीर्षक और विज़िट को डिवाइस पर एन्क्रिप्ट करता है। वे तभी दिखाई देते हैं जब आप अपना निजी पासवर्ड दर्ज करते हैं।
-
-अगर आप BestHistory को स्पष्ट रूप से Incognito में चलने की अनुमति देते हैं, तो वे विज़िट भी एन्क्रिप्ट होकर निजी मोड में सुरक्षित हो सकती हैं। वे सामान्य सूची में नहीं मिलतीं और निजी मोड लॉक होने पर छिपी रहती हैं।
-
-> **जो साइटें सामान्य हिस्ट्री में छोड़ना ठीक नहीं लगता, BestHistory उन्हें चुपचाप याद रख सकता है।**
-
-निजी डेटा आपके डिवाइस पर रहता है। BestHistory सर्वर निजी URL, शीर्षक, निजी हिस्ट्री या पासवर्ड नहीं रखता।
-
----
-
-## खोज, पिन और कूड़ेदान
-
-खोज वेबसाइट, डोमेन, टैग, नोट और पेज शीर्षक का उपयोग करती है। साइट का नाम बिल्कुल भूल जाएँ, फिर भी वहाँ देखी किसी चीज़ की याद आपको वापस पहुँचा सकती है।
-
-अक्सर उपयोग होने वाली साइटें पिन की जा सकती हैं। जो अभी नहीं देखनीं उन्हें तुरंत मिटाने की जगह **कूड़ेदान** में रखा जा सकता है; बाद में वापस लाएँ या हमेशा के लिए हटाएँ।
-
-हिस्ट्री व्यवस्थित करना हर बार स्थायी फैसला नहीं होना चाहिए।
-
----
-
-## बैकअप, रिस्टोर और ब्राउज़र बदलना
-
-BestHistory का संगठन डेटा मुख्यतः लोकल रहता है।
-
-एक `.bhbackup` फ़ाइल से डेटा कंप्यूटर, इंस्टॉल, डिवाइस और ब्राउज़र के बीच ले जाया और merge किया जा सकता है। Restore सुरक्षित merge करता है, मौजूदा डेटा को अंधाधुंध overwrite नहीं करता।
-
-निजी डेटा बैकअप में भी एन्क्रिप्ट रहता है और पुराने निजी पासवर्ड की ज़रूरत होती है।
-
-> अभी “cross-browser sync” का अर्थ लोकल बैकअप से transfer और merge है। BestHistory **आपकी पूरी हिस्ट्री cloud पर upload नहीं करता**।
-
-यह जानबूझकर है: BestHistory को पहले **local-first** रहना चाहिए।
-
----
-
-## गोपनीयता, Free और Pro
-
-BestHistory सर्वर browsing history, URL, titles, tags, notes, searches, private records, encryption keys या `.bhbackup` content स्टोर नहीं करता।
-
-Login करने पर सर्वर मुख्यतः account, authentication और Free / Trial / Pro entitlement संभालता है। अधिक जानकारी [PRIVACY.md](PRIVACY.md) में है।
-
-मुख्य local features **बिना login** चलती हैं। Beta के दौरान नई accounts को अभी **30 दिन Pro trial** मिलता है। फिलहाल सबसे मुख्य Pro feature निजी मोड है।
-
----
-
-## इंटरफ़ेस और दस्तावेज़ — 18 भाषाएँ
-
-<p align="center"><img src="../../assets/screenshots/languages.webp" alt="BestHistory 18 भाषाएँ" width="100%" /></p>
-
-README, install, privacy, FAQ, security, changelog और Release Note सभी 18 भाषाओं में उपलब्ध हैं। [भाषा सूची](../LANGUAGES.md) देखें।
-
----
-
-## यह अभी शुरुआत है
-
-BestHistory इसलिए शुरू हुआ क्योंकि मुझे खुद टैब बंद करने में डर लगता था कि वेबसाइट फिर कभी नहीं मिलेगी।
-
-अब यह बंद की गई वेबसाइट फिर ढूँढने में मदद कर सकता है। आगे भी मैं इसी मूल समस्या पर काम करना चाहता हूँ: ज़रूरत न होने वाले टैब भरोसे से बंद करना और सच में उपयोग की गई वेबसाइटों को आसान तरीके से व्यवस्थित करना — केवल features बढ़ाना नहीं।
-
-अगर BestHistory काम आता है तो ⭐ Star, समस्या पर Issue, या बस यह बताना कि आप history, bookmarks और बहुत सारे tabs कैसे संभालते हैं — बहुत मददगार है। Private feedback: **besthistory@126.com**।
-
-Public Issue में निजी URLs, passwords, private history या पूरा backup न डालें।
-
----
-
-## Beta इंस्टॉल
-
-**[⬇️ BestHistory v0.1.0 Beta for Chrome](https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta)**
-
-अभी **Developer mode → Load unpacked** से manual install करना होगा। [INSTALL.md](INSTALL.md) देखें।
-
----
-
-**BestHistory application source code proprietary है और इस public repository में प्रकाशित नहीं है।**
-
-वर्तमान संस्करण: **v0.1.0 Beta** · [CHANGELOG.md](CHANGELOG.md)
+Support: besthistory@126.com

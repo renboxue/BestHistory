@@ -30,4 +30,4 @@ BestHistory 的核心思路是先把成千上万条页面访问聚合成“我�
 
 以后直接搜索这些自己会说的话，更容易再次找回来。
 
-[了解 BestHistory](https://github.com/renboxue/BestHistory#readme) 或下载当前 [Chrome Beta](https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta)。
+BestHistory **v1.0.0 已正式发布**，Chrome Web Store 商店版本即将上线。[了解 BestHistory](https://github.com/renboxue/BestHistory#readme)。

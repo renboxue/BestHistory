@@ -1,28 +1,52 @@
-# إشعار خصوصية BestHistory
+# الخصوصية
 
-_آخر تحديث: 2026-08-20_
+_Last updated: 2026-08-27_
 
-[← BestHistory](README.md) · [كل اللغات](../LANGUAGES.md)
+التصميم Local-first: قاعدة سجل التصفح الكاملة وبيانات Private Mode وملفات النسخ الاحتياطي لا تُرفع إلى خادم الحساب. فقط عندما تستخدم ميزة AI بإرادتك تُرسل البيانات المحدودة اللازمة لذلك الطلب إلى الخادم ومزود AI. راجع سياسة الخصوصية للحقول الدقيقة.
 
-BestHistory إضافة محلية أولاً لتنظيم سجل المتصفح.
+## Local data
 
-## بيانات التصفح
-السجل والروابط والعناوين وبيانات المواقع والوسوم والملاحظات وعمليات البحث وسجلات الوضع الخاص تُعالج على جهاز المستخدم ولا تُرفع إلى خادم حساب BestHistory.
+- التصميم Local-first: قاعدة سجل التصفح الكاملة وبيانات Private Mode وملفات النسخ الاحتياطي لا تُرفع إلى خادم الحساب. فقط عندما تستخدم ميزة AI بإرادتك تُرسل البيانات المحدودة اللازمة لذلك الطلب إلى الخادم ومزود AI. راجع سياسة الخصوصية للحقول الدقيقة.
+- BestHistory does not sell user data or use it for personalized advertising.
 
-## بيانات الحساب والحقوق
-إذا سجلت الدخول يستخدم BestHistory بنية الحساب لتحديد حسابك وحقوق Free / Trial / Pro. قد تشمل البيانات معرّف الحساب والبريد وبيانات المصادقة واللغة المفضلة وحالة وفترة التجربة/الاشتراك ومعرّفات مزود الدفع مستقبلاً.
+## Optional AI processing
 
-## الوضع الخاص
-تُشفّر الروابط والعناوين والزيارات الخاصة على الجهاز. كلمة المرور الخاصة والبيانات الخاصة بعد فك التشفير لا تُرسل إلى الخادم.
+AI features are optional and user-initiated. AI Recall may send the search description, existing tags and a small number of local domain/title hints. AI Organize may send domain, display name, current tags, up to 5 recent page titles, visit count and page count. The complete browsing-history database, Private Mode records, page contents and backup files are not sent for AI processing.
 
-## النسخ الاحتياطية
-تُنشأ النسخ محلياً ولا يرفعها BestHistory تلقائياً. تبقى السجلات الخاصة مشفرة، ولا ينبغي افتراض أن كل بيانات السجل العادي في الملف مشفرة بالكامل.
+## Accounts and service providers
 
-## خدمات خارجية
-يستخدم BestHistory حالياً Supabase للمصادقة والحقوق وAmazon SES لإرسال رسائل المصادقة. تعالج هذه الخدمات فقط البيانات اللازمة للحساب والبريد، لا سجل التصفح.
+Supabase handles authentication, entitlement data and Edge Functions; Google may provide OAuth sign-in; Resend delivers authentication email; Paddle processes purchases as Merchant of Record; Volcano Engine / Doubao Ark processes AI requests.
 
-## الحذف
-يمكن حذف البيانات المحلية من الإضافة. تسجيل الخروج يزيل الجلسة المحلية لكنه لا يحذف عمداً بيانات تنظيم السجل المحلية. قد تتوسع آليات حذف الحساب خلال Beta.
+Account-side data may include account ID, email, preferred language, trial/plan status, validity dates and payment-provider identifiers. BestHistory does not receive or store full card details.
 
-## تواصل
-الخصوصية: **besthistory@126.com**
+## Private Mode
+
+Private Mode records are encrypted locally. The Private Mode password and decrypted private records are not sent to BestHistory servers.
+
+## Payments
+
+BestHistory Pro is offered as **$2.99/month**, **$24.99/year**, or a **$59.99 one-time Lifetime** purchase. Paddle processes checkout, tax, receipts, refunds and subscription administration as Merchant of Record. Google is not the seller. BestHistory does not receive or store full payment-card details.
+
+## Sharing and use restrictions
+
+Data is transferred only when necessary to provide the chosen feature, authentication/payment, security, or legal compliance. It is not sold or used for personalized advertising.
+
+## Chrome Web Store Limited Use
+
+> The use of information received from Google APIs will adhere to the Chrome Web Store User Data Policy, including the Limited Use requirements.
+
+BestHistory limits Google/Chrome user data to the disclosed, user-facing purpose of helping you organize, search, privately manage, back up, and rediscover your browser history and related account/entitlement operations.
+
+## Retention and deletion
+
+You can delete local BestHistory data in the extension. To request deletion of server-side account data, contact besthistory@126.com.
+
+## Security
+
+Data sent to BestHistory services is transmitted over HTTPS. Authentication credentials, payment secrets and AI provider secrets are kept server-side and are not included in the extension package.
+
+## Contact
+
+**besthistory@126.com**
+
+> If a translated version differs from the English version on a legal or policy point, the English version controls.

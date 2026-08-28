@@ -1,37 +1,24 @@
-# 변경 로그
+# 변경 내역
 
-[← BestHistory](README.md) · [모든 문서 언어](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
-BestHistory 첫 공개 Beta.
+BestHistory v1.0.0은 첫 정식 릴리스입니다. Chrome Web Store 버전은 곧 공개됩니다.
 
-### 핵심
-- 웹사이트 중심 기록 자동 집계
-- 최근 / 가장 자주 / 이름 / 고정 / 미정리 / 휴지통 보기
-- 사이트, 도메인, 태그, 메모, 페이지 제목 검색
-- 사이트 상세와 최근 페이지
-- 사용자 태그, 메모, 고정
-- 사이트별 접기 타임라인
-- CSV 내보내기
-- BestHistory를 오래 열어 두어도 새 기록 발생, 페이지 재표시, 창 재포커스 시 사이트와 타임라인 자동 새로고침
+- 페이지 목록 대신 웹사이트 중심으로 기록 정리
+- 도메인, 페이지 제목, 태그, 메모 검색
+- AI Recall로 모호한 기억을 로컬 검색 단서로 확장
+- AI 웹사이트 정리와 태그 제안
+- 로컬 암호화 Private Mode와 선택적 시크릿 기록 저장
+- 단일 파일 백업 / 복원 및 안전한 병합
+- Google 로그인과 이메일 코드 로그인
+- 신규 계정 30일 Pro Trial
 
-### 개인정보 및 이동성
-- 로컬 우선 처리
-- AES-256-GCM Pro 비공개 모드
-- 명시적 권한 후 시크릿 방문 저장
-- 비공개 사이트/페이지
-- 비밀번호 변경, 잠금, 자동 잠금, 파괴적 초기화
-- 단일 `.bhbackup` 안전 병합 백업/복원
-- 휴지통 복원, 영구 삭제, 비우기
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### 계정 및 Pro
-- 이메일 OTP 로그인
-- 서버 권한 모델
-- Beta 신규 계정 30일 Pro 체험
-- 로컬 권한 캐시와 제한적 오프라인 유예
+## Earlier beta
 
-### 제품 마감
-- 18개 UI 언어
-- 18개 언어 공개 문서와 Release Note
-- 브랜드 아이콘, 도구 모음 직접 열기, 피드백
-- 배포 전 검사와 비밀정보 스캔
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.

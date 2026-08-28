@@ -1,37 +1,24 @@
 # سجل التغييرات
 
-[← BestHistory](README.md) · [كل اللغات](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
-أول Beta عامة من BestHistory.
+BestHistory v1.0.0 هو أول إصدار رسمي. نسخة Chrome Web Store ستتوفر قريبًا.
 
-### الأساس
-- تجميع السجل حسب الموقع
-- الأحدث / الأكثر زيارة / الاسم / المثبت / غير منظم / سلة المهملات
-- بحث في المواقع والنطاقات والوسوم والملاحظات والعناوين
-- تفاصيل الموقع والصفحات الأخيرة
-- وسوم وملاحظات وتثبيت
-- خط زمني قابل للطي حسب الموقع
-- تصدير CSV
-- تحديث تلقائي عند ظهور سجل جديد أو عودة الصفحة للظهور أو استعادة التركيز
+- تنظيم السجل حسب الموقع بدل قائمة طويلة من الصفحات
+- البحث في النطاقات وعناوين الصفحات والوسوم والملاحظات
+- AI Recall يحول الذاكرة الغامضة إلى فرضيات بحث محلية
+- تنظيم المواقع بالذكاء الاصطناعي واقتراح الوسوم
+- Private Mode مشفر محليًا مع حفظ اختياري للتصفح المتخفي
+- نسخ احتياطي / استعادة بملف واحد ودمج آمن
+- تسجيل الدخول عبر Google أو رمز البريد
+- تجربة Pro لمدة 30 يومًا للحسابات الجديدة
 
-### الخصوصية والنقل
-- Local-first
-- وضع خاص Pro بتشفير AES-256-GCM محلي
-- حفظ التصفح المتخفي اختيارياً بإذن صريح
-- مواقع/صفحات خاصة
-- تغيير كلمة المرور والقفل والقفل التلقائي وإعادة ضبط مدمرة
-- `.bhbackup` واحد مع دمج آمن
-- استعادة/حذف من سلة المهملات
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### الحساب وPro
-- تسجيل دخول OTP بالبريد
-- نموذج حقوق على الخادم
-- 30 يوم Pro للحسابات الجديدة خلال Beta
-- تخزين حقوق محلي وفترة سماح محدودة دون اتصال
+## Earlier beta
 
-### التحسين
-- 18 لغة للواجهة
-- وثائق وRelease Note بـ 18 لغة
-- أيقونة، فتح مباشر، feedback
-- فحوصات قبل الإصدار ومسح الأسرار
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.

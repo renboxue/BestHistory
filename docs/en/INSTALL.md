@@ -1,37 +1,19 @@
-# Install BestHistory Beta on Chrome
+# Installation — BestHistory v1.0.0
 
-[← BestHistory](README.md) · [All documentation languages](../LANGUAGES.md)
+BestHistory v1.0.0 is distributed through the Chrome Web Store. Once the listing is live, install and update it through the store.
 
-The current Beta is distributed through GitHub Releases before BestHistory is available in the Chrome Web Store.
+## Install
 
-## Download
-
-Latest release:
-
-**https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta**
-
-Download: `BestHistory-v0.1.0-beta-chrome.zip`
-
-## Installation
-
-1. Unzip the package into a folder you will keep.
-2. Open `chrome://extensions/`.
-3. Turn on **Developer mode**.
-4. Click **Load unpacked**.
-5. Select the extracted BestHistory folder.
-6. Optionally pin BestHistory from Chrome's Extensions menu.
-7. Click the BestHistory toolbar icon to open the main page directly.
+1. Open the Chrome Web Store.
+2. Search for **BestHistory**.
+3. Verify the developer and website information, then choose **Add to Chrome**.
+4. Optionally pin BestHistory in the extensions menu.
+5. Click the toolbar icon to open BestHistory.
 
 ## Incognito / Private Mode
 
-If you want BestHistory Pro Private Mode to capture incognito visits, Chrome requires you to explicitly allow the extension in incognito:
+If you want BestHistory Pro to save selected incognito-window visits into encrypted Private Mode, Chrome requires you to explicitly enable **Allow in Incognito** in `chrome://extensions/`. This permission is optional.
 
-1. Open `chrome://extensions/`.
-2. Open BestHistory **Details**.
-3. Enable **Allow in Incognito**.
+## Updates
 
-This permission is optional. BestHistory cannot enable it on your behalf.
-
-## Updating a manually installed Beta
-
-A newer Beta may require replacing the extracted extension folder and reloading the extension from `chrome://extensions/`. Back up important BestHistory data with `.bhbackup` before testing early updates.
+Chrome automatically updates Chrome Web Store installations. Before major upgrades, keeping a `.bhbackup` file is still recommended.

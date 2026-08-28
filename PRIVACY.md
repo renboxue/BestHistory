@@ -1,41 +1,52 @@
 # BestHistory 隐私说明
 
-_最后更新：2026-08-20_
+_Last updated: 2026-08-27_
 
-[🌐 18 种语言文档](docs/LANGUAGES.md)
+BestHistory 采用本地优先设计。本说明解释哪些数据留在设备上、哪些少量数据会因账户、支付或 AI 功能离开设备，以及由谁处理。
 
-BestHistory 是一款以本地数据为优先的浏览器历史整理扩展。
+## Local data
 
-## 浏览数据
+- 完整浏览历史数据库、普通历史记录、私密模式数据库、私密模式密码和 .bhbackup 备份文件默认保存在本机。
+- BestHistory 不出售浏览数据，不将其用于广告，也不向数据经纪商提供。
 
-BestHistory 会在用户设备上处理浏览历史、访问过的网址、页面标题、网站元数据、标签、备注、搜索输入和私密模式记录。这些浏览数据不会上传到 BestHistory 的账户服务器。
+## Optional AI processing
 
-## 账户与权益数据
+AI 功能是可选且由用户主动触发。AI 回忆可能发送你的查询、已选的现有标签，以及最多 12 条本地线索（域名和/或页面标题）。AI 整理网站可能分批发送域名、网站显示名、当前标签、最多 5 个近期页面标题、访问次数和页面数量。BestHistory 不会为了这些 AI 功能发送完整浏览历史数据库、网页正文、私密模式记录或备份文件。
 
-如果你选择登录，BestHistory 会使用账户基础设施识别你的 BestHistory 账户，并判断 Free、Trial 或 Pro 权益。账户侧可能包含：
+## Accounts and service providers
 
-- 账户 ID；
-- 邮箱地址和必要的认证元数据；
-- 首选界面语言；
-- 会员 / 试用 / 订阅状态及有效期；
-- 正式付费订阅上线后所需的支付平台标识。
+Supabase 用于认证、权益存储和 Edge Functions；Google 可用于 OAuth 登录；Resend 用于发送认证邮件；Paddle 作为 Merchant of Record 处理购买和订阅管理；火山引擎 / 豆包 Ark 处理 BestHistory AI 请求。
 
-## 私密模式
+BestHistory 可能保存账户 ID、邮箱、首选语言、试用/套餐状态、有效期以及支付平台标识等账户与权益数据。BestHistory 不接收或保存完整银行卡信息。
 
-私密模式会在本机加密保存私密浏览记录。私密网址、标题和访问数据均在设备上加密。私密模式密码以及解密后的私密浏览数据不会发送到 BestHistory 服务器。
+## Private Mode
 
-## 备份文件
+私密模式记录在本机加密。私密模式密码和解密后的私密记录不会发送到 BestHistory 服务器。
 
-BestHistory 备份文件由用户在本地生成，BestHistory 不会自动上传。用户需要自行妥善保存备份文件。备份中的私密模式记录仍保持加密，但普通历史数据不应被视为整个文件都经过加密。
+## Payments
 
-## 第三方服务
+BestHistory Pro is offered as **$2.99/month**, **$24.99/year**, or a **$59.99 one-time Lifetime** purchase. Paddle processes checkout, tax, receipts, refunds and subscription administration as Merchant of Record. Google is not the seller. BestHistory does not receive or store full payment-card details.
 
-BestHistory 当前使用 Supabase 处理账户认证和权益数据，使用 Amazon SES 发送认证邮件。这些服务只处理账户和邮件投递流程所需的数据，不处理或保存用户的浏览历史。
+## Sharing and use restrictions
 
-## 数据删除
+仅在提供你选择的功能、完成认证/支付、保障服务安全或遵守法律所必需时向第三方传输数据。BestHistory 不出售用户数据，也不用于个性化广告。
 
-用户可以从扩展中删除本地 BestHistory 数据。退出登录会移除本地账户会话，但不会刻意删除用户本地的浏览历史整理数据。账户删除流程可能会在 Beta 期间继续完善。
+## Chrome Web Store Limited Use
 
-## 联系方式
+> The use of information received from Google APIs will adhere to the Chrome Web Store User Data Policy, including the Limited Use requirements.
 
-隐私问题：**besthistory@126.com**
+BestHistory limits Google/Chrome user data to the disclosed, user-facing purpose of helping you organize, search, privately manage, back up, and rediscover your browser history and related account/entitlement operations.
+
+## Retention and deletion
+
+你可以在扩展中删除本地 BestHistory 数据。退出登录会移除本地会话。如需删除服务器侧账户数据，可联系 besthistory@126.com。
+
+## Security
+
+Data sent to BestHistory services is transmitted over HTTPS. Authentication credentials, payment secrets and AI provider secrets are kept server-side and are not included in the extension package.
+
+## Contact
+
+**besthistory@126.com**
+
+> If a translated version differs from the English version on a legal or policy point, the English version controls.

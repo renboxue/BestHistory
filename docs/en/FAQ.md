@@ -1,21 +1,26 @@
 # FAQ
 
-[← BestHistory](README.md) · [All documentation languages](../LANGUAGES.md)
-
-## Do I need an account to use BestHistory?
-No. Core local history-organization features work without an account. An account is mainly used for Pro / trial entitlement.
+## Do I need an account?
+No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
 
 ## Does BestHistory upload my browsing history?
-No. BestHistory's account server is not designed to store your browser history, URLs, titles, tags, notes, searches or private records.
+The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
 
-## What happens when my Pro trial expires?
-Pro-only features become unavailable, but existing encrypted private data stays on your device instead of being deleted. Regaining Pro access restores access to that local encrypted data.
+## Does AI read my entire history?
+No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
 
-## Is `.bhbackup` a full browser snapshot restore?
-No. It is a BestHistory data-transfer and safe-merge format designed for moving and merging BestHistory data between installations, devices or browsers. It does not rewind Chrome itself to an earlier state.
+## What does Pro cost?
+$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
 
-## Why is incognito permission separate?
-Chrome requires the user to explicitly allow each extension to run in incognito. BestHistory cannot enable that permission on your behalf.
+## How do cancellation and refunds work?
+Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
 
-## Why is the source code not on GitHub?
-This public repository contains product information, documentation, feedback and Beta releases. The BestHistory application source code remains proprietary.
+## Where is Private Mode data stored?
+Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
+
+## Why isn't the source code on GitHub?
+The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+
+## Contact
+
+Support: besthistory@126.com

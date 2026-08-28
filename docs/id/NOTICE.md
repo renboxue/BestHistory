@@ -1,7 +1,5 @@
-# Pemberitahuan
+# Notice
 
-[← BestHistory](README.md) · [Semua bahasa](../LANGUAGES.md)
+BestHistory is proprietary software. Copyright © 2026 BestHistory. All rights reserved.
 
-BestHistory adalah software proprietary. Copyright © 2026 BestHistory. All rights reserved.
-
-Repositori publik ini disediakan untuk dokumentasi produk, distribusi Beta, dan feedback. Publikasi dokumentasi atau paket Beta hasil kompilasi tidak memberikan izin untuk menyalin, memodifikasi, mendistribusikan ulang, atau membuat karya turunan dari source code BestHistory.
+This public repository is used for the product website, documentation, privacy/service policies, support, and release information. Public documentation or compiled extension packages do not grant a license to copy, modify, redistribute the proprietary BestHistory application source, or create derivative works.

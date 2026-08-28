@@ -1,28 +1,52 @@
-# BestHistory 隱私說明
+# 隱私說明
 
-_最後更新：2026-08-20_
+_Last updated: 2026-08-27_
 
-[← BestHistory](README.md) · [所有文件語言](../LANGUAGES.md)
+本機優先：完整瀏覽歷史資料庫、私密模式資料和備份檔不會上傳到 BestHistory 帳戶伺服器。只有當你主動使用 AI 功能時，完成該次 AI 請求所必需的少量資料才會傳送到伺服器與 AI 服務商；具體欄位見隱私說明。
 
-BestHistory 是一款以本機資料為優先的瀏覽歷史整理擴充功能。
+## Local data
 
-## 瀏覽資料
-BestHistory 會在使用者裝置上處理瀏覽歷史、訪問網址、頁面標題、網站中繼資料、標籤、備註、搜尋輸入和私密模式紀錄。這些瀏覽資料不會上傳到 BestHistory 帳戶伺服器。
+- 本機優先：完整瀏覽歷史資料庫、私密模式資料和備份檔不會上傳到 BestHistory 帳戶伺服器。只有當你主動使用 AI 功能時，完成該次 AI 請求所必需的少量資料才會傳送到伺服器與 AI 服務商；具體欄位見隱私說明。
+- BestHistory does not sell user data or use it for personalized advertising.
 
-## 帳戶與權益資料
-如果你選擇登入，BestHistory 會使用帳戶基礎設施識別帳戶並判斷 Free、Trial 或 Pro 權益。帳戶側可能包含帳戶 ID、電子郵件、必要的認證資料、介面語言、試用/會員/訂閱狀態與有效期，以及未來正式付費後所需的支付平台識別資訊。
+## Optional AI processing
 
-## 私密模式
-私密模式會在本機加密私密瀏覽紀錄。私密網址、標題和訪問資料在裝置上加密；私密模式密碼和解密後的私密資料不會傳送到 BestHistory 伺服器。
+AI features are optional and user-initiated. AI Recall may send the search description, existing tags and a small number of local domain/title hints. AI Organize may send domain, display name, current tags, up to 5 recent page titles, visit count and page count. The complete browsing-history database, Private Mode records, page contents and backup files are not sent for AI processing.
 
-## 備份檔
-`.bhbackup` 由使用者在本機建立，BestHistory 不會自動上傳。私密模式內容在備份中仍保持加密，但一般歷史資料不應被視為整個檔案都已加密。
+## Accounts and service providers
 
-## 第三方服務
-BestHistory 目前使用 Supabase 處理帳戶認證與權益資料，使用 Amazon SES 發送認證郵件。這些服務只處理帳戶和郵件投遞所需資料，不處理或保存使用者瀏覽歷史。
+Supabase handles authentication, entitlement data and Edge Functions; Google may provide OAuth sign-in; Resend delivers authentication email; Paddle processes purchases as Merchant of Record; Volcano Engine / Doubao Ark processes AI requests.
 
-## 資料刪除
-你可以在擴充功能中刪除本機 BestHistory 資料。登出會移除本機帳戶工作階段，但不會刻意刪除本機瀏覽歷史整理資料。帳戶刪除流程可能在 Beta 期間繼續完善。
+Account-side data may include account ID, email, preferred language, trial/plan status, validity dates and payment-provider identifiers. BestHistory does not receive or store full card details.
 
-## 聯絡
-隱私問題：**besthistory@126.com**
+## Private Mode
+
+Private Mode records are encrypted locally. The Private Mode password and decrypted private records are not sent to BestHistory servers.
+
+## Payments
+
+BestHistory Pro is offered as **$2.99/month**, **$24.99/year**, or a **$59.99 one-time Lifetime** purchase. Paddle processes checkout, tax, receipts, refunds and subscription administration as Merchant of Record. Google is not the seller. BestHistory does not receive or store full payment-card details.
+
+## Sharing and use restrictions
+
+Data is transferred only when necessary to provide the chosen feature, authentication/payment, security, or legal compliance. It is not sold or used for personalized advertising.
+
+## Chrome Web Store Limited Use
+
+> The use of information received from Google APIs will adhere to the Chrome Web Store User Data Policy, including the Limited Use requirements.
+
+BestHistory limits Google/Chrome user data to the disclosed, user-facing purpose of helping you organize, search, privately manage, back up, and rediscover your browser history and related account/entitlement operations.
+
+## Retention and deletion
+
+You can delete local BestHistory data in the extension. To request deletion of server-side account data, contact besthistory@126.com.
+
+## Security
+
+Data sent to BestHistory services is transmitted over HTTPS. Authentication credentials, payment secrets and AI provider secrets are kept server-side and are not included in the extension package.
+
+## Contact
+
+**besthistory@126.com**
+
+> If a translated version differs from the English version on a legal or policy point, the English version controls.

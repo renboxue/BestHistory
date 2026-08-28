@@ -1,37 +1,24 @@
-# Changelog
+# Perubahan
 
-[← BestHistory](README.md) · [Semua bahasa](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
-Beta publik pertama BestHistory.
+BestHistory v1.0.0 adalah rilis resmi pertama. Versi Chrome Web Store akan segera hadir.
 
-### Inti
-- Agregasi riwayat berdasarkan situs
-- Terbaru / Paling sering / Nama / Disematkan / Belum diatur / Tong Sampah
-- Pencarian situs, domain, tag, catatan, judul
-- Detail situs dan halaman terbaru
-- Tag, catatan, dan pin
-- Timeline lipat per situs
-- Ekspor CSV
-- Refresh otomatis saat ada riwayat baru, halaman kembali terlihat, atau window kembali fokus
+- Riwayat berbasis situs, bukan daftar halaman tanpa akhir
+- Cari domain, judul halaman, tag, dan catatan
+- AI Recall mengubah ingatan samar menjadi hipotesis pencarian lokal
+- Pengorganisasian AI dan saran tag
+- Private Mode terenkripsi lokal dan tangkapan incognito opsional
+- Backup / restore satu file dengan merge aman
+- Login Google dan kode email
+- Pro Trial 30 hari untuk akun baru
 
-### Privasi dan portabilitas
-- Local-first
-- Mode Privat Pro dengan AES-256-GCM lokal
-- Capture incognito opsional dengan izin eksplisit
-- Situs/halaman privat
-- Ganti password, lock, auto-lock, reset destruktif
-- Satu `.bhbackup` dengan safe merge
-- Restore/hapus dari Tong Sampah
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### Akun dan Pro
-- Login OTP email
-- Model entitlement server
-- 30 hari trial Pro untuk akun Beta baru
-- Cache entitlement lokal dan grace offline terbatas
+## Earlier beta
 
-### Penyempurnaan
-- 18 bahasa UI
-- Dokumentasi dan Release Note dalam 18 bahasa
-- Ikon brand, buka langsung, feedback
-- Pemeriksaan release dan secret scan
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.

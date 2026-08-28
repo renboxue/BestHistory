@@ -1,38 +1,24 @@
 # 更新日誌
 
-[← BestHistory](README.md) · [所有文件語言](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
+BestHistory v1.0.0 已正式發布，Chrome Web Store 商店版本即將上線。
 
-BestHistory 第一個公開 Beta。
+- 以網站為中心整理歷史，而不是面對成千上萬條頁面記錄
+- 搜尋網域、頁面標題、標籤和自己的備註
+- AI 回憶：把模糊記憶擴展成本機歷史搜尋線索
+- AI 整理網站：根據有限網站資訊建議標籤
+- 私密模式：本機加密，並可選擇記錄無痕視窗存取
+- 單檔備份 / 還原與安全合併
+- Google 登入與電子郵件驗證碼登入
+- 新帳戶 30 天 Pro Trial
 
-### 核心
-- 以網站為中心聚合瀏覽歷史
-- 最近、最常、名稱、已固定、未整理、廢件箱等視圖
-- 搜尋網站、網域、標籤、備註與頁面標題
-- 網站詳情與最近頁面
-- 自訂標籤、備註和固定
-- 按網站折疊的時間軸
-- CSV 匯出
-- BestHistory 長時間開啟時，新歷史產生、頁面重新可見或視窗重新取得焦點會自動刷新網站與時間軸
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### 隱私與遷移
-- 本機優先
-- Pro 私密模式使用 AES-256-GCM 本機加密
-- 明確授權後可保存無痕訪問
-- 私密網站 / 私密頁面
-- 密碼修改、鎖定、自動鎖定與破壞性重置
-- 單檔 `.bhbackup` 安全合併式備份與恢復
-- 廢件箱恢復、永久刪除與清空
+## Earlier beta
 
-### 帳戶與 Pro
-- 電子郵件 OTP 登入
-- 伺服器端權益模型
-- Beta 新註冊帳戶 30 天 Pro 試用
-- 本機權益快取與有限離線寬限
-
-### 完善
-- 18 種介面語言
-- 18 種語言文件與 Release Note
-- 品牌圖示、工具列一鍵開啟、意見回饋入口
-- 發布前檢查與敏感資訊掃描
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.

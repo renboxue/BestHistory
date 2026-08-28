@@ -1,37 +1,24 @@
 # Changelog
 
-[← BestHistory](README.md) · [সব ভাষা](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
-BestHistory-এর প্রথম public Beta।
+BestHistory v1.0.0 হলো প্রথম আনুষ্ঠানিক রিলিজ। Chrome Web Store সংস্করণ শিগগিরই আসছে।
 
-### Core
-- Website-first history grouping
-- Recent / Most visited / Name / Pinned / Unorganized / Trash
-- Site, domain, tag, note, page title search
-- Site details এবং recent pages
-- Custom tags, notes, pins
-- Site-wise collapsible timeline
-- CSV export
-- New history, visibility return বা focus return-এ automatic refresh
+- দীর্ঘ page list নয়, website-first history
+- domain, page title, tag ও note-এ search
+- AI Recall অস্পষ্ট স্মৃতিকে local search hypothesis-এ রূপ দেয়
+- AI website organization ও tag suggestion
+- local encryption সহ Private Mode এবং optional incognito capture
+- এক ফাইল backup / restore ও safe merge
+- Google sign-in এবং email code
+- নতুন account-এর জন্য 30-day Pro Trial
 
-### Privacy এবং portability
-- Local-first
-- Local AES-256-GCM সহ Pro Private Mode
-- Explicit permission-এর পর optional Incognito capture
-- Private sites/pages
-- Password change, lock, auto-lock, destructive reset
-- Single `.bhbackup` safe merge
-- Trash restore/permanent delete
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### Account এবং Pro
-- Email OTP login
-- Server entitlement model
-- New Beta account-এ 30-day Pro trial
-- Local entitlement cache এবং limited offline grace
+## Earlier beta
 
-### Polish
-- 18 interface languages
-- 18 ভাষায় docs এবং Release Note
-- Brand icon, direct open, feedback
-- Release checks এবং secret scan
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.

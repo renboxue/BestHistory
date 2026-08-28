@@ -1,37 +1,24 @@
-# Historique des versions
+# Historique
 
-[← BestHistory](README.md) · [Toutes les langues](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
-Première Beta publique de BestHistory.
+BestHistory v1.0.0 est la première version officielle. Sa publication sur le Chrome Web Store arrive bientôt.
 
-### Cœur
-- Agrégation de l’historique par site
-- Vues Récents, Plus visités, Nom, Épinglés, Non classés, Corbeille
-- Recherche sites, domaines, étiquettes, notes et titres
-- Détails de site et pages récentes
-- Étiquettes, notes, épingles
-- Chronologie repliable par site
-- Export CSV
-- Actualisation automatique lors de nouveaux historiques, retour de visibilité ou reprise du focus
+- Historique organisé par site plutôt qu'une longue liste de pages
+- Recherche dans domaines, titres, tags et notes
+- AI Recall transforme un souvenir vague en hypothèses de recherche locale
+- Organisation IA et suggestions de tags
+- Private Mode chiffré localement et capture incognito optionnelle
+- Sauvegarde / restauration en un fichier avec fusion sûre
+- Connexion Google et code e-mail
+- 30 jours de Pro Trial pour les nouveaux comptes
 
-### Confidentialité et portabilité
-- Traitement local-first
-- Mode privé Pro AES-256-GCM local
-- Capture privée facultative avec autorisation explicite
-- Sites/pages privés
-- Changement de mot de passe, verrouillage, auto-verrouillage, réinitialisation destructive
-- `.bhbackup` unique avec fusion sûre
-- Restauration et suppression depuis la Corbeille
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### Compte et Pro
-- Connexion OTP par e-mail
-- Modèle de droits serveur
-- 30 jours d’essai Pro pour les nouveaux comptes en Beta
-- Cache local et tolérance hors ligne limitée
+## Earlier beta
 
-### Finition
-- 18 langues d’interface
-- Documentation et Release Note en 18 langues
-- Icône de marque, ouverture directe, feedback
-- Vérifications de release et analyse des secrets
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.

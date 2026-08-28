@@ -1,23 +1,19 @@
-# Chrome'a BestHistory Beta kurma
+# Kurulum — BestHistory v1.0.0
 
-[← BestHistory](README.md) · [Tüm diller](../LANGUAGES.md)
+BestHistory v1.0.0 is distributed through the Chrome Web Store. Once the listing is live, install and update it through the store.
 
-Chrome Web Store'a gelmeden önce Beta GitHub Releases üzerinden dağıtılır.
+## Install
 
-İndirme: **https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta**
+1. Open the Chrome Web Store.
+2. Search for **BestHistory**.
+3. Verify the developer and website information, then choose **Add to Chrome**.
+4. Optionally pin BestHistory in the extensions menu.
+5. Click the toolbar icon to open BestHistory.
 
-Dosya: `BestHistory-v0.1.0-beta-chrome.zip`
+## Incognito / Private Mode
 
-1. ZIP'i saklayacağınız bir klasöre çıkarın.
-2. `chrome://extensions/` açın.
-3. **Geliştirici modu**nu açın.
-4. **Paketlenmemiş uzantı yükle**yi tıklayın.
-5. Çıkarılan BestHistory klasörünü seçin.
-6. İsterseniz uzantı menüsünden sabitleyin.
-7. Araç çubuğu simgesi ana sayfayı açar.
+If you want BestHistory Pro to save selected incognito-window visits into encrypted Private Mode, Chrome requires you to explicitly enable **Allow in Incognito** in `chrome://extensions/`. This permission is optional.
 
-## Gizli / Özel Mod
-Gizli ziyaretleri kaydetmek için `chrome://extensions/` → BestHistory ayrıntıları → **Gizli modda izin ver** seçeneğini açın. Bu izin isteğe bağlıdır ve BestHistory sizin yerinize açamaz.
+## Updates
 
-## Manuel güncelleme
-Yeni Beta, çıkarılmış klasörü değiştirmeyi ve uzantıyı yeniden yüklemeyi gerektirebilir. Erken güncellemelerden önce `.bhbackup` önerilir.
+Chrome automatically updates Chrome Web Store installations. Before major upgrades, keeping a `.bhbackup` file is still recommended.

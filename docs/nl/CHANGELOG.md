@@ -1,37 +1,24 @@
-# Changelog
+# Wijzigingen
 
-[← BestHistory](README.md) · [Alle talen](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
-Eerste openbare BestHistory Beta.
+BestHistory v1.0.0 is de eerste officiële release. De Chrome Web Store-versie komt binnenkort.
 
-### Kern
-- Website-first geschiedenisgroepering
-- Recent, Meest bezocht, Naam, Vastgezet, Niet georganiseerd, Prullenbak
-- Zoeken in sites, domeinen, labels, notities, paginatitels
-- Sitedetails en recente pagina’s
-- Eigen labels, notities en pins
-- Inklapbare tijdlijn per site
-- CSV-export
-- Automatische refresh bij nieuwe geschiedenis, terugkerende zichtbaarheid of focus
+- Geschiedenis per website in plaats van een eindeloze paginalijst
+- Zoeken in domeinen, paginatitels, tags en notities
+- AI Recall zet vage herinneringen om in lokale zoekhypothesen
+- AI-organisatie en tagsuggesties
+- Lokaal versleutelde Private Mode en optionele incognito-opslag
+- Back-up / herstel in één bestand met veilige samenvoeging
+- Google-login en e-mailcode
+- 30 dagen Pro Trial voor nieuwe accounts
 
-### Privacy en overdraagbaarheid
-- Local-first
-- Pro Privémodus met lokale AES-256-GCM
-- Optionele incognitocapture met expliciete toestemming
-- Privésites/pagina’s
-- Wachtwoord wijzigen, lock, auto-lock, destructieve reset
-- Eén `.bhbackup` met veilige merge
-- Prullenbak herstellen, permanent verwijderen en legen
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### Account en Pro
-- E-mail OTP-login
-- Server-side rechtenmodel
-- 30 dagen Pro-proefperiode voor nieuwe Beta-accounts
-- Lokale rechtencache en beperkte offline marge
+## Earlier beta
 
-### Product
-- 18 UI-talen
-- Documentatie en Release Notes in 18 talen
-- Merkicoon, direct openen, feedback
-- Releasechecks en secret-scan
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.

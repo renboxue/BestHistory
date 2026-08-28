@@ -1,77 +1,52 @@
-# BestHistory Privacy Notice
+# Privacy Notice
 
-_Last updated: 2026-08-25_
+_Last updated: 2026-08-27_
 
-[← BestHistory](README.md) · [Terms of Service](TERMS.md) · [All documentation languages](../LANGUAGES.md)
+BestHistory is local-first. This notice explains what stays on your device, what limited data leaves the device for account, payment, or AI features, and who processes it.
 
-BestHistory is a local-first browser extension for organizing browser history.
+## Local data
 
-## Browsing data
+- Your complete browsing-history database, normal history records, Private Mode database, Private Mode password, and .bhbackup files are stored locally by default.
+- BestHistory does not sell browsing data, use it for advertising, or provide it to data brokers.
 
-BestHistory processes browser history, visited URLs, page titles, website metadata, tags, notes, search input and Private Mode records on the user's device. These browsing datasets are not uploaded to the BestHistory account server.
+## Optional AI processing
 
-## Account and entitlement data
+AI features are optional and user-initiated. AI Recall may send your query, selected existing tags, and up to 12 local hints containing a domain and/or page title. AI Organize may send batches containing domain, display name, current tags, up to 5 recent page titles, visit count, and page count. BestHistory does not send the complete browsing-history database, page contents, Private Mode records, or backup files for these AI features.
 
-If you choose to sign in, BestHistory uses account infrastructure to identify your BestHistory account and determine Free, Trial or Pro eligibility. Account-side data may include:
+## Accounts and service providers
 
-- account ID;
-- email address and authentication metadata;
-- preferred interface language;
-- membership / trial / subscription status and validity period;
-- payment-provider identifiers after paid subscriptions are introduced.
+Supabase provides authentication, entitlement storage, and Edge Functions. Google may provide OAuth sign-in. Resend delivers authentication email. Paddle processes purchases and subscription administration as Merchant of Record. Volcano Engine / Doubao Ark processes BestHistory AI requests.
 
-## Google Sign-In
-
-BestHistory offers Google Sign-In as an optional authentication method.
-
-When you sign in with Google, BestHistory may receive basic Google account information made available through the standard OpenID Connect profile scopes, such as your Google account identifier, email address, name and profile image.
-
-BestHistory uses this information only to authenticate you, create or identify your BestHistory account, maintain your signed-in session, and determine account or membership eligibility.
-
-BestHistory does not request access to Gmail, Google Drive, Google Calendar, Google Contacts, or other Google service content. Google account information obtained through Google Sign-In is not used to access your browsing history and is not sold or used for advertising.
-
-Authentication is handled through Supabase and Google. Their processing of authentication data is subject to their respective privacy and security practices.
+BestHistory receives account and entitlement data such as account ID, email, preferred language, trial/plan status, validity dates, and payment-provider identifiers. BestHistory does not receive or store full card details.
 
 ## Private Mode
 
-Private Mode encrypts private browsing records locally. Private URLs, titles and visit data are encrypted on the device. The Private Mode password and decrypted private browsing data are not sent to the BestHistory server.
+Private Mode records are encrypted locally. The Private Mode password and decrypted private records are not sent to BestHistory servers.
 
-## Backup files
+## Payments
 
-BestHistory backup files are created locally and are not uploaded by BestHistory. Users are responsible for storing backup files safely. Private Mode records in a backup remain encrypted; ordinary history data in a backup should not be assumed to be encrypted as a whole.
+BestHistory Pro is offered as **$2.99/month**, **$24.99/year**, or a **$59.99 one-time Lifetime** purchase. Paddle processes checkout, tax, receipts, refunds and subscription administration as Merchant of Record. Google is not the seller. BestHistory does not receive or store full payment-card details.
 
-## Third-party services
+## Sharing and use restrictions
 
-BestHistory currently uses:
+Data is transferred to third parties only when necessary to provide the feature you chose, operate authentication/payment, secure the service, or comply with law. It is not sold or used for personalized advertising.
 
-- **Supabase** for account authentication and entitlement data;
-- **Google Sign-In** as an optional account authentication method;
-- **Amazon SES** for authentication email delivery.
+## Chrome Web Store Limited Use
 
-These services process only the data required for account and authentication workflows. They do not receive the user's BestHistory browsing-history dataset from BestHistory.
+> The use of information received from Google APIs will adhere to the Chrome Web Store User Data Policy, including the Limited Use requirements.
 
-If paid subscriptions are introduced, BestHistory may use a third-party payment provider to process purchases. Payment providers may receive information required to complete and administer a transaction, such as payment and transaction identifiers. BestHistory does not need to receive full payment-card details from such providers.
+BestHistory limits Google/Chrome user data to the disclosed, user-facing purpose of helping you organize, search, privately manage, back up, and rediscover your browser history and related account/entitlement operations.
 
-## Data retention and deletion
+## Retention and deletion
 
-Users can delete local BestHistory data from the extension. Signing out removes the local account session but does not intentionally delete the user's local browsing-history organization data.
-
-Where account-deletion functionality is available, deleting a BestHistory account will remove or schedule deletion of account-side data that BestHistory controls, subject to limited retention required for security, fraud prevention, legal obligations, or transaction records. Local browsing-history data stored on the user's device is managed separately by the user.
-
-## Data sharing and sale
-
-BestHistory does not sell personal information. BestHistory does not sell Google user data.
-
-BestHistory shares account-related information only with service providers when necessary to provide authentication, email delivery, payments, security, or other requested product functionality, or where disclosure is required by law.
+You can delete local BestHistory data in the extension. Signing out removes the local session. To request deletion of server-side account data, contact besthistory@126.com.
 
 ## Security
 
-BestHistory uses technical and organizational measures appropriate to the nature of the data it processes. Local-first processing is used to reduce the amount of browsing data that needs to leave the user's device. No method of electronic storage or transmission can be guaranteed to be completely secure.
-
-## Changes to this notice
-
-We may update this Privacy Notice as BestHistory develops. When material changes are made, the "Last updated" date above will be changed and additional notice may be provided where appropriate.
+Data sent to BestHistory services is transmitted over HTTPS. Authentication credentials, payment secrets and AI provider secrets are kept server-side and are not included in the extension package.
 
 ## Contact
 
-Privacy questions: **besthistory@126.com**
+**besthistory@126.com**
+
+> If a translated version differs from the English version on a legal or policy point, the English version controls.

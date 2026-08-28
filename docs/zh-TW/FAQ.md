@@ -1,21 +1,26 @@
 # 常見問題
 
-[← BestHistory](README.md) · [所有文件語言](../LANGUAGES.md)
+## Do I need an account?
+No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
 
-## 一定要註冊帳戶嗎？
-不用。核心本機歷史整理功能不需要帳戶。帳戶主要用於 Pro / 試用權益。
+## Does BestHistory upload my browsing history?
+The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
 
-## BestHistory 會上傳我的瀏覽歷史嗎？
-不會。帳戶伺服器不保存你的歷史、網址、標題、標籤、備註、搜尋或私密紀錄。
+## Does AI read my entire history?
+No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
 
-## Pro 試用到期會怎樣？
-Pro 專屬功能暫時不可用，但已存在的加密私密資料會繼續保留在本機。重新取得 Pro 後即可再次查看。
+## What does Pro cost?
+$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
 
-## `.bhbackup` 是完整瀏覽器快照嗎？
-不是。它是 BestHistory 的資料遷移與安全合併格式，用於安裝、裝置或瀏覽器之間移動與合併資料，不會把 Chrome 回復到過去某個狀態。
+## How do cancellation and refunds work?
+Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
 
-## 為什麼無痕權限要單獨開？
-Chrome 要求使用者明確允許每個擴充功能在無痕模式中執行，BestHistory 無法代替你開啟。
+## Where is Private Mode data stored?
+Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
 
-## 為什麼 GitHub 沒有原始碼？
-公開倉庫用於產品資訊、文件、回饋和 Beta 發布。BestHistory 應用原始碼目前為專有程式碼。
+## Why isn't the source code on GitHub?
+The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+
+## Contact
+
+支援信箱：besthistory@126.com

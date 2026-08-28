@@ -1,21 +1,26 @@
 # FAQ
 
-[← BestHistory](README.md) · [সব ভাষা](../LANGUAGES.md)
+## Do I need an account?
+No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
 
-## Account লাগবে?
-না। মূল local feature account ছাড়া চলে। Account মূলত Pro / Trial entitlement-এর জন্য।
+## Does BestHistory upload my browsing history?
+The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
 
-## BestHistory কি আমার history upload করে?
-না। Account server history, URL, title, tag, note, search বা private record store করে না।
+## Does AI read my entire history?
+No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
 
-## Pro trial শেষ হলে?
-Pro feature unavailable হয়, কিন্তু existing encrypted private data device-এ থাকে এবং delete হয় না। Pro ফিরে এলে access ফিরে আসে।
+## What does Pro cost?
+$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
 
-## `.bhbackup` কি পুরো browser snapshot?
-না। এটি BestHistory data installation, device বা browser-এর মধ্যে move এবং safe merge করার format। এটি Chrome-কে আগের state-এ ফিরিয়ে দেয় না।
+## How do cancellation and refunds work?
+Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
 
-## Incognito permission আলাদা কেন?
-Chrome প্রতিটি extension-এর জন্য user-এর explicit permission চায়। BestHistory আপনার হয়ে enable করতে পারে না।
+## Where is Private Mode data stored?
+Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
 
-## Source code কি open source?
-না। Public repository product info, docs, feedback এবং Beta release-এর জন্য। Application source proprietary।
+## Why isn't the source code on GitHub?
+The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+
+## Contact
+
+Support: besthistory@126.com

@@ -1,21 +1,26 @@
 # FAQ
 
-[← BestHistory](README.md) · [全言語](../LANGUAGES.md)
+## Do I need an account?
+No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
 
-## アカウントは必要ですか？
-いいえ。主要なローカル履歴整理機能はアカウントなしで使えます。アカウントは主に Pro / トライアル権利の判定に使われます。
+## Does BestHistory upload my browsing history?
+The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
 
-## 閲覧履歴はアップロードされますか？
-いいえ。BestHistory のアカウントサーバーは履歴、URL、タイトル、タグ、メモ、検索、プライベート記録を保存しません。
+## Does AI read my entire history?
+No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
 
-## Pro トライアル終了後は？
-Pro 専用機能は利用できなくなりますが、暗号化済みのプライベートデータは端末に残り削除されません。再び Pro になればアクセスできます。
+## What does Pro cost?
+$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
 
-## `.bhbackup` はブラウザー全体のスナップショットですか？
-いいえ。BestHistory データをインストール、端末、ブラウザー間で移動・安全にマージする形式です。Chrome 自体を過去の状態へ戻すものではありません。
+## How do cancellation and refunds work?
+Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
 
-## シークレット権限が別なのはなぜ？
-Chrome が、各拡張機能についてユーザーの明示的な許可を要求するためです。BestHistory が代わりに有効化することはできません。
+## Where is Private Mode data stored?
+Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
 
-## ソースコードは公開されていますか？
-いいえ。この公開リポジトリは製品情報、ドキュメント、フィードバック、Beta 配布用です。アプリのソースコードはプロプライエタリです。
+## Why isn't the source code on GitHub?
+The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+
+## Contact
+
+サポート: besthistory@126.com

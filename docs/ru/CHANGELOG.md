@@ -1,37 +1,24 @@
-# История изменений
+# Изменения
 
-[← BestHistory](README.md) · [Все языки](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
-Первая публичная Beta BestHistory.
+BestHistory v1.0.0 — первый официальный релиз. Версия в Chrome Web Store появится в ближайшее время.
 
-### Основное
-- Группировка истории по сайтам
-- Недавние / Частые / Имя / Закреплённые / Не разобрано / Корзина
-- Поиск по сайтам, доменам, меткам, заметкам, заголовкам
-- Детали сайта и последние страницы
-- Метки, заметки, закрепление
-- Сворачиваемая временная шкала
-- Экспорт CSV
-- Автообновление при новой истории, возврате видимости или фокуса
+- История по сайтам вместо бесконечного списка страниц
+- Поиск по доменам, заголовкам, тегам и заметкам
+- AI Recall превращает смутное воспоминание в гипотезы локального поиска
+- AI-организация и предложения тегов
+- Локально зашифрованный Private Mode и опциональное сохранение инкогнито
+- Один файл резервной копии / восстановления с безопасным объединением
+- Вход Google и код по электронной почте
+- 30 дней Pro Trial для новых аккаунтов
 
-### Конфиденциальность и перенос
-- Local-first
-- Pro Приватный режим с локальным AES-256-GCM
-- Опциональное сохранение инкогнито после явного разрешения
-- Приватные сайты/страницы
-- Смена пароля, блокировка, авто-блокировка, разрушительный сброс
-- Один `.bhbackup` с безопасным объединением
-- Восстановление/удаление из Корзины
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### Аккаунт и Pro
-- Вход по e-mail OTP
-- Серверная модель прав
-- 30 дней Pro для новых Beta-аккаунтов
-- Локальный кэш прав и ограниченный offline grace
+## Earlier beta
 
-### Полировка
-- 18 языков интерфейса
-- Документация и Release Note на 18 языках
-- Иконка, прямое открытие, обратная связь
-- Release-checks и сканирование секретов
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.

@@ -1,21 +1,26 @@
 # FAQ
 
-[← BestHistory](README.md) · [Все языки](../LANGUAGES.md)
+## Do I need an account?
+No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
 
-## Нужен ли аккаунт?
-Нет. Основные локальные функции работают без аккаунта. Аккаунт нужен в основном для Pro / Trial.
+## Does BestHistory upload my browsing history?
+The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
 
-## BestHistory загружает мою историю?
-Нет. Сервер аккаунтов не хранит историю, URL, заголовки, метки, заметки, поиски или приватные записи.
+## Does AI read my entire history?
+No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
 
-## Что после окончания Pro Trial?
-Pro-функции блокируются, но существующие зашифрованные приватные данные остаются на устройстве и не удаляются. После возврата Pro доступ восстанавливается.
+## What does Pro cost?
+$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
 
-## `.bhbackup` — полный снимок браузера?
-Нет. Это формат переноса и безопасного объединения BestHistory между установками, устройствами или браузерами. Chrome сам не откатывается назад.
+## How do cancellation and refunds work?
+Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
 
-## Почему инкогнито-разрешение отдельно?
-Chrome требует явного разрешения пользователя для каждого расширения. BestHistory не может включить его автоматически.
+## Where is Private Mode data stored?
+Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
 
-## Исходный код открыт?
-Нет. Репозиторий содержит информацию о продукте, документацию, feedback и Beta. Код приложения проприетарный.
+## Why isn't the source code on GitHub?
+The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+
+## Contact
+
+Поддержка: besthistory@126.com

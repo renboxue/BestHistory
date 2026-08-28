@@ -1,37 +1,24 @@
-# Changelog
+# Thay đổi
 
-[← BestHistory](README.md) · [Tất cả ngôn ngữ](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
-Beta công khai đầu tiên của BestHistory.
+BestHistory v1.0.0 là bản phát hành chính thức đầu tiên. Phiên bản Chrome Web Store sẽ sớm ra mắt.
 
-### Cốt lõi
-- Nhóm lịch sử theo website
-- Gần đây / Truy cập nhiều / Tên / Đã ghim / Chưa sắp xếp / Thùng rác
-- Tìm kiếm website, domain, tag, ghi chú, tiêu đề
-- Chi tiết website và trang gần đây
-- Tag tùy chỉnh, ghi chú, ghim
-- Timeline thu gọn theo website
-- Xuất CSV
-- Tự động refresh khi có lịch sử mới, trang hiển thị lại hoặc cửa sổ lấy lại focus
+- Lịch sử theo website thay vì danh sách trang vô tận
+- Tìm trong domain, tiêu đề trang, thẻ và ghi chú
+- AI Recall biến ký ức mơ hồ thành giả thuyết tìm kiếm cục bộ
+- AI sắp xếp website và gợi ý thẻ
+- Private Mode mã hóa cục bộ và lưu incognito tùy chọn
+- Backup / restore một tệp với hợp nhất an toàn
+- Đăng nhập Google và mã email
+- Pro Trial 30 ngày cho tài khoản mới
 
-### Quyền riêng tư và di chuyển
-- Local-first
-- Chế độ riêng tư Pro với AES-256-GCM cục bộ
-- Ghi ẩn danh tùy chọn sau quyền rõ ràng
-- Website/trang riêng tư
-- Đổi password, khóa, auto-lock, destructive reset
-- Một `.bhbackup` với safe merge
-- Khôi phục/xóa từ Thùng rác
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### Tài khoản và Pro
-- Đăng nhập email OTP
-- Mô hình entitlement phía server
-- 30 ngày Pro cho tài khoản Beta mới
-- Cache entitlement local và offline grace hạn chế
+## Earlier beta
 
-### Hoàn thiện
-- 18 ngôn ngữ UI
-- Tài liệu và Release Note bằng 18 ngôn ngữ
-- Icon thương hiệu, mở trực tiếp, feedback
-- Kiểm tra release và secret scan
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.

@@ -1,23 +1,19 @@
-# Chrome पर BestHistory Beta इंस्टॉल करें
+# Installation — BestHistory v1.0.0
 
-[← BestHistory](README.md) · [सभी भाषाएँ](../LANGUAGES.md)
+BestHistory v1.0.0 is distributed through the Chrome Web Store. Once the listing is live, install and update it through the store.
 
-Chrome Web Store पर आने से पहले Beta GitHub Releases से मिलता है।
+## Install
 
-Download: **https://github.com/renboxue/BestHistory/releases/tag/v0.1.0-beta**
-
-File: `BestHistory-v0.1.0-beta-chrome.zip`
-
-1. ZIP को ऐसी folder में extract करें जिसे आप रखेंगे।
-2. `chrome://extensions/` खोलें।
-3. **Developer mode** चालू करें।
-4. **Load unpacked** क्लिक करें।
-5. Extract की गई BestHistory folder चुनें।
-6. चाहें तो extension menu में pin करें।
-7. Toolbar icon क्लिक करके main page खोलें।
+1. Open the Chrome Web Store.
+2. Search for **BestHistory**.
+3. Verify the developer and website information, then choose **Add to Chrome**.
+4. Optionally pin BestHistory in the extensions menu.
+5. Click the toolbar icon to open BestHistory.
 
 ## Incognito / Private Mode
-Incognito visits save करने के लिए `chrome://extensions/` → BestHistory Details → **Allow in Incognito** सक्षम करें। यह optional permission है और BestHistory इसे आपकी जगह चालू नहीं कर सकता।
 
-## Manual update
-नई Beta में extracted folder बदलना और extension reload करना पड़ सकता है। शुरुआती updates से पहले `.bhbackup` बनाना बेहतर है।
+If you want BestHistory Pro to save selected incognito-window visits into encrypted Private Mode, Chrome requires you to explicitly enable **Allow in Incognito** in `chrome://extensions/`. This permission is optional.
+
+## Updates
+
+Chrome automatically updates Chrome Web Store installations. Before major upgrades, keeping a `.bhbackup` file is still recommended.

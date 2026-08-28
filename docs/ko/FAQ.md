@@ -1,21 +1,26 @@
 # FAQ
 
-[← BestHistory](README.md) · [모든 문서 언어](../LANGUAGES.md)
+## Do I need an account?
+No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
 
-## 계정이 꼭 필요한가요?
-아니요. 핵심 로컬 기록 정리는 계정 없이 사용할 수 있습니다. 계정은 주로 Pro / 체험 권한 확인에 사용됩니다.
+## Does BestHistory upload my browsing history?
+The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
 
-## 브라우징 기록을 업로드하나요?
-아니요. BestHistory 계정 서버는 기록, URL, 제목, 태그, 메모, 검색, 비공개 기록을 저장하지 않습니다.
+## Does AI read my entire history?
+No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
 
-## Pro 체험이 끝나면?
-Pro 전용 기능은 사용할 수 없지만 기존 암호화 비공개 데이터는 기기에 남고 삭제되지 않습니다. Pro 권한을 다시 얻으면 다시 접근할 수 있습니다.
+## What does Pro cost?
+$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
 
-## `.bhbackup`은 브라우저 전체 스냅샷인가요?
-아니요. BestHistory 데이터를 설치/기기/브라우저 사이에서 이동하고 안전하게 병합하는 형식입니다. Chrome 자체를 과거 상태로 되돌리지 않습니다.
+## How do cancellation and refunds work?
+Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
 
-## 왜 시크릿 권한을 따로 켜야 하나요?
-Chrome이 각 확장 프로그램에 대해 사용자의 명시적 허용을 요구하기 때문입니다. BestHistory가 대신 활성화할 수 없습니다.
+## Where is Private Mode data stored?
+Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
 
-## 소스 코드는 오픈소스인가요?
-아니요. 공개 저장소는 제품 정보, 문서, 피드백, Beta 배포용입니다. 애플리케이션 소스는 독점 코드입니다.
+## Why isn't the source code on GitHub?
+The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+
+## Contact
+
+지원: besthistory@126.com

@@ -1,37 +1,24 @@
-# Änderungsprotokoll
+# Änderungen
 
-[← BestHistory](README.md) · [Alle Sprachen](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
-Erste öffentliche BestHistory-Beta.
+BestHistory v1.0.0 ist die erste offizielle Version. Die Veröffentlichung im Chrome Web Store folgt in Kürze.
 
-### Kern
-- Website-zentrierte Verlaufsaggregation
-- Zuletzt / Häufig / Name / Angeheftet / Unsortiert / Papierkorb
-- Suche über Websites, Domains, Tags, Notizen, Seitentitel
-- Website-Details und letzte Seiten
-- Eigene Tags, Notizen und Pins
-- Einklappbare Website-Timeline
-- CSV-Export
-- Automatische Aktualisierung bei neuem Verlauf, Sichtbarkeit oder erneutem Fokus
+- Website-zentrierter Verlauf statt endloser Seitenlisten
+- Suche in Domains, Seitentiteln, Tags und Notizen
+- AI Recall erweitert vage Erinnerungen zu lokalen Suchhypothesen
+- KI-Organisation und Tag-Vorschläge
+- Lokal verschlüsselter Private Mode mit optionaler Inkognito-Erfassung
+- Ein-Datei-Backup / Wiederherstellung mit sicherem Zusammenführen
+- Google-Anmeldung und E-Mail-Code
+- 30 Tage Pro Trial für neue Konten
 
-### Datenschutz und Portabilität
-- Local-first
-- Pro-Privatmodus mit lokalem AES-256-GCM
-- Optionale Inkognito-Aufzeichnung nach ausdrücklicher Freigabe
-- Private Websites/Seiten
-- Passwortwechsel, Sperren, Auto-Sperre, destruktiver Reset
-- Einzeldatei `.bhbackup` mit sicherer Zusammenführung
-- Papierkorb-Wiederherstellung, dauerhaftes Löschen, Leeren
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### Konto und Pro
-- E-Mail-OTP-Login
-- Server-Berechtigungsmodell
-- 30 Tage Pro-Test für neue Konten in der Beta
-- Lokaler Cache und begrenzte Offline-Kulanz
+## Earlier beta
 
-### Produkt
-- 18 UI-Sprachen
-- Dokumentation und Release Notes in 18 Sprachen
-- Markenicon, Direktöffnung, Feedback
-- Release-Checks und Secret-Scan
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.

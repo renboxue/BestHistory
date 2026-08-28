@@ -1,37 +1,24 @@
-# Değişiklik Günlüğü
+# Değişiklikler
 
-[← BestHistory](README.md) · [Tüm diller](../LANGUAGES.md)
+## v1.0.0 — 2026-08-27
 
-## v0.1.0 Beta — 2026-08-20
-İlk herkese açık BestHistory Beta.
+BestHistory v1.0.0 ilk resmi sürümdür. Chrome Web Store sürümü yakında yayınlanacaktır.
 
-### Temel
-- Site bazlı geçmiş gruplama
-- Son / En sık / İsim / Sabit / Düzenlenmemiş / Çöp Kutusu
-- Site, alan adı, etiket, not ve başlık araması
-- Site ayrıntıları ve son sayfalar
-- Özel etiketler, notlar, sabitleme
-- Site bazlı katlanabilir zaman çizelgesi
-- CSV dışa aktarma
-- Yeni geçmiş, görünürlük veya odak geri geldiğinde otomatik yenileme
+- Uzun sayfa listeleri yerine site merkezli geçmiş
+- Alan adı, sayfa başlığı, etiket ve notlarda arama
+- AI Recall belirsiz anıları yerel arama hipotezlerine dönüştürür
+- AI site düzenleme ve etiket önerileri
+- Yerel şifreli Private Mode ve isteğe bağlı gizli pencere kaydı
+- Tek dosya yedekleme / geri yükleme ve güvenli birleştirme
+- Google girişi ve e-posta kodu
+- Yeni hesaplar için 30 günlük Pro Trial
 
-### Gizlilik ve taşınabilirlik
-- Local-first
-- Yerel AES-256-GCM ile Pro Özel Mod
-- Açık izin sonrası isteğe bağlı gizli mod kaydı
-- Özel siteler/sayfalar
-- Parola değiştirme, kilit, otomatik kilit, yıkıcı sıfırlama
-- Tek `.bhbackup` ve güvenli birleştirme
-- Çöp Kutusu geri yükleme/kalıcı silme
+- Paddle Live billing: $2.99/month, $24.99/year, $59.99 one-time Lifetime.
+- Local-first privacy disclosures updated for optional AI processing.
+- Chrome Web Store Limited Use and production policy documentation added.
+- Client version metadata and lightweight server compatibility configuration added.
+- Overlay/modal layering and background scroll-through fixed.
 
-### Hesap ve Pro
-- E-posta OTP girişi
-- Sunucu hak modeli
-- Yeni Beta hesaplarına 30 gün Pro
-- Yerel hak önbelleği ve sınırlı çevrimdışı tolerans
+## Earlier beta
 
-### Ürün
-- 18 arayüz dili
-- 18 dilde belge ve Release Note
-- Marka simgesi, doğrudan açma, feedback
-- Release kontrolleri ve secret scan
+v0.1.0 Beta established the website-first history model, Private Mode, backup/restore, account entitlement model and 18-language interface.
