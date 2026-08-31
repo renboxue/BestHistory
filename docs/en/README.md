@@ -6,7 +6,7 @@
 
 > **v1.0.0** — BestHistory v1.0.0 is the first official release. The Chrome Web Store listing is coming soon.
 
-BestHistory is a privacy-first Chrome / Chromium browser history manager. It groups history by website first, then lets you search, tag, annotate, pin, privately store, back up, and rediscover sites you used before.
+BestHistory is a **Best Series** product by **Zhiban (博学智伴)**. It is a privacy-first Chrome / Chromium browser history manager that groups history by website first, then lets you search, tag, annotate, pin, privately store, back up, and rediscover sites you used before.
 
 <p align="center">
   <img src="../../assets/screenshots/home.webp" alt="BestHistory" width="100%" />
@@ -37,12 +37,19 @@ New BestHistory accounts receive a **30-day Pro Trial** before paid access is re
 
 Install from the Chrome Web Store when the v1.0.0 listing becomes available. The public repository contains product documentation and support materials, not the proprietary application source code.
 
+## Zhiban Community
+
+Zhiban Community is the shared community for BestHistory and future Best Series products. It will be used for product discussion, bug reports, feature requests, beta testing, early access, and release announcements.
+
+The official Discord server is currently being set up. See [COMMUNITY.md](../../COMMUNITY.md) for the latest status.
+
 ## Documentation
 
 - [Privacy](PRIVACY.md)
 - [Terms](TERMS.md)
 - [FAQ](FAQ.md)
 - [Installation](INSTALL.md)
+- [Community](../../COMMUNITY.md)
 - [Changelog](CHANGELOG.md)
 
 ## Contact
