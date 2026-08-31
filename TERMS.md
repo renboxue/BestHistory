@@ -1,8 +1,8 @@
 # BestHistory 服务条款
 
-_Last updated: 2026-08-27_
+_Last updated: 2026-08-31_
 
-使用 BestHistory 即表示你同意本条款。BestHistory 是一款浏览器历史整理工具，核心功能以本地数据处理为主。
+BestHistory 是 **博学智伴（Zhiban）Best Series** 产品，由 **北京博学智伴软件开发工作室（Beijing Boxue Zhiban Software Development Studio）** 运营。使用 BestHistory 即表示你同意本条款。BestHistory 是一款浏览器历史整理工具，核心功能以本地数据处理为主。
 
 ## 账户与试用
 
