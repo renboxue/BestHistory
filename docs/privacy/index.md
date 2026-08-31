@@ -6,9 +6,9 @@ permalink: /privacy/
 
 # BestHistory 隐私说明
 
-_Last updated: 2026-08-27_
+_Last updated: 2026-08-31_
 
-BestHistory 采用本地优先设计。本说明解释哪些数据留在设备上、哪些少量数据会因账户、支付或 AI 功能离开设备，以及由谁处理。
+BestHistory 是 **博学智伴（Zhiban）Best Series** 产品，由 **北京博学智伴软件开发工作室（Beijing Boxue Zhiban Software Development Studio）** 运营。BestHistory 采用本地优先设计。本说明解释哪些数据留在设备上、哪些少量数据会因账户、支付或 AI 功能离开设备，以及由谁处理。
 
 ## Local data
 
@@ -56,7 +56,6 @@ Data sent to BestHistory services is transmitted over HTTPS. Authentication cred
 **besthistory@126.com**
 
 > If a translated version differs from the English version on a legal or policy point, the English version controls.
-
 
 ---
 
