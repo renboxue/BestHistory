@@ -10,9 +10,9 @@ lang: zh-CN
 
 # BestHistory 隐私说明
 
-**最后更新：2026-08-27**
+**最后更新：2026-08-31**
 
-BestHistory 采用**本地优先**设计。本说明解释哪些数据留在设备上、哪些少量数据会因为账户、支付或 AI 功能离开设备，以及由谁处理。
+BestHistory 是 **博学智伴（Zhiban）Best Series** 产品，由 **北京博学智伴软件开发工作室（Beijing Boxue Zhiban Software Development Studio）** 运营。BestHistory 采用**本地优先**设计。本说明解释哪些数据留在设备上、哪些少量数据会因为账户、支付或 AI 功能离开设备，以及由谁处理。
 
 ## 本地数据
 
