@@ -9,9 +9,9 @@ description: BestHistory refund and cancellation policy for purchases processed 
 
 # BestHistory Refund Policy
 
-**Last updated: 2026-08-28**
+**Last updated: 2026-08-31**
 
-BestHistory is operated by **Beijing Boxue Zhiban Software Development Studio**. Payments for BestHistory Pro are processed by **Paddle**, which acts as the Merchant of Record.
+BestHistory is a **Best Series** product by **Zhiban (博学智伴)** and is operated by **Beijing Boxue Zhiban Software Development Studio**. Payments for BestHistory Pro are processed by **Paddle**, which acts as the Merchant of Record.
 
 ## Refund requests
 
