@@ -10,9 +10,9 @@ lang: zh-CN
 
 # BestHistory 服务条款
 
-**最后更新：2026-08-28**
+**最后更新：2026-08-31**
 
-BestHistory 由 **Beijing Boxue Zhiban Software Development Studio** 运营。使用 BestHistory 即表示你同意本条款。
+BestHistory 是 **博学智伴（Zhiban）Best Series** 产品，由 **北京博学智伴软件开发工作室（Beijing Boxue Zhiban Software Development Studio）** 运营。使用 BestHistory 即表示你同意本条款。
 
 BestHistory 是一款浏览器历史整理与找回工具，核心浏览历史数据库以本地处理为主。
 
