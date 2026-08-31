@@ -9,9 +9,9 @@ description: BestHistory Terms of Service covering accounts, trials, pricing, su
 
 # BestHistory Terms of Service
 
-**Last updated: 2026-08-28**
+**Last updated: 2026-08-31**
 
-These Terms of Service apply to BestHistory, operated by **Beijing Boxue Zhiban Software Development Studio**. By using BestHistory, you agree to these terms.
+BestHistory is a **Best Series** product by **Zhiban (博学智伴)** and is operated by **Beijing Boxue Zhiban Software Development Studio**. By using BestHistory, you agree to these terms.
 
 BestHistory is a browser-history organization and recall tool. Its core browsing-history database is designed to remain local on the user's device.
 
