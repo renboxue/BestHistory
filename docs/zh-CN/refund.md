@@ -10,9 +10,9 @@ lang: zh-CN
 
 # BestHistory 退款政策
 
-**最后更新：2026-08-28**
+**最后更新：2026-08-31**
 
-BestHistory 由 **Beijing Boxue Zhiban Software Development Studio** 运营。BestHistory Pro 的付款由 **Paddle** 处理，Paddle 是本交易的 Merchant of Record（记录商户）。
+BestHistory 是 **博学智伴（Zhiban）Best Series** 产品，由 **北京博学智伴软件开发工作室（Beijing Boxue Zhiban Software Development Studio）** 运营。BestHistory Pro 的付款由 **Paddle** 处理，Paddle 是本交易的 Merchant of Record（记录商户）。
 
 ## 退款申请
 
