@@ -15,4 +15,6 @@ These guides focus on practical browser-history problems rather than generic pro
 - [How to save incognito history privately when you choose to](save-incognito-history-privately.md)
 - [BetterHistory alternative: website-first history organization](betterhistory-alternative.md)
 
-[Back to BestHistory](../../index.md)
+## BestHistory
+
+BestHistory organizes Chrome history around websites instead of a flat list of page visits. If that matches the problem you are trying to solve, visit the [official BestHistory website](https://besthistory.boxuezhiban.cn/) or see the [installation guide](https://besthistory.boxuezhiban.cn/en/install/).
