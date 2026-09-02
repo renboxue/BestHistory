@@ -2,6 +2,8 @@
 
 <p align="center"><strong>Find websites you've forgotten.</strong></p>
 
+<p align="center"><strong><a href="https://besthistory.boxuezhiban.cn/">Official website</a></strong> · <a href="https://besthistory.boxuezhiban.cn/en/install/">Install BestHistory</a> · <a href="https://besthistory.boxuezhiban.cn/en/guides/">Browser history guides</a></p>
+
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · English · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
 > **v1.0.0** — BestHistory v1.0.0 is the first official release. The Chrome Web Store listing is coming soon.
@@ -35,7 +37,9 @@ New BestHistory accounts receive a **30-day Pro Trial** before paid access is re
 
 ## Install
 
-Install from the Chrome Web Store when the v1.0.0 listing becomes available. The public repository contains product documentation and support materials, not the proprietary application source code.
+BestHistory v1.0.0 can be installed now from GitHub Releases. See the [official installation guide](https://besthistory.boxuezhiban.cn/en/install/) for the current manual-install steps and the future Chrome Web Store route.
+
+The public repository contains product documentation and support materials, not the proprietary application source code.
 
 ## Zhiban Community
 
@@ -45,11 +49,12 @@ The official Discord server is currently being set up. See [COMMUNITY.md](../../
 
 ## Documentation
 
-- [Privacy](PRIVACY.md)
-- [Terms](TERMS.md)
-- [FAQ](FAQ.md)
-- [Installation](INSTALL.md)
-- [Community](../../COMMUNITY.md)
+- [Official website](https://besthistory.boxuezhiban.cn/)
+- [Browser history guides](https://besthistory.boxuezhiban.cn/en/guides/)
+- [Privacy](https://besthistory.boxuezhiban.cn/privacy/)
+- [Terms](https://besthistory.boxuezhiban.cn/terms/)
+- [Installation](https://besthistory.boxuezhiban.cn/en/install/)
+- [Community](https://besthistory.boxuezhiban.cn/community/)
 - [Changelog](CHANGELOG.md)
 
 ## Contact
