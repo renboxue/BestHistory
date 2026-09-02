@@ -43,4 +43,4 @@ One reason people accumulate dozens of tabs is simple: closing a useful page fee
 
 BestHistory was built around this exact problem.
 
-BestHistory **v1.0.0 is now the official release**, and the Chrome Web Store listing is coming soon. [Learn more about BestHistory](https://github.com/renboxue/BestHistory#readme).
+BestHistory **v1.0.0 is now the official release**, and the Chrome Web Store listing is coming soon. [Visit the official BestHistory website](https://besthistory.boxuezhiban.cn/) or [see the installation guide](https://besthistory.boxuezhiban.cn/en/install/).
