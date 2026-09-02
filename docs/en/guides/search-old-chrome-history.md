@@ -45,6 +45,6 @@ Browsing history is sensitive. BestHistory is local-first: the normal browsing-h
 
 ## Try the website-first approach
 
-If your main problem is not deleting history but **finding old websites again**, BestHistory **v1.0.0 is now the official release** and the Chrome Web Store listing is coming soon. [Learn more about BestHistory](https://github.com/renboxue/BestHistory#readme).
+If your main problem is not deleting history but **finding old websites again**, BestHistory **v1.0.0 is now the official release** and the Chrome Web Store listing is coming soon. [Visit the official BestHistory website](https://besthistory.boxuezhiban.cn/) or [see the installation guide](https://besthistory.boxuezhiban.cn/en/install/).
 
 Related: [How to find a website you visited before but forgot](find-website-you-visited-before.md).
