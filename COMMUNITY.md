@@ -2,9 +2,9 @@
 
 BestHistory is a **Best Series** product by **Zhiban (博学智伴)**.
 
-The shared community for BestHistory and future Zhiban products is being built under **Zhiban Community**.
+**Zhiban Community** is the shared community for BestHistory users and future Zhiban products.
 
-Planned uses:
+Use it for:
 
 - product discussion;
 - bug reports and feature requests;
@@ -14,13 +14,23 @@ Planned uses:
 
 ## Discord
 
-The official Zhiban Community Discord server is currently being created.
+The official **Zhiban Community** Discord server is now live.
 
-**Invite link: coming shortly.**
+**Join Zhiban Community:** https://discord.gg/X6p6BxdDW
 
-Until it is live, use:
+Inside the server:
 
+- `#welcome` — community introduction, official website and GitHub links;
+- `#announcements` — official BestHistory releases and product updates;
+- `#general` — community chat;
+- `best-history` — questions, feedback, feature ideas, bug reports and showcases.
+
+## Other official links
+
+- BestHistory website: https://besthistory.boxuezhiban.cn/
+- GitHub repository: https://github.com/renboxue/BestHistory
 - GitHub Issues: https://github.com/renboxue/BestHistory/issues
+- Latest release: https://github.com/renboxue/BestHistory/releases/tag/v1.0.0
 - Support email: besthistory@126.com
 
-Do not post private URLs, passwords, backup files, Private Mode records, or other sensitive browsing data in public channels.
+Do not post private URLs, passwords, backup files, Private Mode records, payment details, authentication codes, or other sensitive browsing data in public channels.
