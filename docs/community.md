@@ -2,7 +2,7 @@
 layout: default
 title: Zhiban Community — BestHistory
 permalink: /community/
-description: Join the Zhiban Community for BestHistory feedback, beta testing, product discussions, and future Best Series releases.
+description: Join the Zhiban Community for BestHistory feedback, beta testing, product discussions, releases, and future Best Series products.
 ---
 
 <div class="bh-doc-page" markdown="1">
@@ -21,23 +21,30 @@ Use it to:
 - follow important product releases and announcements;
 - help shape what Zhiban builds next.
 
-## Discord
+## Join Discord
 
-The official **Zhiban Community** Discord server is being set up now.
+The official **Zhiban Community** Discord server is now live.
 
-**Discord invite link: coming shortly.**
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://discord.gg/X6p6BxdDW">Join Zhiban Community on Discord</a></div>
 
-Once the server is ready, this page will contain the permanent invite link.
+Inside the server:
 
-## Feedback right now
+- **#welcome** — start here, with official website and GitHub links;
+- **#announcements** — official BestHistory releases and product updates;
+- **#general** — community chat;
+- **best-history** — questions, feedback, feature ideas, bug reports, and showcases.
 
-Until the Discord invite is live, you can still:
+## Official BestHistory links
 
-- open a [GitHub Issue](https://github.com/renboxue/BestHistory/issues);
-- email **besthistory@126.com**.
+- [BestHistory website](https://besthistory.boxuezhiban.cn/)
+- [GitHub repository](https://github.com/renboxue/BestHistory)
+- [BestHistory v1.0.0 release](https://github.com/renboxue/BestHistory/releases/tag/v1.0.0)
+- [GitHub Issues](https://github.com/renboxue/BestHistory/issues)
 
-Please do not include private URLs, passwords, backup files, private browsing records, or other sensitive browsing data in public issues or community posts.
+You can also email **besthistory@126.com** for support.
 
-<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-secondary" href="https://github.com/renboxue/BestHistory/issues">GitHub Issues</a><a class="bh-btn bh-btn-primary" href="/">Back to BestHistory</a></div>
+Please do not include private URLs, passwords, backup files, private browsing records, payment details, authentication codes, or other sensitive browsing data in public issues or community posts.
+
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://discord.gg/X6p6BxdDW">Join Discord</a><a class="bh-btn bh-btn-secondary" href="https://github.com/renboxue/BestHistory">GitHub</a><a class="bh-btn bh-btn-secondary" href="/">Back to BestHistory</a></div>
 
 </div>
