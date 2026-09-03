@@ -25,7 +25,7 @@ Use it to:
 
 The official **Zhiban Community** Discord server is now live.
 
-<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://discord.gg/X6p6BxdDW">Join Zhiban Community on Discord</a></div>
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://discord.gg/QRHNKweYqS">Join Zhiban Community on Discord</a></div>
 
 Inside the server:
 
@@ -45,6 +45,6 @@ You can also email **besthistory@126.com** for support.
 
 Please do not include private URLs, passwords, backup files, private browsing records, payment details, authentication codes, or other sensitive browsing data in public issues or community posts.
 
-<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://discord.gg/X6p6BxdDW">Join Discord</a><a class="bh-btn bh-btn-secondary" href="https://github.com/renboxue/BestHistory">GitHub</a><a class="bh-btn bh-btn-secondary" href="/">Back to BestHistory</a></div>
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://discord.gg/QRHNKweYqS">Join Discord</a><a class="bh-btn bh-btn-secondary" href="https://github.com/renboxue/BestHistory">GitHub</a><a class="bh-btn bh-btn-secondary" href="/">Back to BestHistory</a></div>
 
 </div>

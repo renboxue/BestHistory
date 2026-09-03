@@ -16,7 +16,7 @@ Use it for:
 
 The official **Zhiban Community** Discord server is now live.
 
-**Join Zhiban Community:** https://discord.gg/X6p6BxdDW
+**Join Zhiban Community:** https://discord.gg/QRHNKweYqS
 
 Inside the server:
 

@@ -26,7 +26,7 @@ lang: zh-CN
 
 官方 **Zhiban Community / 博学智伴社区** Discord 服务器现已开放。
 
-<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://discord.gg/X6p6BxdDW">加入 Zhiban Community</a></div>
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://discord.gg/QRHNKweYqS">加入 Zhiban Community</a></div>
 
 服务器内目前包括：
 
@@ -46,6 +46,6 @@ lang: zh-CN
 
 请不要在公开 Issue 或社区中提交私密网址、密码、备份文件、私密浏览记录、支付信息、验证码或其他敏感数据。
 
-<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://discord.gg/X6p6BxdDW">加入 Discord</a><a class="bh-btn bh-btn-secondary" href="https://github.com/renboxue/BestHistory">GitHub</a><a class="bh-btn bh-btn-secondary" href="/zh-CN/">返回 BestHistory</a></div>
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://discord.gg/QRHNKweYqS">加入 Discord</a><a class="bh-btn bh-btn-secondary" href="https://github.com/renboxue/BestHistory">GitHub</a><a class="bh-btn bh-btn-secondary" href="/zh-CN/">返回 BestHistory</a></div>
 
 </div>

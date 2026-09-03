@@ -30,7 +30,7 @@ Update and append to it; do not replace it wholesale with a short product-spec R
 <p align="center">
   <a href="https://besthistory.boxuezhiban.cn/">官方网站</a>
   &nbsp;·&nbsp;
-  <a href="https://discord.gg/X6p6BxdDW">Discord 社区</a>
+  <a href="https://discord.gg/QRHNKweYqS">Discord 社区</a>
   &nbsp;·&nbsp;
   <a href="INSTALL.md">安装说明</a>
   &nbsp;·&nbsp;
@@ -374,7 +374,7 @@ v1.0.0 是第一个正式版本。Chrome Web Store 商店版本也即将上线�
 如果 BestHistory 也刚好解决了你的问题，我会很感谢你：
 
 - ⭐ 给这个仓库一个 Star，让我知道确实有人需要它；
-- 🌐 加入 [Zhiban Community Discord](https://discord.gg/X6p6BxdDW)，参与讨论、反馈和后续 Beta；
+- 🌐 加入 [Zhiban Community Discord](https://discord.gg/QRHNKweYqS)，参与讨论、反馈和后续 Beta；
 - 🐛 遇到问题时提交一个 GitHub Issue；
 - 💡 告诉我你平时是怎么管理历史记录、收藏夹和一大堆标签页的；
 - ✉️ 如果不方便公开反馈，也可以发邮件到 **besthistory@126.com**。

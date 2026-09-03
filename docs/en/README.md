@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Find websites you've forgotten.</strong></p>
 
-<p align="center"><strong><a href="https://besthistory.boxuezhiban.cn/">Official website</a></strong> · <a href="https://besthistory.boxuezhiban.cn/en/install/">Install BestHistory</a> · <a href="https://besthistory.boxuezhiban.cn/en/guides/">Browser history guides</a> · <a href="https://discord.gg/X6p6BxdDW">Join Discord</a></p>
+<p align="center"><strong><a href="https://besthistory.boxuezhiban.cn/">Official website</a></strong> · <a href="https://besthistory.boxuezhiban.cn/en/install/">Install BestHistory</a> · <a href="https://besthistory.boxuezhiban.cn/en/guides/">Browser history guides</a> · <a href="https://discord.gg/QRHNKweYqS">Join Discord</a></p>
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · English · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
@@ -45,7 +45,7 @@ The public repository contains product documentation and support materials, not 
 
 Zhiban Community is the shared community for BestHistory and future Best Series products. It is used for product discussion, bug reports, feature requests, beta testing, early access, and release announcements.
 
-**Join the official Discord server:** https://discord.gg/X6p6BxdDW
+**Join the official Discord server:** https://discord.gg/QRHNKweYqS
 
 See [COMMUNITY.md](../../COMMUNITY.md) for community details and official links.
 
@@ -57,7 +57,7 @@ See [COMMUNITY.md](../../COMMUNITY.md) for community details and official links.
 - [Terms](https://besthistory.boxuezhiban.cn/terms/)
 - [Installation](https://besthistory.boxuezhiban.cn/en/install/)
 - [Community](https://besthistory.boxuezhiban.cn/community/)
-- [Discord](https://discord.gg/X6p6BxdDW)
+- [Discord](https://discord.gg/QRHNKweYqS)
 - [Changelog](CHANGELOG.md)
 
 ## Contact
