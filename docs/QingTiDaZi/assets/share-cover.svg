@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fcf9"/>
+      <stop offset="1" stop-color="#edf8f2"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#70e7ab"/>
+      <stop offset="1" stop-color="#1fba78"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1090" cy="70" r="210" fill="#dcf6e8" opacity=".9"/>
+  <circle cx="1110" cy="560" r="250" fill="#e7f8ef" opacity=".95"/>
+  <rect x="70" y="64" width="1060" height="502" rx="42" fill="#fff" stroke="#dceee5" stroke-width="2"/>
+
+  <rect x="126" y="118" width="94" height="94" rx="27" fill="url(#brand)"/>
+  <path d="M150 151c7-9 18-10 25-2 7-8 18-7 25 2 8 12-2 28-25 43-23-15-33-31-25-43Z" fill="#fff" opacity=".97"/>
+  <circle cx="166" cy="162" r="4" fill="#6bdc9f"/>
+  <circle cx="184" cy="162" r="4" fill="#1cae70"/>
+  <path d="M164 176c7 7 17 7 24 0" fill="none" stroke="#32bd7d" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="245" y="155" fill="#1f2f28" font-size="36" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">轻体搭子</text>
+  <text x="245" y="198" fill="#63776c" font-size="27" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">一个用聊天记录成长的私人空间</text>
+
+  <text x="126" y="340" fill="#1f2f28" font-size="78" font-weight="800" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">记住那些</text>
+  <text x="126" y="432" fill="#1fba78" font-size="78" font-weight="800" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">没人看见的坚持</text>
+  <rect x="128" y="471" width="515" height="58" rx="29" fill="#eaf8f1"/>
+  <text x="154" y="510" fill="#2d7452" font-size="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">不用分享给所有人，也值得为自己留下</text>
+
+  <rect x="770" y="250" width="250" height="76" rx="24" fill="#ecf8f2"/>
+  <text x="795" y="298" fill="#2f483b" font-size="25" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">今天还是去走了走。</text>
+  <rect x="700" y="355" width="280" height="116" rx="24" fill="#f7faf8" stroke="#e0ebe5" stroke-width="2"/>
+  <text x="725" y="399" fill="#4b5f55" font-size="24" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">值得记住的，是你</text>
+  <text x="725" y="438" fill="#4b5f55" font-size="24" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">最后还是出门了。</text>
+  <text x="918" y="548" fill="#8a9891" font-size="21" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">轻体搭子 · QingTiDaZi</text>
+</svg>
