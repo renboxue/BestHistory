@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="智伴亲情相框">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6f9179"/><stop offset="1" stop-color="#3f6250"/></linearGradient></defs>
+  <rect width="64" height="64" rx="16" fill="#edf4ee"/>
+  <rect x="10" y="12" width="44" height="34" rx="6" fill="url(#g)"/>
+  <rect x="15" y="17" width="34" height="24" rx="3" fill="#dce8df"/>
+  <circle cx="40" cy="24" r="4" fill="#e7b96f"/>
+  <path d="M15 37l9-9 7 6 6-5 12 12H15z" fill="#799a80"/>
+  <rect x="27" y="46" width="10" height="4" rx="2" fill="#3f6250"/>
+  <rect x="22" y="50" width="20" height="3" rx="1.5" fill="#3f6250"/>
+</svg>
