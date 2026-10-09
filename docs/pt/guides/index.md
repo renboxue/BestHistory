@@ -13,6 +13,5 @@ Você lembra para que servia um site, mas esqueceu seu nome? Veja como procurar 
 - [Encontrar um site esquecido](/pt/guides/find-website-you-visited-before/)
 - [Pesquisar histórico antigo do Chrome](/pt/guides/search-old-chrome-history/)
 
-**Instalar BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**Instalar BestHistory:** [Instalar no Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Instalar no Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-[English](/en/guides/) · [简体中文](/zh-CN/guides/)
