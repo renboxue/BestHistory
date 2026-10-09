@@ -455,3 +455,9 @@ body {
   .bh-btn { width: 100%; }
   .bh-footer-nav { justify-content: flex-start; }
 }
+
+/* SEO guide localized-language navigation */
+.bh-locales { max-width: 1000px; margin: 12px auto 0; padding: 8px 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 14px; font-size: 0.87rem; }
+.bh-locales a { color: #53627a; text-decoration: none; }
+.bh-locales a[aria-current="page"] { font-weight: 700; text-decoration: underline; text-underline-offset: 4px; }
+.bh-locales a:hover { text-decoration: underline; }

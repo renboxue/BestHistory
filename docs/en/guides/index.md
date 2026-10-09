@@ -18,3 +18,13 @@ These guides focus on practical browser-history problems rather than generic pro
 ## BestHistory
 
 BestHistory organizes Chrome history around websites instead of a flat list of page visits. If that matches the problem you are trying to solve, visit the [official BestHistory website](https://besthistory.boxuezhiban.cn/) or see the [installation guide](https://besthistory.boxuezhiban.cn/en/install/).
+
+## Other languages
+
+- [简体中文](/zh-CN/guides/)
+- [Español](/es/guides/)
+- [日本語](/ja/guides/)
+- [Deutsch](/de/guides/)
+- [Français](/fr/guides/)
+- [Português](/pt/guides/)
+- [한국어](/ko/guides/)

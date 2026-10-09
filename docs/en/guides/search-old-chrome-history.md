@@ -1,7 +1,8 @@
 ---
 layout: default
-title: How to Search Old Chrome History and Find Pages You Visited Before
-description: Practical ways to search old Chrome history when you only remember part of a website, topic, page title, or what you used the site for.
+title: How to Search Old Chrome History and Find Past Websites
+description: Search old Chrome history, recover past websites by title or domain, and find pages visited weeks or months ago. Practical steps and important limitations.
+seo_group: search-old-chrome-history
 ---
 
 # How to search old Chrome history
@@ -9,6 +10,11 @@ description: Practical ways to search old Chrome history when you only remember 
 Chrome's built-in history page works well when you remember an exact word from a page title or URL. It becomes much harder when the visit happened weeks or months ago and all you remember is something vague such as “that PDF tool,” “the research site I used last month,” or “a website with an article about this topic.”
 
 ## Start with Chrome's built-in history search
+
+1. Open Chrome and visit `chrome://history/` (or press **Ctrl+H** on Windows/Linux; **Command+Y** on many macOS Chrome setups).
+2. Enter a remembered word from the page title, domain, or URL.
+3. Try alternate keywords and check whether the expected visit exists in the results.
+4. If you remember a website's domain, search for that domain before scrolling through unrelated visits.
 
 Open `chrome://history/` and search for any word you remember from the page title or domain. If you know roughly when you visited the page, combine the search with your memory of the date and scan the surrounding entries.
 
@@ -42,6 +48,12 @@ BestHistory supports notes and tags for exactly this reason. They create extra s
 ## Keep history private when necessary
 
 Browsing history is sensitive. BestHistory is local-first: the normal browsing-history dataset is processed on your device rather than uploaded to the BestHistory account server. Private Mode can also keep selected private records encrypted locally.
+
+## Can you recover history Chrome no longer has?
+
+A history manager can help search and organize records that are available. It cannot promise to recreate deleted visits or every old page that your browser has stopped retaining. If the original record is gone, a previous export, backup, or independently saved bookmark may be more useful than repeating the same search.
+
+![BestHistory website-first view](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
 ## Try the website-first approach
 

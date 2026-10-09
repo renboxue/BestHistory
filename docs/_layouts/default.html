@@ -1,9 +1,16 @@
 <!doctype html>
-<html lang="{% if page.lang == 'zh-CN' %}zh-CN{% else %}en{% endif %}">
+<html lang="{{ page.lang | default: 'en' }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
+  {% if page.seo_group == 'find-website-you-visited-before' or page.seo_group == 'search-old-chrome-history' %}
+  {% assign seo_languages = 'en,zh-CN,es,ja,de,fr,pt,ko' | split: ',' %}
+  {% for seo_language in seo_languages %}
+  <link rel="alternate" hreflang="{{ seo_language }}" href="{{ site.url }}/{{ seo_language }}/guides/{{ page.seo_group }}/">
+  {% endfor %}
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/guides/{{ page.seo_group }}/">
+  {% endif %}
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="icon" href="https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/besthistory-icon.png">
 </head>
@@ -33,6 +40,14 @@
     </div>
   </header>
 
+  {% if page.seo_group == 'find-website-you-visited-before' or page.seo_group == 'search-old-chrome-history' %}
+  <nav class="bh-locales" aria-label="Article translations">
+    {% assign seo_languages = 'en,zh-CN,es,ja,de,fr,pt,ko' | split: ',' %}
+    {% for seo_language in seo_languages %}
+      <a href="/{{ seo_language }}/guides/{{ page.seo_group }}/"{% if page.lang == seo_language %} aria-current="page"{% endif %}>{% case seo_language %}{% when 'zh-CN' %}简体中文{% when 'es' %}Español{% when 'ja' %}日本語{% when 'de' %}Deutsch{% when 'fr' %}Français{% when 'pt' %}Português{% when 'ko' %}한국어{% else %}English{% endcase %}</a>
+    {% endfor %}
+  </nav>
+  {% endif %}
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
       {{ content }}

@@ -3,6 +3,7 @@ layout: default
 title: 怎么搜索很久以前的 Chrome 历史记录
 description: 忘记网页标题或访问时间时，如何搜索旧的 Chrome 历史记录，并通过网站、域名、标签、备注和页面标题找回以前访问过的网站。
 lang: zh-CN
+seo_group: search-old-chrome-history
 ---
 
 <div class="bh-doc-page" markdown="1">
@@ -12,6 +13,8 @@ lang: zh-CN
 Chrome 自带的 `chrome://history/` 适合你还记得网页标题、域名或关键词的时候。但如果已经过去几周甚至几个月，只记得“以前用过一个做 PDF 的网站”或者“某个网站里看过这篇内容”，按时间翻历史记录会非常慢。
 
 ## 先用 Chrome 自带搜索
+
+可直接打开 `chrome://history/`（Windows/Linux 通常可用 Ctrl+H），优先尝试标题、域名和 URL 片段，而不是逐天翻页。浏览器并不保证永久保留所有旧访问记录。
 
 打开 `chrome://history/`，输入你还能记住的标题片段、网站域名、产品名或主题词。如果大概记得访问日期，再结合时间范围缩小结果。
 
