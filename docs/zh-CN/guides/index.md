@@ -26,8 +26,8 @@ lang: zh-CN
 <div class="bh-actions bh-actions-center">
   <a class="bh-btn bh-btn-primary" href="/zh-CN/">返回 BestHistory 中文首页</a>
   <a class="bh-btn bh-btn-secondary" href="https://github.com/renboxue/BestHistory">查看 GitHub ★</a>
-<p>其他语言的浏览历史使用指南：<a href="/en/guides/">English</a> · <a href="/es/guides/">Español</a> · <a href="/ja/guides/">日本語</a> · <a href="/de/guides/">Deutsch</a> · <a href="/fr/guides/">Français</a> · <a href="/pt/guides/">Português</a> · <a href="/ko/guides/">한국어</a></p>
-
 </div>
+
+<p>其他语言的浏览历史使用指南：<a href="/en/guides/">English</a> · <a href="/es/guides/">Español</a> · <a href="/ja/guides/">日本語</a> · <a href="/de/guides/">Deutsch</a> · <a href="/fr/guides/">Français</a> · <a href="/pt/guides/">Português</a> · <a href="/ko/guides/">한국어</a></p>
 
 </div>
