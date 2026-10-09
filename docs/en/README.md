@@ -2,11 +2,11 @@
 
 <p align="center"><strong>Find websites you've forgotten.</strong></p>
 
-<p align="center"><strong><a href="https://besthistory.boxuezhiban.cn/">Official website</a></strong> · <a href="https://besthistory.boxuezhiban.cn/en/install/">Install BestHistory</a> · <a href="https://besthistory.boxuezhiban.cn/en/guides/">Browser history guides</a> · <a href="https://discord.gg/QRHNKweYqS">Join Discord</a></p>
+<p align="center"><strong><a href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb">Add to Chrome</a> · <a href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/">Get for Firefox</a></strong> · <a href="https://besthistory.boxuezhiban.cn/">Official website</a> · <a href="https://besthistory.boxuezhiban.cn/en/install/">Install BestHistory</a> · <a href="https://besthistory.boxuezhiban.cn/en/guides/">Browser history guides</a> · <a href="https://discord.gg/QRHNKweYqS">Join Discord</a></p>
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · English · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
-> **v1.0.0** — BestHistory v1.0.0 is the first official release. The Chrome Web Store listing is coming soon.
+> **v1.0.0** — BestHistory is available on the Chrome Web Store and Firefox Add-ons.
 
 BestHistory is a **Best Series** product by **Zhiban (博学智伴)**. It is a privacy-first Chrome / Chromium browser history manager that groups history by website first, then lets you search, tag, annotate, pin, privately store, back up, and rediscover sites you used before.
 
@@ -37,7 +37,7 @@ New BestHistory accounts receive a **30-day Pro Trial** before paid access is re
 
 ## Install
 
-BestHistory v1.0.0 can be installed now from GitHub Releases. See the [official installation guide](https://besthistory.boxuezhiban.cn/en/install/) for the current manual-install steps and the future Chrome Web Store route.
+Install from [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) or [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) for automatic browser-managed updates. Manual packages and instructions are available from the [official installation guide](https://besthistory.boxuezhiban.cn/en/install/).
 
 The public repository contains product documentation and support materials, not the proprietary application source code.
 
