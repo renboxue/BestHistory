@@ -10,11 +10,13 @@ lang: zh-CN
 
 # 安装 BestHistory v1.0.0
 
-BestHistory v1.0.0 已经在 **GitHub Releases** 正式发布。Chrome Web Store 商店版本仍在上线过程中，所以如果你现在就想试用正式 v1.0，可以先从 GitHub 安装。
+BestHistory v1.0.0 已在 **Chrome Web Store** 和 **Firefox Add-ons** 上架。普通用户推荐从官方商店安装，后续版本由浏览器自动更新。
+
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">Chrome 商店安装</a><a class="bh-btn bh-btn-secondary" href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">Firefox 商店安装</a></div>
 
 <div class="bh-install-box" markdown="1">
 
-## 现在从 GitHub 安装 v1.0.0
+## 备用方式：从 GitHub 手动安装 v1.0.0
 
 1. 打开 [BestHistory v1.0.0 GitHub Release](https://github.com/renboxue/BestHistory/releases/tag/v1.0.0)。
 2. 下载 `BestHistory-v1.0.0-chrome.zip`。
@@ -29,23 +31,21 @@ BestHistory v1.0.0 已经在 **GitHub Releases** 正式发布。Chrome Web Store
 
 </div>
 
-## Chrome Web Store 上线后
+## 从浏览器官方商店安装
 
-商店版上线后，对大多数用户来说会成为推荐方式，因为安装和更新都更省心：
+- **Chrome：** 打开 [BestHistory Chrome Web Store 页面](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb)，点击“添加至 Chrome”。
+- **Firefox：** 打开 [BestHistory Firefox Add-ons 页面](https://addons.mozilla.org/en-US/firefox/addon/besthistory/)，点击“添加到 Firefox”。
 
-1. 打开 Chrome Web Store。
-2. 搜索 **BestHistory**。
-3. 确认开发者和官网信息后，点击“添加至 Chrome”。
-4. Chrome 会负责后续自动更新。
+两种官方商店版本都支持通过对应浏览器自动更新。GitHub 下载主要保留给测试和需要手动安装的用户。
 
 ## 为什么以后仍然保留 GitHub 安装方式？
 
-GitHub 不只是当前商店上线前的临时入口。以后如果 BestHistory 提供 Edge、Firefox 或其他浏览器版本，GitHub Releases 也可以继续作为测试包、独立安装包和版本说明的统一入口。
+GitHub Releases 仍用于提供测试包、独立安装包和版本说明。日常使用优先选择已上架的官方浏览器商店版本。
 
-长期会形成两条安装路径：
+目前有两条安装路径：
 
-- **浏览器官方商店**：普通用户首选，安装和自动更新最方便；
-- **GitHub Releases**：提前体验、测试版本，以及未来其他浏览器构建的补充入口。
+- **Chrome Web Store / Firefox Add-ons**：普通用户首选，安装和自动更新最方便；
+- **GitHub Releases**：手动安装、测试以及版本归档。
 
 ## 无痕窗口与私密模式
 
@@ -59,10 +59,10 @@ GitHub 不只是当前商店上线前的临时入口。以后如果 BestHistory 
 
 ## 更新与备份
 
-通过 Chrome Web Store 安装的版本会由 Chrome 自动更新。GitHub 手动安装版本则需要你主动安装后续新版本。
+从 Chrome Web Store 或 Firefox Add-ons 安装的版本由对应浏览器自动更新。GitHub 手动安装版本则需要你主动安装后续新版本。
 
 重要升级前，仍建议先导出一份 `.bhbackup` 本地备份。
 
-<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://github.com/renboxue/BestHistory/releases/tag/v1.0.0">下载 BestHistory v1.0.0</a><a class="bh-btn bh-btn-secondary" href="/zh-CN/">返回简体中文首页</a></div>
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">Chrome 商店安装</a><a class="bh-btn bh-btn-secondary" href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">Firefox 商店安装</a><a class="bh-btn bh-btn-secondary" href="/zh-CN/">返回简体中文首页</a></div>
 
 </div>
