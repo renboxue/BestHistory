@@ -32,6 +32,8 @@ Update and append to it; do not replace it wholesale with a short product-spec R
   &nbsp;·&nbsp;
   <a href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/"><strong>Firefox 商店安装</strong></a>
   &nbsp;·&nbsp;
+  <a href="releases/v1.1.0.md"><strong>v1.1.0 发布说明</strong></a>
+  &nbsp;·&nbsp;
   <a href="https://besthistory.boxuezhiban.cn/">官方网站</a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/QRHNKweYqS">Discord 社区</a>
