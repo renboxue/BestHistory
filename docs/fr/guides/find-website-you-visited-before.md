@@ -27,8 +27,8 @@ Une fois le site retrouvé, ajoutez une étiquette ou une note comme « outil ut
 
 BestHistory ne peut pas recréer une visite supprimée ou jamais enregistrée. Il sert à explorer et organiser plus facilement l'historique encore disponible.
 
-![BestHistory browser history organized by websites](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
+![Historique regroupé par site dans BestHistory](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
-**Installer BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**Installer BestHistory:** [Installer sur Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Installer sur Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-Autre guide: [Rechercher l'ancien historique Chrome](/fr/guides/search-old-chrome-history/) · [BestHistory](/).
+Autre guide: [Rechercher l'ancien historique Chrome](/fr/guides/search-old-chrome-history/) · [Retour aux guides](/fr/guides/).
