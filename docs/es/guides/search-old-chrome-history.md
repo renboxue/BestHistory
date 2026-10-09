@@ -27,8 +27,8 @@ BestHistory reúne las visitas por sitio y permite consultar después cada pági
 
 No se puede garantizar la recuperación de visitas eliminadas o que el navegador dejó de conservar. Comprueba antes si tienes una copia, un marcador o una exportación anterior.
 
-![BestHistory browser history organized by websites](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
+![Historial de navegación organizado por sitios en BestHistory](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
-**Instala BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**Instala BestHistory:** [Instalar en Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Instalar en Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-Consulta también: [Encontrar un sitio web olvidado](/es/guides/find-website-you-visited-before/) · [BestHistory](/).
+Consulta también: [Encontrar un sitio web olvidado](/es/guides/find-website-you-visited-before/) · [Volver a las guías](/es/guides/).
