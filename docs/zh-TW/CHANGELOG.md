@@ -1,5 +1,11 @@
 # 更新日誌
 
+## v1.1.0 — 2026-10-09
+
+- 補齊 Chrome 官方 `_locales` 18 語言中繼資料與 `default_locale`。
+- 完整檢查介面、登入、Pro、AI、付款與訂閱等 18 語言文案，並清理現行 Dodo Payments 流程中的舊 Paddle 測試文案。
+
+
 ## v1.0.0 — 2026-08-27
 
 BestHistory v1.0.0 已正式發布，Chrome Web Store 商店版本即將上線。
