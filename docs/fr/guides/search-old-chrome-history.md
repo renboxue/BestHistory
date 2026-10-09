@@ -27,8 +27,8 @@ BestHistory présente d'abord les sites consultés et permet ensuite d'explorer 
 
 Aucun gestionnaire d'historique ne garantit la récupération des visites supprimées ou non conservées. Vérifiez aussi vos anciennes sauvegardes et vos favoris.
 
-![BestHistory browser history organized by websites](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
+![Historique regroupé par site dans BestHistory](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
-**Installer BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**Installer BestHistory:** [Installer sur Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Installer sur Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-Autre guide: [Retrouver un site oublié](/fr/guides/find-website-you-visited-before/) · [BestHistory](/).
+Autre guide: [Retrouver un site oublié](/fr/guides/find-website-you-visited-before/) · [Retour aux guides](/fr/guides/).
