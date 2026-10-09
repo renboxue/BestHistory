@@ -1,10 +1,13 @@
 # 安装 BestHistory v1.0.0
 
-BestHistory v1.0.0 面向 Chrome Web Store 发布。商店页面上线后，请优先从 Chrome Web Store 安装和自动更新。
+BestHistory v1.0.0 已在 Chrome Web Store 和 Firefox Add-ons 上架。请优先从官方扩展商店安装和自动更新。
+
+- [Chrome Web Store：安装 BestHistory](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb)
+- [Firefox Add-ons：安装 BestHistory](https://addons.mozilla.org/en-US/firefox/addon/besthistory/)
 
 ## 安装
 
-1. 打开 Chrome Web Store。
+1. 通过上方链接打开 Chrome Web Store。
 2. 搜索 **BestHistory**。
 3. 确认开发者与官网信息后点击“添加至 Chrome”。
 4. 安装后可在扩展菜单中固定 BestHistory。
@@ -22,4 +25,4 @@ BestHistory v1.0.0 面向 Chrome Web Store 发布。商店页面上线后，请�
 
 ## 更新
 
-Chrome Web Store 安装版本由 Chrome 自动更新。重要升级前仍建议导出 `.bhbackup` 作为本地备份。
+Chrome Web Store 和 Firefox Add-ons 的安装版本分别由对应浏览器自动更新。重要升级前仍建议导出 `.bhbackup` 作为本地备份。
