@@ -27,8 +27,8 @@ Chrome에서 <code>chrome://history/</code> 를 열어 페이지 제목 일부, 
 
 삭제되었거나 브라우저에 저장되지 않았던 방문 기록을 BestHistory가 새로 만들어 낼 수는 없습니다. 기존 기록을 더 쉽게 찾고 정리하는 도구입니다.
 
-![BestHistory browser history organized by websites](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
+![BestHistory에서 사이트별로 정리된 브라우저 방문 기록](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
-**BestHistory 설치하기:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**BestHistory 설치하기:** [Chrome에 설치](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox에 설치](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-관련 가이드: [Chrome의 오래된 기록 검색](/ko/guides/search-old-chrome-history/) · [BestHistory](/).
+관련 가이드: [Chrome의 오래된 기록 검색](/ko/guides/search-old-chrome-history/) · [가이드 목록으로](/ko/guides/).
