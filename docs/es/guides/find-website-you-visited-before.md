@@ -27,8 +27,8 @@ Cuando encuentres la web, añade etiquetas o una nota con tus palabras, como «e
 
 Si el historial se borró o la visita nunca se guardó, BestHistory no puede inventar ese registro. Su función es ayudarte a recuperar lo que todavía existe y organizarlo mejor.
 
-![BestHistory browser history organized by websites](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
+![Historial de navegación organizado por sitios en BestHistory](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
-**Instala BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**Instala BestHistory:** [Instalar en Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Instalar en Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-Consulta también: [Buscar historial antiguo de Chrome](/es/guides/search-old-chrome-history/) · [BestHistory](/).
+Consulta también: [Buscar historial antiguo de Chrome](/es/guides/search-old-chrome-history/) · [Volver a las guías](/es/guides/).
