@@ -15,6 +15,22 @@
   <link rel="icon" href="https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/besthistory-icon.png">
 </head>
 <body>
+  {% assign seo_ui = site.data.seo_ui[page.lang] %}
+  {% if seo_ui %}
+  <header class="site-header" role="banner">
+    <div class="wrapper bh-nav-wrap">
+      <a class="site-title" rel="author" href="/{{ page.lang }}/guides/">BestHistory</a>
+      <nav class="bh-nav" aria-label="{{ seo_ui.nav }}">
+        <a href="/{{ page.lang }}/guides/">{{ seo_ui.nav }}</a>
+        <a href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">{{ seo_ui.chrome }}</a>
+        <a href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">{{ seo_ui.firefox }}</a>
+        <a href="/{{ page.lang }}/guides/find-website-you-visited-before/">{{ seo_ui.find }}</a>
+        <a href="/{{ page.lang }}/guides/search-old-chrome-history/">{{ seo_ui.old }}</a>
+        <a class="bh-nav-lang" href="#bh-locales">{{ seo_ui.lang }}</a>
+      </nav>
+    </div>
+  </header>
+  {% else %}
   <header class="site-header" role="banner">
     <div class="wrapper bh-nav-wrap">
       <a class="site-title" rel="author" href="{% if page.lang == 'zh-CN' %}/zh-CN/{% else %}/{% endif %}">BestHistory</a>
@@ -40,6 +56,21 @@
     </div>
   </header>
 
+  {% endif %}
+
+  {% if seo_ui %}
+  <nav id="bh-locales" class="bh-locales" aria-label="{{ seo_ui.lang }}">
+    {% assign seo_languages = 'en,zh-CN,es,ja,de,fr,pt,ko' | split: ',' %}
+    {% for seo_language in seo_languages %}
+      {% if page.seo_group %}
+        {% assign locale_href = '/' | append: seo_language | append: '/guides/' | append: page.seo_group | append: '/' %}
+      {% else %}
+        {% assign locale_href = '/' | append: seo_language | append: '/guides/' %}
+      {% endif %}
+      <a href="{{ locale_href }}"{% if page.lang == seo_language %} aria-current="page"{% endif %}>{% case seo_language %}{% when 'zh-CN' %}简体中文{% when 'es' %}Español{% when 'ja' %}日本語{% when 'de' %}Deutsch{% when 'fr' %}Français{% when 'pt' %}Português{% when 'ko' %}한국어{% else %}English{% endcase %}</a>
+    {% endfor %}
+  </nav>
+  {% else %}
   {% if page.seo_group == 'find-website-you-visited-before' or page.seo_group == 'search-old-chrome-history' %}
   <nav class="bh-locales" aria-label="Article translations">
     {% assign seo_languages = 'en,zh-CN,es,ja,de,fr,pt,ko' | split: ',' %}
@@ -48,12 +79,31 @@
     {% endfor %}
   </nav>
   {% endif %}
+  {% endif %}
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
       {{ content }}
     </div>
   </main>
 
+  {% if seo_ui %}
+  <footer class="site-footer h-card">
+    <div class="wrapper bh-footer-grid">
+      <div><strong>{{ seo_ui.by }}</strong><p>{{ seo_ui.about }}</p></div>
+      <div class="bh-footer-nav">
+        <a href="/{{ page.lang }}/guides/">{{ seo_ui.nav }}</a>
+        <a href="/{{ page.lang }}/guides/find-website-you-visited-before/">{{ seo_ui.find }}</a>
+        <a href="/{{ page.lang }}/guides/search-old-chrome-history/">{{ seo_ui.old }}</a>
+        <a href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb">{{ seo_ui.chrome }}</a>
+        <a href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/">{{ seo_ui.firefox }}</a>
+        <a href="/privacy/">{{ seo_ui.privacy }}</a>
+        <a href="/terms/">{{ seo_ui.terms }}</a>
+        <a href="mailto:besthistory@126.com">{{ seo_ui.help }}</a>
+      </div>
+      <div class="bh-footer-copy">© 2026 Zhiban · {{ seo_ui.copy }} · besthistory@126.com · <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">京ICP备2026061674号-1</a></div>
+    </div>
+  </footer>
+  {% else %}
   <footer class="site-footer h-card">
     <div class="wrapper bh-footer-grid">
       <div>
@@ -88,5 +138,6 @@
       <div class="bh-footer-copy">© 2026 Zhiban · BestHistory is a Best Series product · besthistory@126.com · <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">京ICP备2026061674号-1</a></div>
     </div>
   </footer>
+  {% endif %}
 </body>
 </html>
