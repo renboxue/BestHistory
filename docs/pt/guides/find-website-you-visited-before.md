@@ -27,8 +27,8 @@ Depois de achar o site, coloque uma etiqueta ou nota escrita do seu jeito, como 
 
 O BestHistory não recria visitas apagadas nem registros que nunca foram armazenados. Ele ajuda a pesquisar e organizar o histórico ainda existente.
 
-![BestHistory browser history organized by websites](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
+![Histórico de navegação organizado por site no BestHistory](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
-**Instalar BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**Instalar BestHistory:** [Instalar no Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Instalar no Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-Veja também: [Pesquisar histórico antigo do Chrome](/pt/guides/search-old-chrome-history/) · [BestHistory](/).
+Veja também: [Pesquisar histórico antigo do Chrome](/pt/guides/search-old-chrome-history/) · [Voltar aos guias](/pt/guides/).
