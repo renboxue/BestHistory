@@ -27,8 +27,8 @@ Chrome で <code>chrome://history/</code> を開き、タイトルの一部、�
 
 削除された履歴や、そもそもブラウザに保存されなかった訪問記録を BestHistory が復元することはできません。残っている記録を探しやすくするツールです。
 
-![BestHistory browser history organized by websites](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
+![BestHistory でサイト別に整理されたブラウザの閲覧履歴](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
-**BestHistory をインストール:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**BestHistory をインストール:** [Chrome に追加](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox に追加](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-関連ガイド: [Chrome の古い履歴を検索](/ja/guides/search-old-chrome-history/) · [BestHistory](/).
+関連ガイド: [Chrome の古い履歴を検索](/ja/guides/search-old-chrome-history/) · [ガイド一覧へ戻る](/ja/guides/).
