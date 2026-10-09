@@ -45,3 +45,6 @@ A good history manager should make it clear what it can export, what it can dele
 BestHistory combines website-first grouping, search, tags, notes, pinning, a collapsible timeline, local backup and a Pro Private Mode for locally encrypted private records.
 
 If those priorities match your problem, see the [BestHistory README](https://github.com/renboxue/BestHistory#readme). If your priority is mainly bulk deletion, regex search or another specialized workflow, compare several extensions before choosing one.
+
+
+**Install BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
