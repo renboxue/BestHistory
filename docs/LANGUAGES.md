@@ -1,6 +1,6 @@
 # BestHistory — 18 languages
 
-BestHistory v1.0.0 provides product documentation in 18 languages.
+BestHistory v1.1.0 provides an 18-language product interface, Chrome official `_locales` metadata, and product documentation in 18 languages.
 
 - **简体中文** — [README](../README.md) · [Privacy](../PRIVACY.md) · [Terms](../TERMS.md) · [FAQ](../FAQ.md) · [Install](../INSTALL.md) · [Changelog](../CHANGELOG.md)
 - **繁體中文** — [README](zh-TW/README.md) · [Privacy](zh-TW/PRIVACY.md) · [Terms](zh-TW/TERMS.md) · [FAQ](zh-TW/FAQ.md) · [Install](zh-TW/INSTALL.md) · [Changelog](zh-TW/CHANGELOG.md)
