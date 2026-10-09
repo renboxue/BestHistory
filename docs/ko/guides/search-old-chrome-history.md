@@ -27,8 +27,8 @@ BestHistory는 같은 사이트의 방문 기록을 모아 보여줍니다. 해�
 
 삭제되었거나 보관되지 않은 기록을 복구한다고 보장할 수 없습니다. 이전 백업, 북마크 또는 내보낸 파일이 있는지 확인하세요.
 
-![BestHistory browser history organized by websites](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
+![BestHistory에서 사이트별로 정리된 브라우저 방문 기록](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
-**BestHistory 설치하기:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**BestHistory 설치하기:** [Chrome에 설치](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox에 설치](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-관련 가이드: [이름을 잊은 사이트 찾기](/ko/guides/find-website-you-visited-before/) · [BestHistory](/).
+관련 가이드: [이름을 잊은 사이트 찾기](/ko/guides/find-website-you-visited-before/) · [가이드 목록으로](/ko/guides/).
