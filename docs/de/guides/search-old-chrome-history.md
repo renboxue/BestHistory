@@ -27,8 +27,8 @@ BestHistory gruppiert Seitenbesuche nach Website. Sie können anschließend die 
 
 Bereits gelöschte oder nicht mehr gespeicherte Browserdaten lassen sich nicht zuverlässig durch ein Verlaufstool rekonstruieren. Prüfen Sie gegebenenfalls ältere Backups oder Lesezeichen.
 
-![BestHistory browser history organized by websites](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
+![Nach Websites gruppierter Browserverlauf in BestHistory](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
-**BestHistory installieren:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**BestHistory installieren:** [Für Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Für Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-Weitere Anleitung: [Vergessene Website wiederfinden](/de/guides/find-website-you-visited-before/) · [BestHistory](/).
+Weitere Anleitung: [Vergessene Website wiederfinden](/de/guides/find-website-you-visited-before/) · [Zurück zu den Anleitungen](/de/guides/).
