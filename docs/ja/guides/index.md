@@ -13,6 +13,5 @@ description: "Chrome の古い履歴を検索し、名前を忘れたサイト�
 - [名前を忘れたサイトを探す](/ja/guides/find-website-you-visited-before/)
 - [Chrome の古い履歴を検索](/ja/guides/search-old-chrome-history/)
 
-**BestHistory をインストール:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**BestHistory をインストール:** [Chrome に追加](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox に追加](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-[English](/en/guides/) · [简体中文](/zh-CN/guides/)
