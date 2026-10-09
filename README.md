@@ -24,10 +24,14 @@ Update and append to it; do not replace it wholesale with a short product-spec R
 <p align="center">
   <strong>BestHistory v1.0.0 已正式发布</strong>
   &nbsp;·&nbsp;
-  Chrome Web Store 即将上线
+  Chrome Web Store / Firefox Add-ons 均已上架
 </p>
 
 <p align="center">
+  <a href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb"><strong>Chrome 商店安装</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/"><strong>Firefox 商店安装</strong></a>
+  &nbsp;·&nbsp;
   <a href="https://besthistory.boxuezhiban.cn/">官方网站</a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/QRHNKweYqS">Discord 社区</a>
@@ -363,7 +367,7 @@ v1.0.0 的 README、安装、隐私、FAQ、服务条款、安全说明和更新
 
 **怎样让我们更放心地关闭不再需要一直开着的标签页，怎样在真正需要时，更轻松地把以前用过的网站重新找回来。**
 
-v1.0.0 是第一个正式版本。Chrome Web Store 商店版本也即将上线。
+v1.0.0 是第一个正式版本。目前已经可以从 [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) 和 [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) 直接安装。
 
 接下来哪些东西值得继续做，我仍然希望尽量来自真实用户的使用和反馈，而不是我一个人关在房间里把所有想到的功能都塞进去。
 
@@ -401,11 +405,11 @@ BestHistory 主要解决的不是“把 Chrome 历史记录换个皮肤”，而
 
 ## 安装
 
-**BestHistory v1.0.0 已正式发布，Chrome Web Store 商店版本即将上线。**
+**BestHistory v1.0.0 已在 Chrome 和 Firefox 官方扩展商店上架。**
 
-Chrome Web Store 上线后会作为推荐安装与自动更新渠道。详细步骤见 [INSTALL.md](INSTALL.md)。
+推荐直接从 [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) 或 [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) 安装，方便自动更新。详细步骤见 [INSTALL.md](INSTALL.md)。
 
-我们也会为 v1.0.0 保留独立的 GitHub Release，供需要手动安装、验证版本或查看历史发布的用户使用。
+我们仍保留独立的 [GitHub Release](https://github.com/renboxue/BestHistory/releases/tag/v1.0.0)，供需要手动安装、验证版本或查看历史发布的用户使用。
 
 ---
 
@@ -421,6 +425,7 @@ Chrome Web Store 上线后会作为推荐安装与自动更新渠道。详细步
 
 **v1.0.0 — 正式版**
 
-Chrome Web Store：**即将上线**
+Chrome Web Store：[立即安装](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb)  
+Firefox Add-ons：[立即安装](https://addons.mozilla.org/en-US/firefox/addon/besthistory/)
 
 版本变化请查看 [CHANGELOG.md](CHANGELOG.md)。
