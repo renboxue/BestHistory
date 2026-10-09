@@ -13,6 +13,5 @@ description: "Chrome의 오래된 방문 기록을 검색하고 이름을 잊은
 - [이름을 잊은 사이트 찾기](/ko/guides/find-website-you-visited-before/)
 - [Chrome의 오래된 기록 검색](/ko/guides/search-old-chrome-history/)
 
-**BestHistory 설치하기:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**BestHistory 설치하기:** [Chrome에 설치](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox에 설치](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-[English](/en/guides/) · [简体中文](/zh-CN/guides/)
