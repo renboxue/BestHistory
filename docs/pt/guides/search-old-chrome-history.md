@@ -27,8 +27,8 @@ O BestHistory reúne páginas sob cada site. Você pode abrir visitas antigas e 
 
 Visitas removidas ou que o navegador não guardou não podem ser recuperadas de forma garantida. Confira também favoritos, backups ou exportações anteriores.
 
-![BestHistory browser history organized by websites](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
+![Histórico de navegação organizado por site no BestHistory](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
-**Instalar BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**Instalar BestHistory:** [Instalar no Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Instalar no Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-Veja também: [Encontrar um site esquecido](/pt/guides/find-website-you-visited-before/) · [BestHistory](/).
+Veja também: [Encontrar um site esquecido](/pt/guides/find-website-you-visited-before/) · [Voltar aos guias](/pt/guides/).
