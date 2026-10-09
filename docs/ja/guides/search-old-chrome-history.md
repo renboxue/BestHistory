@@ -27,8 +27,8 @@ BestHistory は履歴をサイト単位にまとめ、その下に過去に開�
 
 削除済みの履歴や保存期間外の記録を必ず復元できるわけではありません。以前のバックアップ、ブックマーク、エクスポートも確認してください。
 
-![BestHistory browser history organized by websites](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
+![BestHistory でサイト別に整理されたブラウザの閲覧履歴](https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp)
 
-**BestHistory をインストール:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**BestHistory をインストール:** [Chrome に追加](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox に追加](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-関連ガイド: [名前を忘れたサイトを探す](/ja/guides/find-website-you-visited-before/) · [BestHistory](/).
+関連ガイド: [名前を忘れたサイトを探す](/ja/guides/find-website-you-visited-before/) · [ガイド一覧へ戻る](/ja/guides/).
