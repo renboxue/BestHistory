@@ -1,6 +1,6 @@
-# 安装 BestHistory v1.0.0
+# 安装 BestHistory v1.1.0
 
-BestHistory v1.0.0 已在 Chrome Web Store 和 Firefox Add-ons 上架。请优先从官方扩展商店安装和自动更新。
+BestHistory 已在 Chrome Web Store 和 Firefox Add-ons 上架。Chrome v1.1.0 为完整 18 语言国际化更新。请优先从官方扩展商店安装和自动更新。
 
 - [Chrome Web Store：安装 BestHistory](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb)
 - [Firefox Add-ons：安装 BestHistory](https://addons.mozilla.org/en-US/firefox/addon/besthistory/)
