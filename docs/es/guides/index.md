@@ -13,6 +13,5 @@ description: "Guías para encontrar sitios web olvidados, buscar el historial an
 - [Encontrar un sitio web olvidado](/es/guides/find-website-you-visited-before/)
 - [Buscar historial antiguo de Chrome](/es/guides/search-old-chrome-history/)
 
-**Instala BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**Instala BestHistory:** [Instalar en Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Instalar en Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-[English](/en/guides/) · [简体中文](/zh-CN/guides/)
