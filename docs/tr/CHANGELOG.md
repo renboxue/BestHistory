@@ -1,5 +1,11 @@
 # Değişiklikler
 
+## v1.1.0 — 2026-10-09
+
+- 18 dilin tamamı için resmi Chrome `_locales` meta verileri ve `default_locale` eklendi.
+- Arayüz, giriş, Pro, AI, ödeme ve abonelik metinleri 18 dilde eksiksiz denetlendi; mevcut Dodo Payments akışındaki eski Paddle test metinleri kaldırıldı.
+
+
 ## v1.0.0 — 2026-08-27
 
 BestHistory v1.0.0 ilk resmi sürümdür. Chrome Web Store sürümü yakında yayınlanacaktır.
