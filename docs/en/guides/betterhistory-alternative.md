@@ -50,10 +50,13 @@ Always review the current privacy disclosures of any browser extension before in
 
 ## Current availability
 
-BestHistory **v1.0.0 is now the official release**. The Chrome Web Store listing is coming soon.
+BestHistory **v1.0.0 is now the official release**. BestHistory is available on Chrome Web Store and Firefox Add-ons.
 
 - [Read the BestHistory v1.0.0 overview](https://github.com/renboxue/BestHistory#readme)
 - [Read the BestHistory Privacy Notice](https://github.com/renboxue/BestHistory/blob/main/PRIVACY.md)
 - [Visit BetterHistory's official website](https://betterhistory.io/) if you want to compare the products directly
 
 BestHistory is not affiliated with BetterHistory. “BetterHistory” and “Better History” are used here only to help users compare browser-history tools.
+
+
+**Install BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
