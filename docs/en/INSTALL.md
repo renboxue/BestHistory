@@ -10,11 +10,13 @@ lang: en
 
 # Install BestHistory v1.0.0
 
-BestHistory v1.0.0 is now available on **GitHub Releases**. Chrome Web Store publication is still in progress, so GitHub is currently the way to try the official v1.0 release.
+BestHistory v1.0.0 is available from the **Chrome Web Store** and **Firefox Add-ons**. Official browser stores are the recommended installation path for automatic updates.
+
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">Add to Chrome</a><a class="bh-btn bh-btn-secondary" href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">Get for Firefox</a></div>
 
 <div class="bh-install-box" markdown="1">
 
-## Install v1.0.0 from GitHub now
+## Alternative: install v1.0.0 manually from GitHub
 
 1. Open [BestHistory v1.0.0 on GitHub Releases](https://github.com/renboxue/BestHistory/releases/tag/v1.0.0).
 2. Download `BestHistory-v1.0.0-chrome.zip`.
@@ -29,23 +31,21 @@ BestHistory v1.0.0 is now available on **GitHub Releases**. Chrome Web Store pub
 
 </div>
 
-## After the Chrome Web Store listing is live
+## Install from an official browser store
 
-For most users, the store version will become the recommended route because installation and future updates are automatic:
+- **Chrome:** Open [BestHistory on the Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) and choose **Add to Chrome**.
+- **Firefox:** Open [BestHistory on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) and choose **Add to Firefox**.
 
-1. Open the Chrome Web Store.
-2. Search for **BestHistory**.
-3. Verify the developer and official website information, then choose **Add to Chrome**.
-4. Chrome will handle future updates automatically.
+Both official store versions receive browser-managed extension updates. The manual GitHub package is mainly for testing and users who specifically prefer a standalone download.
 
 ## Why keep GitHub installation as a second path?
 
-GitHub is also useful beyond the current Chrome Web Store rollout. If BestHistory later ships Edge, Firefox, or other browser builds, GitHub Releases can remain a home for preview packages, standalone builds, and release notes.
+GitHub Releases remains useful for preview packages, standalone builds, and release notes. Prefer the official store version for routine use.
 
-The long-term installation model is:
+The current installation options are:
 
-- **Official browser stores** — recommended for most users and automatic updates;
-- **GitHub Releases** — early access, testing, and future browser-specific builds.
+- **Chrome Web Store / Firefox Add-ons** — recommended for most users and automatic updates;
+- **GitHub Releases** — manual installation, testing, and version archives.
 
 ## Incognito / Private Mode
 
@@ -59,10 +59,10 @@ This permission is optional. BestHistory cannot enable it on your behalf.
 
 ## Updates and backup
 
-Chrome Web Store installations update automatically. GitHub manual installations require you to install newer releases yourself.
+Chrome Web Store and Firefox Add-ons installations update through their respective browsers. GitHub manual installations require you to install newer releases yourself.
 
 Before major upgrades, keeping a `.bhbackup` file is still recommended.
 
-<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://github.com/renboxue/BestHistory/releases/tag/v1.0.0">Download BestHistory v1.0.0</a><a class="bh-btn bh-btn-secondary" href="/">Back to the homepage</a></div>
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">Add to Chrome</a><a class="bh-btn bh-btn-secondary" href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">Get for Firefox</a><a class="bh-btn bh-btn-secondary" href="/">Back to the homepage</a></div>
 
 </div>
