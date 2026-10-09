@@ -22,7 +22,7 @@ Update and append to it; do not replace it wholesale with a short product-spec R
 </p>
 
 <p align="center">
-  <strong>BestHistory v1.0.0 已正式发布</strong>
+  <strong>BestHistory v1.1.0 已发布 · Chrome 官方 18 语言国际化更新</strong>
   &nbsp;·&nbsp;
   Chrome Web Store / Firefox Add-ons 均已上架
 </p>
@@ -73,7 +73,7 @@ BestHistory 是我作为一名个人开发者，因为自己的真实困扰做�
 > **让你敢于关掉那些“怕以后找不到”的标签页。**  
 > 因为真正需要的时候，BestHistory 应该能帮你把它重新找回来。
 
-BestHistory 现在已经从最初的公开 Beta 走到了 **v1.0.0 正式版**。对我来说，这并不是“做完了”，而是终于有了一个可以认真交给更多人使用的起点。
+BestHistory 现在已经从最初的公开 Beta 走到了正式版，并在 **v1.1.0** 补齐了 Chrome 官方 `_locales` 18 语言国际化层。对我来说，这并不是“做完了”，而是终于有了一个可以认真交给更多人使用的起点。
 
 如果它刚好也解决了你的困扰，我会非常开心。也很希望你能告诉我哪些地方好用、哪些地方不好用，以及你真正希望它继续解决什么问题。
 
@@ -324,7 +324,7 @@ BestHistory 支持 **Google 登录** 和 **邮箱验证码登录**。
 
 因此 BestHistory 的核心本地历史功能，**无需登录也可以长期使用**。
 
-v1.0.0 当前规则：
+v1.1.0 当前规则：
 
 - 不登录也可以长期使用 Free 核心功能；
 - 新注册 BestHistory 账号会获得 **30 天 Pro Trial**；
@@ -335,7 +335,7 @@ v1.0.0 当前规则：
 
 月付和年付为自动续费订阅；终身版不自动续费。
 
-支付由 **Paddle** 作为 Merchant of Record 处理，Google 不是卖家。BestHistory 不接收或保存完整银行卡信息。
+支付由 BestHistory 授权的第三方 Merchant of Record 处理。BestHistory 不接收或保存完整银行卡信息，Google 不是卖家。
 
 ---
 
@@ -349,11 +349,11 @@ BestHistory 目前支持：
   <img src="assets/screenshots/languages.webp" alt="BestHistory 18 种界面语言" width="100%" />
 </p>
 
-v1.0.0 的 README、安装、隐私、FAQ、服务条款、安全说明和更新日志继续提供对应的多语言文档。完整入口见 [docs/LANGUAGES.md](docs/LANGUAGES.md)。
+v1.1.0 的产品界面、Chrome 官方扩展元数据，以及 README、安装、隐私、FAQ、服务条款、安全说明和更新日志继续提供对应的多语言支持。完整入口见 [docs/LANGUAGES.md](docs/LANGUAGES.md)。
 
 ---
 
-## v1.0.0 正式发布，但现在还只是开始
+## v1.1.0：把 18 种语言真正接到 Chrome 官方国际化层
 
 我最开始做这个插件，就是因为自己总是：
 
@@ -367,7 +367,7 @@ v1.0.0 的 README、安装、隐私、FAQ、服务条款、安全说明和更新
 
 **怎样让我们更放心地关闭不再需要一直开着的标签页，怎样在真正需要时，更轻松地把以前用过的网站重新找回来。**
 
-v1.0.0 是第一个正式版本。目前已经可以从 [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) 和 [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) 直接安装。
+v1.0.0 是第一个正式版本；v1.1.0 进一步补齐 Chrome 官方 `_locales` 国际化并统一支付/订阅等新增界面的 18 语言文案。目前可以从 [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) 和 [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) 直接安装。
 
 接下来哪些东西值得继续做，我仍然希望尽量来自真实用户的使用和反馈，而不是我一个人关在房间里把所有想到的功能都塞进去。
 
@@ -405,11 +405,11 @@ BestHistory 主要解决的不是“把 Chrome 历史记录换个皮肤”，而
 
 ## 安装
 
-**BestHistory v1.0.0 已在 Chrome 和 Firefox 官方扩展商店上架。**
+**BestHistory 已在 Chrome 和 Firefox 官方扩展商店上架；Chrome v1.1.0 正在作为完整 18 语言更新发布。**
 
 推荐直接从 [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) 或 [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) 安装，方便自动更新。详细步骤见 [INSTALL.md](INSTALL.md)。
 
-我们仍保留独立的 [GitHub Release](https://github.com/renboxue/BestHistory/releases/tag/v1.0.0)，供需要手动安装、验证版本或查看历史发布的用户使用。
+我们仍保留独立的 [GitHub Releases](https://github.com/renboxue/BestHistory/releases)，供需要手动安装、验证版本或查看历史发布的用户使用。
 
 ---
 
@@ -423,7 +423,7 @@ BestHistory 主要解决的不是“把 Chrome 历史记录换个皮肤”，而
 
 ## 当前版本
 
-**v1.0.0 — 正式版**
+**v1.1.0 — Chrome 官方 18 语言国际化更新**
 
 Chrome Web Store：[立即安装](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb)  
 Firefox Add-ons：[立即安装](https://addons.mozilla.org/en-US/firefox/addon/besthistory/)
