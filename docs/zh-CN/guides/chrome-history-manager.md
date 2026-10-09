@@ -28,4 +28,8 @@ BestHistory 更偏向其中的“**重新找回网站**”：先按照网站聚�
 
 <div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="/zh-CN/">了解 BestHistory</a><a class="bh-btn bh-btn-secondary" href="/zh-CN/guides/">返回中文指南</a></div>
 
+
+**安装 BestHistory：** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/)。
+
+
 </div>
