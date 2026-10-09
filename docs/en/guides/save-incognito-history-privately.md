@@ -33,3 +33,6 @@ Use the feature only when preserving those visits is what you actually want.
 The idea is simple: some history is useful enough that you do not want to forget it, but private enough that you do not want it sitting beside ordinary browsing history.
 
 For more details, read the [BestHistory privacy notice](../PRIVACY.md) and [BestHistory README](https://github.com/renboxue/BestHistory#readme).
+
+
+**Install BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
