@@ -59,7 +59,7 @@ A history manager can help search and organize records that are available. It ca
 
 If your main problem is not deleting history but **finding old websites again**, BestHistory **v1.0.0 is now the official release** and it is available on Chrome Web Store and Firefox Add-ons. [Visit the official BestHistory website](https://besthistory.boxuezhiban.cn/) or [see the installation guide](https://besthistory.boxuezhiban.cn/en/install/).
 
-Related: [How to find a website you visited before but forgot](find-website-you-visited-before.md).
+Related: [How to find a website you visited before but forgot](/en/guides/find-website-you-visited-before/).
 
 
 **Install BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
