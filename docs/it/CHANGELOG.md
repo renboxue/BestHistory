@@ -1,5 +1,11 @@
 # Novità
 
+## v1.1.0 — 2026-10-09
+
+- Aggiunti i metadati ufficiali Chrome `_locales` per tutte le 18 lingue e `default_locale`.
+- Verificati completamente interfaccia, accesso, Pro, IA, pagamenti e abbonamenti in tutte le 18 lingue, rimuovendo i vecchi testi di test Paddle dal flusso Dodo Payments attuale.
+
+
 ## v1.0.0 — 2026-08-27
 
 BestHistory v1.0.0 è la prima versione ufficiale. La pubblicazione sul Chrome Web Store arriverà a breve.
