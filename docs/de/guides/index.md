@@ -13,6 +13,5 @@ Sie erinnern sich an den Zweck einer Website, aber nicht an ihren Namen? Diese A
 - [Vergessene Website wiederfinden](/de/guides/find-website-you-visited-before/)
 - [Alten Chrome-Verlauf suchen](/de/guides/search-old-chrome-history/)
 
-**BestHistory installieren:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**BestHistory installieren:** [Für Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Für Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-[English](/en/guides/) · [简体中文](/zh-CN/guides/)
