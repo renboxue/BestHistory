@@ -13,6 +13,5 @@ Vous vous souvenez de ce qu'un site permettait de faire, mais plus de son nom ? 
 - [Retrouver un site oublié](/fr/guides/find-website-you-visited-before/)
 - [Rechercher l'ancien historique Chrome](/fr/guides/search-old-chrome-history/)
 
-**Installer BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
+**Installer BestHistory:** [Installer sur Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Installer sur Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
-[English](/en/guides/) · [简体中文](/zh-CN/guides/)
