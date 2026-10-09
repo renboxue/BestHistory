@@ -8,12 +8,12 @@ description: Practical guides for searching old Chrome history, finding forgotte
 
 These guides focus on practical browser-history problems rather than generic productivity advice.
 
-- [How to search old Chrome history](search-old-chrome-history.md)
-- [How to find a website you visited before but forgot](find-website-you-visited-before.md)
-- [How to organize Chrome history by website](organize-browser-history-by-website.md)
-- [Browser history manager: what to look for](browser-history-manager.md)
-- [How to save incognito history privately when you choose to](save-incognito-history-privately.md)
-- [BetterHistory alternative: website-first history organization](betterhistory-alternative.md)
+- [How to search old Chrome history](/en/guides/search-old-chrome-history/)
+- [How to find a website you visited before but forgot](/en/guides/find-website-you-visited-before/)
+- [How to organize Chrome history by website](/en/guides/organize-browser-history-by-website/)
+- [Browser history manager: what to look for](/en/guides/browser-history-manager/)
+- [How to save incognito history privately when you choose to](/en/guides/save-incognito-history-privately/)
+- [BetterHistory alternative: website-first history organization](/en/guides/betterhistory-alternative/)
 
 ## BestHistory
 
