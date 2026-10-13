@@ -2,7 +2,7 @@
 layout: default
 title: BestHistory 中文使用指南
 permalink: /zh-CN/guides/
-description: BestHistory 简体中文指南：搜索旧 Chrome 历史、找回以前访问过的网站，以及更有效地管理浏览历史。
+description: 浏览器标签页太多不敢关？想找回忘记的网站，或加密保护私密历史？查看 BestHistory 的中文实用指南。
 lang: zh-CN
 ---
 
@@ -10,7 +10,17 @@ lang: zh-CN
 
 # BestHistory 中文使用指南
 
-这些文章不是单纯介绍功能，而是围绕真实问题来写：**已经忘了网站名字，怎么重新找到它？历史记录太多，怎么更快缩小范围？**
+这些文章围绕真实问题来写：**标签页太多怕关掉、忘记以前用过的网站，以及不希望私密记录出现在日常历史列表里。**
+
+## 放心关闭不用一直开着的标签页
+
+### [Chrome 标签页太多不敢关？如何关闭后仍能找回网站](/zh-CN/guides/close-tabs-without-losing-websites/)
+了解 Chrome 自带历史、收藏夹、会话保存与 BestHistory 的区别，不必为了记住网站而一直开着几十个标签页。
+
+## 私人保险箱与加密浏览历史
+
+### [如何给浏览历史加密码？使用本地加密的私人保险箱](/zh-CN/guides/encrypted-private-browser-history/)
+了解普通历史、无痕窗口与 Pro 私密模式的不同，明确哪些记录可以加密保留、哪些不能保证隐藏。
 
 ## 找回以前访问过的网站
 
