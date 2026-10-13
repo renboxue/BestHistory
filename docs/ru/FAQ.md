@@ -1,26 +1,19 @@
-# FAQ
+# Вопросы и ответы — BestHistory
 
-## Do I need an account?
-No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
+## BestHistory
 
-## Does BestHistory upload my browsing history?
-The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
+Аккаунт не требуется для бесплатной локальной организации истории. Вход нужен для 30-дневной пробной версии Pro, прав Pro и покупок.
 
-## Does AI read my entire history?
-No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
+Полная история, приватные записи и резервные копии обычно хранятся на устройстве. BestHistory не продаёт данные о посещениях.
 
-## What does Pro cost?
-$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
+Необязательные функции ИИ отправляют ограниченные подсказки и метаданные только по вашему запросу, но не полную базу истории или зашифрованный приватный архив.
 
-## How do cancellation and refunds work?
-Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
+## Приватная история
 
-## Where is Private Mode data stored?
-Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
+Приватный режим — локально зашифрованное хранилище с паролем, а не средство анонимности перед сайтами и сетевыми операторами.
 
-## Why isn't the source code on GitHub?
-The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+## BestHistory Pro
 
-## Contact
+Базовые функции бесплатны. Для новых аккаунтов сейчас есть 30 дней Pro. Pro стоит $2.99 в месяц или $24.99 в год с автопродлением либо $59.99 разово на срок существования продукта. Платежи обрабатывает Paddle.
 
-Поддержка: besthistory@126.com
+[Главная](/ru/) · [Конфиденциальность](/ru/privacy/) · [Условия](/ru/terms/) · [Возвраты](/ru/refund/)

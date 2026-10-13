@@ -1,26 +1,19 @@
-# FAQ
+# Veelgestelde vragen — BestHistory
 
-## Do I need an account?
-No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
+## BestHistory
 
-## Does BestHistory upload my browsing history?
-The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
+Een account is niet nodig voor de gratis lokale functies. Inloggen dient voor de Pro-proefperiode van 30 dagen, betaalde rechten en aankopen.
 
-## Does AI read my entire history?
-No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
+De volledige geschiedenisdatabase, privédossiers en back-ups blijven standaard op je apparaat. BestHistory verkoopt geen browsegegevens.
 
-## What does Pro cost?
-$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
+AI-functies zijn optioneel en sturen alleen op jouw verzoek beperkte zoekaanwijzingen en websitegegevens. De volledige database en versleutelde privékluis worden niet doorgestuurd.
 
-## How do cancellation and refunds work?
-Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
+## Privégeschiedenis
 
-## Where is Private Mode data stored?
-Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
+Privémodus is een lokaal versleuteld gebied met een wachtwoord. Het verbergt je internetactiviteiten niet voor websites of netwerkbeheerders.
 
-## Why isn't the source code on GitHub?
-The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+## BestHistory Pro
 
-## Contact
+De basisfuncties zijn gratis. Nieuwe accounts krijgen momenteel 30 dagen Pro-proefperiode. Pro kost $2.99 per maand of $24.99 per jaar (automatische verlenging), of eenmalig $59.99 tijdens de levensduur van het product. Paddle verwerkt betalingen.
 
-Support: besthistory@126.com
+[Home](/nl/) · [Privacy](/nl/privacy/) · [Voorwaarden](/nl/terms/) · [Terugbetalingen](/nl/refund/)

@@ -1,19 +1,12 @@
-# Cài đặt — BestHistory v1.0.0
+# Cài đặt — BestHistory
 
-BestHistory v1.0.0 is distributed through the Chrome Web Store. Once the listing is live, install and update it through the store.
+Cài BestHistory từ Chrome Web Store hoặc Firefox Add-ons chính thức. Kiểm tra nhà phát hành, thêm tiện ích rồi mở từ thanh công cụ trình duyệt. Bản cài qua cửa hàng thường tự cập nhật.
 
-## Install
+- [Thêm vào Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb)
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/)
 
-1. Open the Chrome Web Store.
-2. Search for **BestHistory**.
-3. Verify the developer and website information, then choose **Add to Chrome**.
-4. Optionally pin BestHistory in the extensions menu.
-5. Click the toolbar icon to open BestHistory.
+## Lịch sử riêng tư
 
-## Incognito / Private Mode
+Nếu muốn Pro lưu lượt truy cập ở chế độ ẩn danh, bạn phải tự cấp quyền chạy trong chế độ ẩn danh tại phần cài đặt tiện ích Chrome.
 
-If you want BestHistory Pro to save selected incognito-window visits into encrypted Private Mode, Chrome requires you to explicitly enable **Allow in Incognito** in `chrome://extensions/`. This permission is optional.
-
-## Updates
-
-Chrome automatically updates Chrome Web Store installations. Before major upgrades, keeping a `.bhbackup` file is still recommended.
+[Trang chủ](/vi/) · [Quyền riêng tư](/vi/privacy/)

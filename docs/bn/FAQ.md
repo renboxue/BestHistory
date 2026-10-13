@@ -1,26 +1,19 @@
-# FAQ
+# প্রশ্নোত্তর — BestHistory
 
-## Do I need an account?
-No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
+## BestHistory
 
-## Does BestHistory upload my browsing history?
-The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
+বিনামূল্যে স্থানীয় ইতিহাস ব্যবস্থাপনায় অ্যাকাউন্টের দরকার নেই। লগইন ৩০ দিনের Pro ট্রায়াল, Pro সুবিধা ও কেনাকাটার জন্য ব্যবহৃত হয়।
 
-## Does AI read my entire history?
-No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
+সম্পূর্ণ ইতিহাস ডাটাবেস, ব্যক্তিগত রেকর্ড ও ব্যাকআপ সাধারণত ডিভাইসেই থাকে। BestHistory ব্রাউজিং ডেটা বিক্রি করে না।
 
-## What does Pro cost?
-$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
+AI সুবিধা ঐচ্ছিক; কেবল আপনার অনুরোধে সীমিত সূত্র ও সাইটের তথ্য পাঠায়, পুরো ইতিহাস বা এনক্রিপ্টেড ব্যক্তিগত ভল্ট পাঠায় না।
 
-## How do cancellation and refunds work?
-Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
+## ব্যক্তিগত ইতিহাস
 
-## Where is Private Mode data stored?
-Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
+ব্যক্তিগত মোড ডিভাইসের এনক্রিপ্টেড ও পাসওয়ার্ড-সুরক্ষিত অংশ; এটি ওয়েবসাইট বা নেটওয়ার্কের কাছে অনলাইনে পরিচয় লুকায় না।
 
-## Why isn't the source code on GitHub?
-The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+## BestHistory Pro
 
-## Contact
+মূল সুবিধা বিনামূল্যে। নতুন অ্যাকাউন্টে এখন ৩০ দিনের Pro ট্রায়াল আছে। Pro মাসে $2.99 বা বছরে $24.99 (স্বয়ংক্রিয় নবায়ন), কিংবা পণ্যের কার্যকালজুড়ে একবার $59.99। অর্থপ্রদান Paddle পরিচালনা করে।
 
-Support: besthistory@126.com
+[হোম](/bn/) · [গোপনীয়তা](/bn/privacy/) · [শর্তাবলি](/bn/terms/) · [ফেরত](/bn/refund/)

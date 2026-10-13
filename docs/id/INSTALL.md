@@ -1,19 +1,12 @@
-# Instalasi — BestHistory v1.0.0
+# Instal — BestHistory
 
-BestHistory v1.0.0 is distributed through the Chrome Web Store. Once the listing is live, install and update it through the store.
+Instal BestHistory melalui Chrome Web Store atau Firefox Add-ons resmi. Periksa penerbit, tambahkan ekstensi, lalu buka dari bilah alat browser. Pemasangan toko biasanya diperbarui otomatis.
 
-## Install
+- [Tambahkan ke Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb)
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/)
 
-1. Open the Chrome Web Store.
-2. Search for **BestHistory**.
-3. Verify the developer and website information, then choose **Add to Chrome**.
-4. Optionally pin BestHistory in the extensions menu.
-5. Click the toolbar icon to open BestHistory.
+## Riwayat pribadi
 
-## Incognito / Private Mode
+Untuk menyimpan kunjungan mode samaran dengan Pro, Anda harus memberikan izin menjalankan ekstensi di mode samaran melalui pengaturan Chrome secara eksplisit.
 
-If you want BestHistory Pro to save selected incognito-window visits into encrypted Private Mode, Chrome requires you to explicitly enable **Allow in Incognito** in `chrome://extensions/`. This permission is optional.
-
-## Updates
-
-Chrome automatically updates Chrome Web Store installations. Before major upgrades, keeping a `.bhbackup` file is still recommended.
+[Beranda](/id/) · [Privasi](/id/privacy/)

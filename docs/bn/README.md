@@ -4,7 +4,7 @@
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · বাংলা · [Tiếng Việt](../vi/README.md)</p>
 
-> **v1.0.0** — BestHistory v1.0.0 হলো প্রথম আনুষ্ঠানিক রিলিজ। Chrome Web Store সংস্করণ শিগগিরই আসছে।
+> **BestHistory · Chrome Web Store** — অফিশিয়াল Chrome Web Store বা Firefox Add-ons থেকে BestHistory ইনস্টল করুন। প্রকাশক যাচাই করে এক্সটেনশন যোগ করুন এবং ব্রাউজারের টুলবার থেকে খুলুন। স্টোর সংস্করণ সাধারণত স্বয়ংক্রিয়ভাবে আপডেট হয়। [Chrome-এ যোগ করুন](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) · [হোম](/bn/).
 
 BestHistory একটি privacy-first Chrome / Chromium history manager। এটি আগে সাইট অনুযায়ী history গোষ্ঠীবদ্ধ করে, তারপর search, tag, note, pin, private storage, backup এবং rediscovery সহজ করে।
 

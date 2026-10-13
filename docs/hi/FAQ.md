@@ -1,26 +1,19 @@
-# FAQ
+# सामान्य प्रश्न — BestHistory
 
-## Do I need an account?
-No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
+## BestHistory
 
-## Does BestHistory upload my browsing history?
-The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
+मुफ़्त स्थानीय इतिहास प्रबंधन के लिए खाते की ज़रूरत नहीं है। लॉगिन 30 दिन के Pro ट्रायल, Pro अधिकारों और खरीदारी के लिए है।
 
-## Does AI read my entire history?
-No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
+पूरी हिस्ट्री, निजी रिकॉर्ड और बैकअप सामान्यतः आपके डिवाइस पर रहते हैं। BestHistory ब्राउज़िंग डेटा नहीं बेचता।
 
-## What does Pro cost?
-$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
+AI सुविधाएँ वैकल्पिक हैं और केवल आपके चलाने पर सीमित खोज संकेत तथा वेबसाइट जानकारी भेजती हैं; पूरा डेटाबेस या एन्क्रिप्टेड निजी वॉल्ट नहीं भेजा जाता।
 
-## How do cancellation and refunds work?
-Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
+## निजी इतिहास
 
-## Where is Private Mode data stored?
-Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
+निजी मोड डिवाइस पर एन्क्रिप्टेड और पासवर्ड-सुरक्षित क्षेत्र है, इंटरनेट पर गुमनाम रहने का साधन नहीं।
 
-## Why isn't the source code on GitHub?
-The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+## BestHistory Pro
 
-## Contact
+बुनियादी सुविधाएँ मुफ़्त हैं। नए खातों को अभी 30 दिन का Pro ट्रायल मिलता है। Pro $2.99/माह या $24.99/वर्ष (ऑटो-रिन्यू), अथवा उत्पाद के संचालनकाल के लिए $59.99 एकमुश्त है। भुगतान Paddle संसाधित करता है।
 
-Support: besthistory@126.com
+[होम](/hi/) · [गोपनीयता](/hi/privacy/) · [शर्तें](/hi/terms/) · [रिफंड](/hi/refund/)

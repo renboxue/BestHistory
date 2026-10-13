@@ -4,7 +4,7 @@
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · Bahasa Indonesia · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
-> **v1.0.0** — BestHistory v1.0.0 adalah rilis resmi pertama. Versi Chrome Web Store akan segera hadir.
+> **BestHistory · Chrome Web Store** — Instal BestHistory melalui Chrome Web Store atau Firefox Add-ons resmi. Periksa penerbit, tambahkan ekstensi, lalu buka dari bilah alat browser. Pemasangan toko biasanya diperbarui otomatis. [Tambahkan ke Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) · [Beranda](/id/).
 
 BestHistory adalah pengelola riwayat Chrome / Chromium yang mengutamakan privasi. Riwayat dikelompokkan per situs terlebih dahulu, lalu Anda dapat mencari, memberi tag, catatan, pin, menyimpan secara privat, mencadangkan, dan menemukan kembali situs.
 

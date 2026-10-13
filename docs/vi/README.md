@@ -4,7 +4,7 @@
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · Tiếng Việt</p>
 
-> **v1.0.0** — BestHistory v1.0.0 là bản phát hành chính thức đầu tiên. Phiên bản Chrome Web Store sẽ sớm ra mắt.
+> **BestHistory · Chrome Web Store** — Cài BestHistory từ Chrome Web Store hoặc Firefox Add-ons chính thức. Kiểm tra nhà phát hành, thêm tiện ích rồi mở từ thanh công cụ trình duyệt. Bản cài qua cửa hàng thường tự cập nhật. [Thêm vào Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) · [Trang chủ](/vi/).
 
 BestHistory là trình quản lý lịch sử Chrome / Chromium ưu tiên quyền riêng tư. Ứng dụng nhóm lịch sử theo website trước, sau đó giúp tìm kiếm, gắn thẻ, ghi chú, ghim, lưu riêng tư, sao lưu và tìm lại website.
 

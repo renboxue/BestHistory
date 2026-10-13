@@ -1,19 +1,12 @@
-# Installatie — BestHistory v1.0.0
+# Installeren — BestHistory
 
-BestHistory v1.0.0 is distributed through the Chrome Web Store. Once the listing is live, install and update it through the store.
+Installeer BestHistory via de officiële Chrome Web Store of Firefox Add-ons. Controleer de uitgever, voeg de extensie toe en open deze via de werkbalk. Store-installaties worden normaal automatisch bijgewerkt.
 
-## Install
+- [Toevoegen aan Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb)
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/)
 
-1. Open the Chrome Web Store.
-2. Search for **BestHistory**.
-3. Verify the developer and website information, then choose **Add to Chrome**.
-4. Optionally pin BestHistory in the extensions menu.
-5. Click the toolbar icon to open BestHistory.
+## Privégeschiedenis
 
-## Incognito / Private Mode
+Voor het optioneel bewaren van incognitobezoeken met Pro moet je BestHistory zelf toestemming geven in de extensie-instellingen van Chrome.
 
-If you want BestHistory Pro to save selected incognito-window visits into encrypted Private Mode, Chrome requires you to explicitly enable **Allow in Incognito** in `chrome://extensions/`. This permission is optional.
-
-## Updates
-
-Chrome automatically updates Chrome Web Store installations. Before major upgrades, keeping a `.bhbackup` file is still recommended.
+[Home](/nl/) · [Privacy](/nl/privacy/)

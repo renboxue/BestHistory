@@ -4,7 +4,7 @@
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · Nederlands · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
-> **v1.0.0** — BestHistory v1.0.0 is de eerste officiële release. De Chrome Web Store-versie komt binnenkort.
+> **BestHistory · Chrome Web Store** — Installeer BestHistory via de officiële Chrome Web Store of Firefox Add-ons. Controleer de uitgever, voeg de extensie toe en open deze via de werkbalk. Store-installaties worden normaal automatisch bijgewerkt. [Toevoegen aan Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) · [Home](/nl/).
 
 BestHistory is een privacygerichte Chrome-/Chromium-geschiedenismanger. Het groepeert eerst per website en maakt zoeken, taggen, notities, vastzetten, privé bewaren, back-up en terugvinden eenvoudiger.
 

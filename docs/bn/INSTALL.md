@@ -1,19 +1,12 @@
-# Installation — BestHistory v1.0.0
+# ইনস্টল — BestHistory
 
-BestHistory v1.0.0 is distributed through the Chrome Web Store. Once the listing is live, install and update it through the store.
+অফিশিয়াল Chrome Web Store বা Firefox Add-ons থেকে BestHistory ইনস্টল করুন। প্রকাশক যাচাই করে এক্সটেনশন যোগ করুন এবং ব্রাউজারের টুলবার থেকে খুলুন। স্টোর সংস্করণ সাধারণত স্বয়ংক্রিয়ভাবে আপডেট হয়।
 
-## Install
+- [Chrome-এ যোগ করুন](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb)
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/)
 
-1. Open the Chrome Web Store.
-2. Search for **BestHistory**.
-3. Verify the developer and website information, then choose **Add to Chrome**.
-4. Optionally pin BestHistory in the extensions menu.
-5. Click the toolbar icon to open BestHistory.
+## ব্যক্তিগত ইতিহাস
 
-## Incognito / Private Mode
+Pro-তে ইনকগনিটো ভিজিট সংরক্ষণ করতে চাইলে Chrome এক্সটেনশন সেটিংয়ে নিজে স্পষ্ট অনুমতি দিতে হবে।
 
-If you want BestHistory Pro to save selected incognito-window visits into encrypted Private Mode, Chrome requires you to explicitly enable **Allow in Incognito** in `chrome://extensions/`. This permission is optional.
-
-## Updates
-
-Chrome automatically updates Chrome Web Store installations. Before major upgrades, keeping a `.bhbackup` file is still recommended.
+[হোম](/bn/) · [গোপনীয়তা](/bn/privacy/)
