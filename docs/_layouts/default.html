@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
+  {% if page.seo_alias %}<meta name="robots" content="noindex,follow">{% endif %}
   {% assign active_locale = page.lang | default: 'en' %}
   {% assign t = site.data.marketing_i18n[active_locale] %}
   {% assign seo_languages = 'en,zh-CN,zh-TW,ja,fr,de,es,pt,ko,it,nl,ru,ar,hi,id,tr,bn,vi' | split: ',' %}
@@ -129,12 +130,12 @@
       <div class="bh-footer-nav">
         <a href="{{ home_href }}">{{ t.home | escape }}</a>
         <a href="/{{ active_locale }}/guides/">{{ t.guides | escape }}</a>
-        <a href="/{{ active_locale }}/story/">{{ t.story | escape }}</a>
-        <a href="/{{ active_locale }}/community/">{{ t.community | escape }}</a>
-        <a href="/{{ active_locale }}/privacy/">{{ t.privacy | escape }}</a>
-        <a href="/{{ active_locale }}/terms/">{{ t.terms | escape }}</a>
+        <a href="{% if active_locale == 'en' %}/story/{% else %}/{{ active_locale }}/story/{% endif %}">{{ t.story | escape }}</a>
+        <a href="{% if active_locale == 'en' %}/community/{% else %}/{{ active_locale }}/community/{% endif %}">{{ t.community | escape }}</a>
+        <a href="{% if active_locale == 'en' %}/privacy/{% else %}/{{ active_locale }}/privacy/{% endif %}">{{ t.privacy | escape }}</a>
+        <a href="{% if active_locale == 'en' %}/terms/{% else %}/{{ active_locale }}/terms/{% endif %}">{{ t.terms | escape }}</a>
         <a href="/{{ active_locale }}/security/">{{ t.security | escape }}</a>
-        <a href="/{{ active_locale }}/refund/">{{ t.refund | escape }}</a>
+        <a href="{% if active_locale == 'en' %}/refund/{% else %}/{{ active_locale }}/refund/{% endif %}">{{ t.refund | escape }}</a>
         <a href="mailto:besthistory@126.com">besthistory@126.com</a>
       </div>
       <div class="bh-footer-copy">© 2026 Zhiban · <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">京ICP备2026061674号-1</a></div>
