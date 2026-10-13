@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-title: Password-Protected Browser History: A Private, Encrypted History Vault
+title: "Password-Protected Browser History: A Private, Encrypted History Vault"
 description: Want to keep some browsing history but not display it alongside everyday sites? Learn how BestHistory Pro Private Mode stores selected records encrypted locally.
 permalink: /en/guides/encrypted-private-browser-history/
 seo_pair: encrypted-private-browser-history
