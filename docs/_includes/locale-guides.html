@@ -1,0 +1,17 @@
+{% assign t = site.data.marketing_i18n[page.lang] %}
+{% assign a = site.data.advanced_i18n[page.lang] %}
+<div class="bh-doc-page">
+<h1>{{ t.guides | escape }} · BestHistory</h1>
+<p>{{ t.guideIntro | escape }}</p>
+<ul>
+ <li><a href="/{{ page.lang }}/guides/close-tabs-without-losing-websites/">{{ t.tabs | escape }}</a> — {{ t.tabsDesc | escape }}</li>
+ <li><a href="/{{ page.lang }}/guides/encrypted-private-browser-history/">{{ t.vault | escape }}</a> — {{ t.vaultDesc | escape }}</li>
+ <li><a href="/{{ page.lang }}/guides/find-website-you-visited-before/">{{ t.history | escape }}</a> — {{ t.historyDesc | escape }}</li>
+ <li><a href="/{{ page.lang }}/guides/search-old-chrome-history/">{{ t.history | escape }} — Chrome</a></li>
+ <li><a href="/{{ page.lang }}/guides/betterhistory-alternative/">{{ a.betterTitle | escape }}</a></li>
+ <li><a href="/{{ page.lang }}/guides/browser-history-manager/">{{ a.managerTitle | escape }}</a></li>
+ <li><a href="/{{ page.lang }}/guides/organize-browser-history-by-website/">{{ a.organizeTitle | escape }}</a></li>
+ <li><a href="/{{ page.lang }}/guides/save-incognito-history-privately/">{{ a.incognitoTitle | escape }}</a></li>
+</ul>
+<p><a href="/{{ page.lang }}/">{{ t.home | escape }}</a> · <a href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb">{{ t.getChrome | escape }}</a></p>
+</div>

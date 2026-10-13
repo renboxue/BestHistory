@@ -1,4 +1,5 @@
 ---
+locale_section: community
 layout: default
 title: 博学智伴社区 — BestHistory
 permalink: /zh-CN/community/

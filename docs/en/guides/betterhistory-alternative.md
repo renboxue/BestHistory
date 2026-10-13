@@ -1,4 +1,6 @@
 ---
+lang: en
+seo_group: betterhistory-alternative
 layout: default
 title: BetterHistory Alternative - BestHistory for Website-First Browser History
 description: Looking for a BetterHistory or Better History alternative? Compare BetterHistory's search, deletion and export focus with BestHistory's website-first organization, notes, tags, local-first data and Private Mode.

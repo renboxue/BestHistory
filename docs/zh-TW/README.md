@@ -4,7 +4,7 @@
 
 <p align="center">[简体中文](../../README.md) · 繁體中文 · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
-> **v1.0.0** — BestHistory v1.0.0 已正式發布，Chrome Web Store 商店版本即將上線。
+> **BestHistory · Chrome Web Store** — 從官方 Chrome Web Store 或 Firefox Add-ons 安裝 BestHistory，核對開發者後加入擴充功能，再從瀏覽器工具列開啟。商店安裝通常會自動更新。 [加到 Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) · [首頁](/zh-TW/).
 
 BestHistory 是一款隱私優先的 Chrome / Chromium 瀏覽歷史管理器。它先按網站聚合歷史，再讓你搜尋、加標籤、寫備註、置頂、私密保存、備份並重新找回以前用過的網站。
 

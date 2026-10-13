@@ -4,7 +4,7 @@
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · Deutsch · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
-> **v1.0.0** — BestHistory v1.0.0 ist die erste offizielle Version. Die Veröffentlichung im Chrome Web Store folgt in Kürze.
+> **BestHistory · Chrome Web Store** — Installieren Sie BestHistory aus dem offiziellen Chrome Web Store oder Firefox Add-ons. Prüfen Sie den Anbieter, fügen Sie die Erweiterung hinzu und öffnen Sie sie über die Symbolleiste. Store-Versionen werden normalerweise automatisch aktualisiert. [Für Chrome installieren](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) · [Startseite](/de/).
 
 BestHistory ist ein datenschutzorientierter Chrome-/Chromium-Verlaufsmanager. Er gruppiert den Verlauf zuerst nach Website und erleichtert Suche, Tags, Notizen, Anheften, privaten Schutz, Backup und Wiederfinden.
 

@@ -1,4 +1,5 @@
 ---
+locale_section: install
 layout: default
 title: 安装 BestHistory v1.0.0
 description: BestHistory v1.0.0 简体中文安装说明，包括 GitHub 手动安装、开发者模式、Chrome Web Store、无痕模式授权和更新方式。

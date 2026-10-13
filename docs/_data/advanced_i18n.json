@@ -1,0 +1,182 @@
+{
+  "en": {
+    "betterTitle": "BetterHistory alternative: compare history managers",
+    "managerTitle": "What to look for in a browser history manager",
+    "organizeTitle": "Organize Chrome history by website",
+    "incognitoTitle": "Save incognito history privately when you choose",
+    "betterText": "Compare BetterHistory and BestHistory by the task each tool solves. BetterHistory focuses on history search and cleanup; BestHistory puts websites, personal notes and rediscovery first.",
+    "managerText": "A useful history manager should improve search, site grouping, privacy controls, tags, notes and the ability to recover sites already in your history.",
+    "organizeText": "A chronological list can repeat one website dozens of times. Website-first organization groups available visits under the site without losing its individual page records.",
+    "incognitoText": "Chrome normally does not retain incognito visits after the window closes. BestHistory Pro can optionally preserve your own records locally and encrypted after you explicitly grant incognito permission."
+  },
+  "zh-CN": {
+    "betterTitle": "BetterHistory 替代工具如何选择",
+    "managerTitle": "浏览历史管理器应该具备什么功能",
+    "organizeTitle": "如何按网站整理 Chrome 浏览记录",
+    "incognitoTitle": "如何自行决定保存无痕浏览记录",
+    "betterText": "比较 BetterHistory 和 BestHistory 时，应先明确需求：前者偏向搜索与清理，后者侧重网站聚合、标签备注和重新找回网站。",
+    "managerText": "好的历史管理器不仅要能搜索，还应考虑网站聚合、隐私、本地保存、标签备注及已有历史记录的找回能力。",
+    "organizeText": "传统时间线可能重复显示同一网站的几十个页面。按网站整理可以把已有记录聚合起来，仍可继续查看具体页面。",
+    "incognitoText": "Chrome 关闭无痕窗口后通常不保存会话历史。BestHistory Pro 仅在用户明确允许扩展在无痕模式运行后，才可以选择加密保存自己的相关记录。"
+  },
+  "zh-TW": {
+    "betterTitle": "如何選擇 BetterHistory 替代工具",
+    "managerTitle": "瀏覽歷史管理器應有哪些能力",
+    "organizeTitle": "依網站整理 Chrome 瀏覽紀錄",
+    "incognitoTitle": "自行選擇是否保存無痕瀏覽紀錄",
+    "betterText": "比較 BetterHistory 與 BestHistory 時，要先想清楚需求：前者偏向搜尋和清理，後者著重網站聚合、標籤備註與找回網站。",
+    "managerText": "實用的歷史管理器應改善搜尋、依網站整理、隱私控制、標籤與備註，並清楚說明哪些紀錄能重新找到。",
+    "organizeText": "一般時間線會重複列出同一網站的許多頁面，依網站整理可以先看網站，再查看原本存在的各個頁面。",
+    "incognitoText": "Chrome 關閉無痕視窗後通常不保留該次歷史；BestHistory Pro 只在你明確允許無痕模式執行時，才可選擇在本機加密記錄。"
+  },
+  "ja": {
+    "betterTitle": "BetterHistory の代わりを探すときの比較ポイント",
+    "managerTitle": "ブラウザ履歴管理ツールの選び方",
+    "organizeTitle": "Chrome の閲覧履歴をサイト別に整理する方法",
+    "incognitoTitle": "シークレットモードの履歴を自分だけで保存する方法",
+    "betterText": "BetterHistory と BestHistory は重視する作業が異なります。検索や整理・削除を優先するか、訪問したサイトを思い出しやすくするかで比較しましょう。",
+    "managerText": "履歴管理ツールを選ぶときは検索だけでなく、サイト別表示、プライバシー、タグ、メモ、データの保存方法を確認しましょう。",
+    "organizeText": "同じサイトで何十ページも開くと時系列の履歴は見づらくなります。サイト別にまとめても、各ページの記録は確認できます。",
+    "incognitoText": "Chrome はシークレットウィンドウを閉じると通常は履歴を保持しません。BestHistory Pro は明示的な許可後にのみ、任意の訪問記録を端末上で暗号化保存できます。"
+  },
+  "fr": {
+    "betterTitle": "Alternative à BetterHistory : comment comparer",
+    "managerTitle": "Choisir un gestionnaire d'historique de navigation",
+    "organizeTitle": "Organiser l'historique Chrome par site web",
+    "incognitoTitle": "Enregistrer volontairement son historique de navigation privée",
+    "betterText": "BetterHistory et BestHistory privilégient des usages différents : recherche et nettoyage avancés d'un côté, regroupement des sites et aide à la mémoire de l'autre.",
+    "managerText": "Un bon gestionnaire d'historique doit améliorer la recherche, le regroupement par site, les étiquettes, les notes et les contrôles de confidentialité.",
+    "organizeText": "Dans une liste chronologique, un même site peut apparaître des dizaines de fois. Le regroupement par site facilite l'accès aux pages consultées sans les supprimer.",
+    "incognitoText": "Chrome ne conserve normalement pas l'historique de navigation privée après fermeture. BestHistory Pro peut conserver certains passages chiffrés sur votre appareil après votre autorisation explicite."
+  },
+  "de": {
+    "betterTitle": "Alternative zu BetterHistory: Browserverlauf vergleichen",
+    "managerTitle": "Browserverlauf-Manager für Chrome auswählen",
+    "organizeTitle": "Chrome-Verlauf nach Websites organisieren",
+    "incognitoTitle": "Inkognito-Verlauf nur mit Einwilligung speichern",
+    "betterText": "BetterHistory und BestHistory lösen unterschiedliche Aufgaben: Vergleichen Sie leistungsfähige Suche und Bereinigung mit dem Schwerpunkt auf Websites, Notizen und Wiederfinden.",
+    "managerText": "Ein guter Verlauf-Manager sollte neben Suche auch Website-Gruppierung, Datenschutz, Tags, Notizen und klare lokale Datenspeicherung bieten.",
+    "organizeText": "Ein chronologischer Verlauf zeigt oft viele Einträge derselben Website. Eine Gruppierung nach Website erleichtert den Überblick, während einzelne Seiten verfügbar bleiben.",
+    "incognitoText": "Chrome bewahrt Inkognito-Besuche nach dem Schließen normalerweise nicht auf. BestHistory Pro kann sie nur nach ausdrücklicher Freigabe lokal verschlüsselt aufzeichnen."
+  },
+  "es": {
+    "betterTitle": "Alternativas a BetterHistory: qué comparar",
+    "managerTitle": "Cómo elegir un gestor del historial del navegador",
+    "organizeTitle": "Organizar el historial de Chrome por sitio web",
+    "incognitoTitle": "Guardar voluntariamente el historial de incógnito",
+    "betterText": "BetterHistory y BestHistory se centran en tareas distintas: búsqueda y limpieza del historial, frente a la organización por sitio y las notas para recordar webs.",
+    "managerText": "Un gestor útil debería mejorar la búsqueda, agrupar visitas por sitio, ofrecer etiquetas, notas y explicar claramente cómo protege los datos.",
+    "organizeText": "El historial cronológico puede repetir muchas páginas de una misma web. Agrupar por sitio facilita reconocerla y consultar después sus páginas individuales.",
+    "incognitoText": "Chrome normalmente no guarda el historial de incógnito tras cerrar la ventana. BestHistory Pro puede cifrar localmente visitas elegidas solo después de que concedas el permiso explícito."
+  },
+  "pt": {
+    "betterTitle": "Alternativas ao BetterHistory: o que comparar",
+    "managerTitle": "Como escolher um gerenciador de histórico",
+    "organizeTitle": "Organizar o histórico do Chrome por site",
+    "incognitoTitle": "Guardar voluntariamente o histórico do modo anônimo",
+    "betterText": "BetterHistory e BestHistory priorizam tarefas diferentes: busca e limpeza avançadas de um lado; agrupamento por site e pistas pessoais para reencontrar páginas do outro.",
+    "managerText": "Um bom gerenciador precisa oferecer busca, agrupamento por site, etiquetas, notas e clareza sobre privacidade e armazenamento local.",
+    "organizeText": "Uma lista cronológica repete muitas páginas de um mesmo site. Agrupar por site facilita reconhecer a origem sem perder os registros das páginas individuais.",
+    "incognitoText": "O Chrome normalmente não guarda o histórico do modo anônimo depois que a janela é fechada. O BestHistory Pro só pode salvar registros criptografados após sua autorização explícita."
+  },
+  "ko": {
+    "betterTitle": "BetterHistory 대안 비교하기",
+    "managerTitle": "브라우저 방문 기록 관리 도구 고르는 방법",
+    "organizeTitle": "Chrome 방문 기록을 사이트별로 정리하기",
+    "incognitoTitle": "시크릿 모드 기록을 직접 선택해 보관하기",
+    "betterText": "BetterHistory와 BestHistory는 중점이 다릅니다. 검색·삭제 중심 도구가 필요한지, 방문한 사이트를 쉽게 기억하고 다시 찾는 기능이 필요한지 비교하세요.",
+    "managerText": "방문 기록 관리자에는 검색 외에도 사이트별 묶기, 태그, 메모, 개인정보 보호 및 로컬 저장에 관한 명확한 설명이 중요합니다.",
+    "organizeText": "시간순 기록에서는 같은 사이트의 페이지가 수십 번 반복됩니다. 사이트별 그룹을 사용하면 개별 방문 페이지를 유지하면서 더 쉽게 살펴볼 수 있습니다.",
+    "incognitoText": "Chrome은 보통 시크릿 창을 닫으면 방문 기록을 보관하지 않습니다. BestHistory Pro는 명시적으로 권한을 허용한 경우에만 선택한 기록을 로컬 암호화로 저장할 수 있습니다."
+  },
+  "it": {
+    "betterTitle": "Alternative a BetterHistory: cosa confrontare",
+    "managerTitle": "Come scegliere un gestore della cronologia",
+    "organizeTitle": "Organizzare la cronologia Chrome per sito",
+    "incognitoTitle": "Salvare volontariamente la cronologia in incognito",
+    "betterText": "BetterHistory e BestHistory rispondono a esigenze differenti: ricerca e pulizia avanzata oppure raggruppamento per sito, tag e note per ritrovare le pagine.",
+    "managerText": "Un buon gestore dovrebbe migliorare la ricerca, raggruppare i siti, offrire tag, note e informazioni chiare sulla privacy e sulla conservazione locale.",
+    "organizeText": "Una lista cronologica mostra spesso decine di pagine dello stesso sito. Raggrupparle per sito rende la consultazione più semplice senza eliminarle.",
+    "incognitoText": "Chrome normalmente non conserva la cronologia in incognito dopo la chiusura della finestra. BestHistory Pro può salvare visite scelte e cifrate localmente solo dopo la tua autorizzazione."
+  },
+  "nl": {
+    "betterTitle": "Alternatief voor BetterHistory: wat vergelijken?",
+    "managerTitle": "Een browsergeschiedenisbeheerder kiezen",
+    "organizeTitle": "Chrome-geschiedenis ordenen per website",
+    "incognitoTitle": "Incognitogeschiedenis bewust en privé bewaren",
+    "betterText": "BetterHistory en BestHistory richten zich op andere taken: geavanceerd zoeken en opschonen tegenover websites terugvinden via groepering, labels en notities.",
+    "managerText": "Een bruikbare beheerder biedt meer dan zoeken: websitegroepen, labels, notities, privacykeuzes en duidelijke informatie over lokale opslag.",
+    "organizeText": "Een chronologische lijst kan tientallen pagina's van dezelfde site bevatten. Websitegroepen maken het overzichtelijk zonder afzonderlijke bezoeken weg te gooien.",
+    "incognitoText": "Chrome bewaart incognitobezoeken normaal niet na het sluiten van het venster. BestHistory Pro kan gekozen bezoeken alleen na jouw expliciete toestemming lokaal versleuteld vastleggen."
+  },
+  "ru": {
+    "betterTitle": "Альтернатива BetterHistory: что сравнивать",
+    "managerTitle": "Как выбрать менеджер истории браузера",
+    "organizeTitle": "Сортировка истории Chrome по сайтам",
+    "incognitoTitle": "Как сохранить историю инкогнито по своему выбору",
+    "betterText": "BetterHistory и BestHistory решают разные задачи: расширенный поиск и очистка истории либо группировка по сайтам, заметки и помощь в поиске забытых страниц.",
+    "managerText": "При выборе важны не только поиск, но и группировка сайтов, метки, заметки, защита конфиденциальности и понятное хранение данных.",
+    "organizeText": "Хронологическая история может показывать десятки страниц одного сайта. Группировка помогает увидеть сам сайт, сохраняя доступ к отдельным посещениям.",
+    "incognitoText": "Chrome обычно не сохраняет историю закрытой вкладки инкогнито. BestHistory Pro может локально шифровать выбранные посещения только после вашего явного разрешения."
+  },
+  "ar": {
+    "betterTitle": "بدائل BetterHistory: ما الذي يجب مقارنته؟",
+    "managerTitle": "كيفية اختيار مدير لسجل المتصفح",
+    "organizeTitle": "تنظيم سجل Chrome حسب الموقع",
+    "incognitoTitle": "الاحتفاظ بسجل التصفح المتخفي باختيارك",
+    "betterText": "يركز BetterHistory وBestHistory على مهام مختلفة: البحث والتنظيف المتقدم مقابل جمع الصفحات حسب الموقع وإضافة الملاحظات لتسهيل العودة إليها.",
+    "managerText": "ينبغي أن يدعم مدير السجل الجيد البحث والتجميع حسب الموقع والعلامات والملاحظات ويوضح كيف يحمي خصوصيتك ويحفظ البيانات محليًا.",
+    "organizeText": "قد يعرض السجل الزمني عشرات الصفحات من الموقع نفسه. يساعد التجميع حسب الموقع على رؤية الصورة العامة مع إبقاء زيارات الصفحات متاحة.",
+    "incognitoText": "لا يحتفظ Chrome عادةً بسجل التصفح المتخفي بعد إغلاق النافذة. ويمكن لـ BestHistory Pro حفظ سجلات مختارة مشفرة محليًا فقط بعد منح إذن صريح."
+  },
+  "hi": {
+    "betterTitle": "BetterHistory के विकल्पों की तुलना कैसे करें",
+    "managerTitle": "ब्राउज़र इतिहास प्रबंधक कैसे चुनें",
+    "organizeTitle": "Chrome हिस्ट्री को वेबसाइट के अनुसार व्यवस्थित करें",
+    "incognitoTitle": "इन्कॉग्निटो हिस्ट्री अपनी अनुमति से सहेजें",
+    "betterText": "BetterHistory और BestHistory अलग समस्याओं पर ध्यान देते हैं: उन्नत खोज और सफ़ाई बनाम साइट के अनुसार समूह बनाना, नोट और टैग से पुरानी वेबसाइट याद करना।",
+    "managerText": "अच्छे हिस्ट्री मैनेजर में खोज के अलावा साइट समूह, टैग, नोट, गोपनीयता और स्थानीय डेटा रखने की स्पष्ट जानकारी होनी चाहिए।",
+    "organizeText": "समयक्रम में एक ही साइट के दर्जनों पेज दिख सकते हैं। साइट के अनुसार समूह बनाने से अलग-अलग पेज खोए बिना सूची समझना आसान होता है।",
+    "incognitoText": "Chrome आम तौर पर इन्कॉग्निटो विंडो बंद होने पर उस सत्र की हिस्ट्री नहीं रखता। BestHistory Pro केवल आपकी स्पष्ट अनुमति के बाद चुनी हुई विज़िट स्थानीय रूप से एन्क्रिप्ट कर सकता है।"
+  },
+  "id": {
+    "betterTitle": "Alternatif BetterHistory: apa yang perlu dibandingkan",
+    "managerTitle": "Memilih pengelola riwayat browser",
+    "organizeTitle": "Mengatur riwayat Chrome berdasarkan situs",
+    "incognitoTitle": "Menyimpan riwayat mode samaran secara sukarela",
+    "betterText": "BetterHistory dan BestHistory berfokus pada tugas berbeda: pencarian dan pembersihan lanjut dibanding pengelompokan situs, label, dan catatan untuk menemukan situs lagi.",
+    "managerText": "Pengelola riwayat yang baik menyediakan pencarian, pengelompokan situs, label, catatan, serta penjelasan privasi dan penyimpanan lokal.",
+    "organizeText": "Daftar kronologis bisa memuat puluhan halaman dari situs yang sama. Pengelompokan per situs memudahkan pencarian tanpa menghilangkan halaman yang pernah dikunjungi.",
+    "incognitoText": "Chrome biasanya tidak menyimpan kunjungan mode samaran setelah jendela ditutup. BestHistory Pro dapat menyimpan pilihan kunjungan terenkripsi di perangkat hanya setelah Anda memberi izin."
+  },
+  "tr": {
+    "betterTitle": "BetterHistory alternatiflerini nasıl karşılaştırmalı?",
+    "managerTitle": "Tarayıcı geçmişi yöneticisi nasıl seçilir?",
+    "organizeTitle": "Chrome geçmişini web sitesine göre düzenleme",
+    "incognitoTitle": "Gizli mod geçmişini isteğe bağlı kaydetme",
+    "betterText": "BetterHistory ve BestHistory farklı ihtiyaçlara odaklanır: gelişmiş arama ve temizleme ya da sitelere göre gruplama, notlarla unutulan web sitelerini yeniden bulma.",
+    "managerText": "İyi bir geçmiş yöneticisi aramanın yanında site gruplama, etiket, not, gizlilik ve yerel veri saklama konusunda açık bilgiler sunmalıdır.",
+    "organizeText": "Kronolojik geçmiş aynı sitenin onlarca sayfasını tekrarlar. Siteye göre gruplama, ayrı ziyaretleri kaybetmeden listeyi sadeleştirir.",
+    "incognitoText": "Chrome gizli pencere kapandığında genellikle ziyaret geçmişini saklamaz. BestHistory Pro ancak açık izninizden sonra seçili ziyaretleri yerel olarak şifreleyip kaydedebilir."
+  },
+  "bn": {
+    "betterTitle": "BetterHistory বিকল্প কীভাবে তুলনা করবেন",
+    "managerTitle": "ব্রাউজার ইতিহাস ম্যানেজার বাছাইয়ের উপায়",
+    "organizeTitle": "Chrome ইতিহাস ওয়েবসাইট অনুযায়ী সাজান",
+    "incognitoTitle": "নিজের অনুমতিতে ইনকগনিটো ইতিহাস সংরক্ষণ",
+    "betterText": "BetterHistory ও BestHistory ভিন্ন কাজে জোর দেয়: উন্নত অনুসন্ধান ও পরিষ্কার করা, অথবা সাইট অনুযায়ী গ্রুপ, ট্যাগ ও নোট দিয়ে হারানো সাইট ফিরে পাওয়া।",
+    "managerText": "ভালো ইতিহাস ম্যানেজারে অনুসন্ধানের পাশাপাশি সাইট গ্রুপ, ট্যাগ, নোট, গোপনীয়তা এবং স্থানীয় ডেটা সংরক্ষণের ব্যাখ্যা থাকা উচিত।",
+    "organizeText": "সময়ক্রমের তালিকায় একই সাইটের অনেক পেজ বারবার আসে। সাইট অনুযায়ী সাজালে পেজের তথ্য রেখেই সহজে খুঁজে পাওয়া যায়।",
+    "incognitoText": "Chrome সাধারণত ইনকগনিটো উইন্ডো বন্ধের পর সেই ভিজিট সংরক্ষণ করে না। BestHistory Pro কেবল আপনার স্পষ্ট অনুমতিতে বেছে নেওয়া রেকর্ড ডিভাইসে এনক্রিপ্ট করে রাখতে পারে।"
+  },
+  "vi": {
+    "betterTitle": "So sánh các lựa chọn thay thế BetterHistory",
+    "managerTitle": "Cách chọn công cụ quản lý lịch sử trình duyệt",
+    "organizeTitle": "Sắp xếp lịch sử Chrome theo website",
+    "incognitoTitle": "Tự chọn lưu lịch sử duyệt web ẩn danh",
+    "betterText": "BetterHistory và BestHistory phục vụ các nhu cầu khác nhau: tìm kiếm và dọn dẹp nâng cao hoặc nhóm theo website, thêm nhãn và ghi chú để tìm lại trang đã xem.",
+    "managerText": "Công cụ lịch sử tốt nên hỗ trợ tìm kiếm, nhóm theo website, nhãn, ghi chú và giải thích rõ cách bảo vệ, lưu dữ liệu cục bộ.",
+    "organizeText": "Danh sách theo thời gian có thể lặp lại hàng chục trang của cùng một website. Nhóm theo website giúp dễ nhận ra nguồn mà vẫn giữ các trang riêng lẻ.",
+    "incognitoText": "Chrome thường không lưu lượt truy cập ẩn danh sau khi đóng cửa sổ. BestHistory Pro chỉ có thể mã hóa cục bộ các lượt truy cập đã chọn sau khi bạn cấp quyền rõ ràng."
+  }
+}

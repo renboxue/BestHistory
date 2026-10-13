@@ -1,4 +1,5 @@
 ---
+locale_section: guides
 layout: default
 lang: pt
 permalink: /pt/guides/
@@ -22,3 +23,11 @@ Você lembra para que servia um site, mas esqueceu seu nome? Veja como procurar 
 
 **Instalar BestHistory:** [Instalar no Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Instalar no Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
+
+
+## BestHistory
+
+- [Alternativas ao BetterHistory: o que comparar](/pt/guides/betterhistory-alternative/)
+- [Como escolher um gerenciador de histórico](/pt/guides/browser-history-manager/)
+- [Organizar o histórico do Chrome por site](/pt/guides/organize-browser-history-by-website/)
+- [Guardar voluntariamente o histórico do modo anônimo](/pt/guides/save-incognito-history-privately/)

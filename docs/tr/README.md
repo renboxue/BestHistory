@@ -4,7 +4,7 @@
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · Türkçe · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
-> **v1.0.0** — BestHistory v1.0.0 ilk resmi sürümdür. Chrome Web Store sürümü yakında yayınlanacaktır.
+> **BestHistory · Chrome Web Store** — BestHistory'yi resmi Chrome Web Store veya Firefox Add-ons üzerinden yükleyin. Yayıncıyı doğrulayın, uzantıyı ekleyin ve tarayıcı araç çubuğundan açın. Mağaza sürümleri genellikle otomatik güncellenir. [Chrome'a ekle](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) · [Ana sayfa](/tr/).
 
 BestHistory, gizlilik odaklı bir Chrome / Chromium geçmiş yöneticisidir. Geçmişi önce siteye göre gruplar; arama, etiket, not, sabitleme, özel saklama, yedekleme ve yeniden bulmayı kolaylaştırır.
 

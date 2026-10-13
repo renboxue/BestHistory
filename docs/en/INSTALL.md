@@ -1,4 +1,5 @@
 ---
+locale_section: install
 layout: default
 title: Install BestHistory v1.0.0
 description: BestHistory v1.0.0 installation guide for GitHub manual installation, Developer Mode, Chrome Web Store, incognito permission, and updates.

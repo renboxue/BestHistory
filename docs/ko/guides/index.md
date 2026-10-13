@@ -1,4 +1,5 @@
 ---
+locale_section: guides
 layout: default
 lang: ko
 permalink: /ko/guides/
@@ -22,3 +23,11 @@ description: "크롬 탭을 안전하게 정리하고 방문한 사이트를 다
 
 **BestHistory 설치하기:** [Chrome에 설치](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox에 설치](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
+
+
+## BestHistory
+
+- [BetterHistory 대안 비교하기](/ko/guides/betterhistory-alternative/)
+- [브라우저 방문 기록 관리 도구 고르는 방법](/ko/guides/browser-history-manager/)
+- [Chrome 방문 기록을 사이트별로 정리하기](/ko/guides/organize-browser-history-by-website/)
+- [시크릿 모드 기록을 직접 선택해 보관하기](/ko/guides/save-incognito-history-privately/)

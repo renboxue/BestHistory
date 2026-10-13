@@ -4,7 +4,7 @@
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · 日本語 · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
-> **v1.0.0** — BestHistory v1.0.0 は最初の正式リリースです。Chrome Web Store 版は近日公開予定です。
+> **BestHistory · Chrome Web Store** — 公式の Chrome Web Store または Firefox Add-ons から BestHistory をインストールしてください。提供元を確認し、ツールバーのアイコンから開けます。ストア版は通常、自動更新されます。 [Chrome に追加](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) · [ホーム](/ja/).
 
 BestHistory はプライバシー重視の Chrome / Chromium 履歴マネージャーです。履歴をまずサイト単位でまとめ、検索、タグ、メモ、ピン留め、非公開保存、バックアップ、再発見をしやすくします。
 

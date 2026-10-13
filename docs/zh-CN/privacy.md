@@ -1,4 +1,5 @@
 ---
+locale_section: privacy
 layout: default
 title: BestHistory 隐私说明
 permalink: /zh-CN/privacy/

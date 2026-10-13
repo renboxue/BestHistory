@@ -1,4 +1,6 @@
 ---
+lang: en
+seo_group: browser-history-manager
 layout: default
 title: Browser History Manager for Chrome - What to Look For
 description: What makes a useful Chrome browser history manager? Compare search, website grouping, privacy, tags, notes, export, deletion, private history, and local-first storage.

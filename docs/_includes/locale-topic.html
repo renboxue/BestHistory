@@ -1,0 +1,37 @@
+{% assign t = site.data.marketing_i18n[page.lang] %}
+{% assign x = site.data.guides_extra_i18n[page.lang] %}
+<div class="bh-doc-page">
+<h1>{{ t[page.topic_title] | escape }} — BestHistory</h1>
+<p>{{ t[page.topic_desc] | escape }}</p>
+{% if page.topic == 'tabs' %}
+  <h2>{{ t.tabs | escape }}</h2>
+  <p>{{ x.tabsWhat | escape }}</p>
+  <h2>Chrome · BestHistory</h2>
+  <p>{{ x.tabsSteps | escape }}</p>
+  <h2>BestHistory</h2>
+  <p>{{ x.tabsLimit | escape }}</p>
+{% elsif page.topic == 'vault' %}
+  <h2>{{ t.vault | escape }}</h2>
+  <p>{{ x.vaultWhat | escape }}</p>
+  <h2>BestHistory Pro</h2>
+  <p>{{ x.vaultSteps | escape }}</p>
+  <h2>Chrome · Incognito</h2>
+  <p>{{ x.vaultLimit | escape }}</p>
+{% elsif page.topic == 'find' %}
+  <h2>{{ t.history | escape }}</h2>
+  <p>{{ x.findWhat | escape }}</p>
+  <h2>Chrome · BestHistory</h2>
+  <p>{{ x.findSteps | escape }}</p>
+  <h2>BestHistory</h2>
+  <p>{{ x.findLimit | escape }}</p>
+{% else %}
+  <h2>Chrome</h2>
+  <p>{{ x.searchWhat | escape }}</p>
+  <h2>chrome://history/ · BestHistory</h2>
+  <p>{{ x.searchSteps | escape }}</p>
+  <h2>BestHistory</h2>
+  <p>{{ x.searchLimit | escape }}</p>
+{% endif %}
+<img src="https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp" loading="lazy" alt="BestHistory website-first browsing history screenshot">
+<p><a href="/{{ page.lang }}/guides/">{{ t.guides | escape }}</a> · <a href="/{{ page.lang }}/">{{ t.home | escape }}</a> · <a href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb">{{ t.getChrome | escape }}</a></p>
+</div>

@@ -1,4 +1,5 @@
 ---
+locale_section: faq
 layout: default
 title: BestHistory 常见问题
 permalink: /zh-CN/faq/

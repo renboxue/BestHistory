@@ -1,4 +1,6 @@
 ---
+lang: en
+seo_group: organize-browser-history-by-website
 layout: default
 title: How to Organize Chrome Browser History by Website
 description: Organize Chrome history by website instead of a long chronological list. Group repeated page visits, search within sites, add tags and notes, and keep useful sites easy to find.

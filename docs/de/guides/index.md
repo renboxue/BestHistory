@@ -1,4 +1,5 @@
 ---
+locale_section: guides
 layout: default
 lang: de
 permalink: /de/guides/
@@ -22,3 +23,11 @@ Sie erinnern sich an den Zweck einer Website, aber nicht an ihren Namen? Diese A
 
 **BestHistory installieren:** [Für Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Für Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
+
+
+## BestHistory
+
+- [Alternative zu BetterHistory: Browserverlauf vergleichen](/de/guides/betterhistory-alternative/)
+- [Browserverlauf-Manager für Chrome auswählen](/de/guides/browser-history-manager/)
+- [Chrome-Verlauf nach Websites organisieren](/de/guides/organize-browser-history-by-website/)
+- [Inkognito-Verlauf nur mit Einwilligung speichern](/de/guides/save-incognito-history-privately/)

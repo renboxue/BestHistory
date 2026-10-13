@@ -1,0 +1,29 @@
+{% assign t = site.data.marketing_i18n[page.lang] %}
+{% assign a = site.data.advanced_i18n[page.lang] %}
+{% assign s = site.data.support_i18n[page.lang] %}
+<div class="bh-doc-page">
+<h1>{{ a[page.advanced_title] | escape }}</h1>
+<p>{{ a[page.advanced_text] | escape }}</p>
+{% case page.advanced_topic %}
+{% when 'better' %}
+<h2>{{ t.history | escape }} · BestHistory</h2>
+<p>{{ t.historyDesc | escape }}</p><p>{{ s.faqData | escape }}</p>
+<p>{{ s.faqAI | escape }}</p>
+<p><a href="https://betterhistory.io/" rel="noopener noreferrer">BetterHistory</a> · <a href="/{{ page.lang }}/guides/browser-history-manager/">{{ t.history | escape }}</a></p>
+{% when 'manager' %}
+<h2>{{ t.history | escape }}</h2>
+<p>{{ t.historyDesc | escape }}</p>
+<h2>{{ t.vault | escape }}</h2><p>{{ s.faqPrivate | escape }}</p><p>{{ s.faqData | escape }}</p>
+{% when 'organize' %}
+<h2>{{ t.history | escape }}</h2><p>{{ t.historyDesc | escape }}</p>
+<p>{{ t.tabsDesc | escape }}</p>
+<p><a href="/{{ page.lang }}/guides/find-website-you-visited-before/">{{ t.history | escape }}</a></p>
+{% when 'incognito' %}
+<h2>{{ t.vault | escape }}</h2><p>{{ s.incognitoText | escape }}</p>
+<p>{{ s.faqPrivate | escape }}</p>
+<p>{{ s.faqData | escape }}</p>
+<p><a href="/{{ page.lang }}/guides/encrypted-private-browser-history/">{{ t.vault | escape }}</a></p>
+{% endcase %}
+<img src="https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp" loading="lazy" alt="BestHistory browser history application">
+<p><a href="/{{ page.lang }}/guides/">{{ t.guides | escape }}</a> · <a href="/{{ page.lang }}/">{{ t.home | escape }}</a> · <a href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb">{{ t.getChrome | escape }}</a></p>
+</div>

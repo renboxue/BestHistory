@@ -4,7 +4,7 @@
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · العربية · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
-> **v1.0.0** — BestHistory v1.0.0 هو أول إصدار رسمي. نسخة Chrome Web Store ستتوفر قريبًا.
+> **BestHistory · Chrome Web Store** — ثبّت BestHistory من متجر Chrome Web Store أو Firefox Add-ons الرسمي. تأكد من اسم الناشر، وأضف الإضافة وافتحها من شريط المتصفح. تتلقى نسخ المتجر التحديثات تلقائيًا عادةً. [التثبيت على Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) · [الرئيسية](/ar/).
 
 BestHistory مدير لسجل Chrome / Chromium يركز على الخصوصية. يجمع السجل أولًا حسب الموقع ثم يسهّل البحث ووضع الوسوم والملاحظات والتثبيت والحفظ الخاص والنسخ الاحتياطي وإعادة العثور على المواقع.
 

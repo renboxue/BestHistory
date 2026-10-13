@@ -1,4 +1,5 @@
 ---
+locale_section: terms
 layout: default
 title: BestHistory 服务条款
 permalink: /zh-CN/terms/

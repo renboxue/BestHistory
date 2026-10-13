@@ -1,4 +1,5 @@
 ---
+locale_section: security
 layout: default
 title: BestHistory 安全说明
 permalink: /zh-CN/security/

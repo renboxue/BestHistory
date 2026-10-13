@@ -1,4 +1,5 @@
 ---
+locale_section: guides
 layout: default
 lang: es
 permalink: /es/guides/
@@ -22,3 +23,11 @@ description: "Consejos para cerrar pestañas de Chrome, volver a encontrar sitio
 
 **Instala BestHistory:** [Instalar en Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Instalar en Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
+
+
+## BestHistory
+
+- [Alternativas a BetterHistory: qué comparar](/es/guides/betterhistory-alternative/)
+- [Cómo elegir un gestor del historial del navegador](/es/guides/browser-history-manager/)
+- [Organizar el historial de Chrome por sitio web](/es/guides/organize-browser-history-by-website/)
+- [Guardar voluntariamente el historial de incógnito](/es/guides/save-incognito-history-privately/)

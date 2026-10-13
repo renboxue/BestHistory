@@ -4,7 +4,7 @@
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · 한국어 · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
-> **v1.0.0** — BestHistory v1.0.0은 첫 정식 릴리스입니다. Chrome Web Store 버전은 곧 공개됩니다.
+> **BestHistory · Chrome Web Store** — 공식 Chrome 웹 스토어 또는 Firefox 부가 기능 사이트에서 BestHistory를 설치하세요. 게시자를 확인한 뒤 브라우저 도구 모음에서 실행합니다. 스토어 설치 버전은 보통 자동 업데이트됩니다. [Chrome에 설치](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) · [홈](/ko/).
 
 BestHistory는 개인정보 보호를 우선하는 Chrome / Chromium 방문 기록 관리자입니다. 기록을 먼저 웹사이트별로 묶고 검색, 태그, 메모, 고정, 비공개 저장, 백업, 재발견을 쉽게 합니다.
 

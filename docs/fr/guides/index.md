@@ -1,4 +1,5 @@
 ---
+locale_section: guides
 layout: default
 lang: fr
 permalink: /fr/guides/
@@ -22,3 +23,11 @@ Vous vous souvenez de ce qu'un site permettait de faire, mais plus de son nom ? 
 
 **Installer BestHistory:** [Installer sur Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Installer sur Firefox](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
+
+
+## BestHistory
+
+- [Alternative à BetterHistory : comment comparer](/fr/guides/betterhistory-alternative/)
+- [Choisir un gestionnaire d'historique de navigation](/fr/guides/browser-history-manager/)
+- [Organiser l'historique Chrome par site web](/fr/guides/organize-browser-history-by-website/)
+- [Enregistrer volontairement son historique de navigation privée](/fr/guides/save-incognito-history-privately/)

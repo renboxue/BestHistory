@@ -1,26 +1,19 @@
-# SSS
+# Sık sorulan sorular — BestHistory
 
-## Do I need an account?
-No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
+## BestHistory
 
-## Does BestHistory upload my browsing history?
-The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
+Ücretsiz yerel geçmiş özellikleri için hesap gerekmez. Giriş, 30 günlük Pro denemesi, Pro hakları ve satın almalar içindir.
 
-## Does AI read my entire history?
-No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
+Tam geçmiş veritabanı, özel kayıtlar ve yedekler normalde cihazınızda kalır. BestHistory gezinme verilerini satmaz.
 
-## What does Pro cost?
-$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
+Yapay zekâ özellikleri isteğe bağlıdır; yalnızca siz çalıştırdığınızda sınırlı arama ipuçları ve site bilgileri gönderir, tam geçmiş veya şifreli özel kasa gönderilmez.
 
-## How do cancellation and refunds work?
-Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
+## Özel geçmiş
 
-## Where is Private Mode data stored?
-Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
+Özel Mod, cihazdaki şifreli ve parola korumalı bir alandır; ziyaret edilen sitelere veya ağ operatörlerine karşı anonimlik sağlamaz.
 
-## Why isn't the source code on GitHub?
-The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+## BestHistory Pro
 
-## Contact
+Temel özellikler ücretsizdir. Yeni hesaplar şu anda 30 gün Pro denemesi alır. Pro aylık $2.99 veya yıllık $24.99 (otomatik yenileme), ya da ürünün faaliyet ömrü boyunca bir kerelik $59.99'dır. Ödemeleri Paddle işler.
 
-Destek: besthistory@126.com
+[Ana sayfa](/tr/) · [Gizlilik](/tr/privacy/) · [Koşullar](/tr/terms/) · [İadeler](/tr/refund/)

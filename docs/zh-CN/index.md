@@ -1,4 +1,5 @@
 ---
+locale_section: home
 layout: default
 title: BestHistory — 放心关闭标签页，找回历史网站并加密保存私密记录
 description: Chrome 标签页太多不敢关？BestHistory 按网站整理浏览历史，帮你重新找到关闭过的网站。Pro 私人保险箱支持在本机加密保存私密记录。

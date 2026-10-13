@@ -461,3 +461,15 @@ body {
 .bh-locales a { color: #53627a; text-decoration: none; }
 .bh-locales a[aria-current="page"] { font-weight: 700; text-decoration: underline; text-underline-offset: 4px; }
 .bh-locales a:hover { text-decoration: underline; }
+
+/* Eighteen-language navigation and right-to-left accessibility */
+.bh-locale-18 { max-width: 1120px; margin: 0 auto 18px; padding: 8px 0; border-bottom: 1px solid var(--bh-line); }
+.bh-locale-inner { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px 16px; }
+.bh-locale-inner a { display: inline-block; padding: 3px 4px; white-space: nowrap; font-size: .86rem; }
+.bh-locale-inner a[aria-current="page"] { color: var(--bh-accent-dark); }
+[dir="rtl"] .bh-doc-page, [dir="rtl"] .bh-card, [dir="rtl"] .site-footer { text-align: right; }
+[dir="rtl"] .bh-nav, [dir="rtl"] .bh-footer-nav { direction: rtl; }
+@media (max-width: 760px) {
+  .bh-locale-inner { gap: 6px 12px; justify-content: flex-start; }
+  .bh-locale-inner a { font-size: .83rem; }
+}

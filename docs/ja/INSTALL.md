@@ -1,19 +1,12 @@
-# インストール — BestHistory v1.0.0
+# インストール — BestHistory
 
-BestHistory v1.0.0 is distributed through the Chrome Web Store. Once the listing is live, install and update it through the store.
+公式の Chrome Web Store または Firefox Add-ons から BestHistory をインストールしてください。提供元を確認し、ツールバーのアイコンから開けます。ストア版は通常、自動更新されます。
 
-## Install
+- [Chrome に追加](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb)
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/)
 
-1. Open the Chrome Web Store.
-2. Search for **BestHistory**.
-3. Verify the developer and website information, then choose **Add to Chrome**.
-4. Optionally pin BestHistory in the extensions menu.
-5. Click the toolbar icon to open BestHistory.
+## プライベート履歴
 
-## Incognito / Private Mode
+Proでシークレットウィンドウの履歴を保存するには、Chromeの拡張機能設定でシークレットモードでの実行を自分で許可する必要があります。
 
-If you want BestHistory Pro to save selected incognito-window visits into encrypted Private Mode, Chrome requires you to explicitly enable **Allow in Incognito** in `chrome://extensions/`. This permission is optional.
-
-## Updates
-
-Chrome automatically updates Chrome Web Store installations. Before major upgrades, keeping a `.bhbackup` file is still recommended.
+[ホーム](/ja/) · [プライバシー](/ja/privacy/)

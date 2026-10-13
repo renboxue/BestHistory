@@ -1,4 +1,6 @@
 ---
+lang: en
+locale_section: guides
 layout: default
 title: Chrome Tabs, Browser History and Privacy Guides
 description: Practical guides to closing too many Chrome tabs, finding visited websites again, organizing history by website, and protecting selected browsing history with a local private vault.

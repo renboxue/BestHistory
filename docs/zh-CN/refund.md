@@ -1,4 +1,5 @@
 ---
+locale_section: refund
 layout: default
 title: BestHistory 退款政策
 permalink: /zh-CN/refund/

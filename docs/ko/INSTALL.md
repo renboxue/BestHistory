@@ -1,19 +1,12 @@
-# 설치 — BestHistory v1.0.0
+# 설치 — BestHistory
 
-BestHistory v1.0.0 is distributed through the Chrome Web Store. Once the listing is live, install and update it through the store.
+공식 Chrome 웹 스토어 또는 Firefox 부가 기능 사이트에서 BestHistory를 설치하세요. 게시자를 확인한 뒤 브라우저 도구 모음에서 실행합니다. 스토어 설치 버전은 보통 자동 업데이트됩니다.
 
-## Install
+- [Chrome에 설치](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb)
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/)
 
-1. Open the Chrome Web Store.
-2. Search for **BestHistory**.
-3. Verify the developer and website information, then choose **Add to Chrome**.
-4. Optionally pin BestHistory in the extensions menu.
-5. Click the toolbar icon to open BestHistory.
+## 비공개 방문 기록
 
-## Incognito / Private Mode
+Pro에서 시크릿 방문 기록을 저장하려면 Chrome 확장 프로그램 설정에서 시크릿 모드 실행을 사용자가 명시적으로 허용해야 합니다.
 
-If you want BestHistory Pro to save selected incognito-window visits into encrypted Private Mode, Chrome requires you to explicitly enable **Allow in Incognito** in `chrome://extensions/`. This permission is optional.
-
-## Updates
-
-Chrome automatically updates Chrome Web Store installations. Before major upgrades, keeping a `.bhbackup` file is still recommended.
+[홈](/ko/) · [개인정보](/ko/privacy/)

@@ -1,4 +1,5 @@
 ---
+locale_section: guides
 layout: default
 lang: ja
 permalink: /ja/guides/
@@ -22,3 +23,11 @@ description: "タブを開きすぎたときの整理方法、サイトの再発
 
 **BestHistory をインストール:** [Chrome に追加](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox に追加](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).
 
+
+
+## BestHistory
+
+- [BetterHistory の代わりを探すときの比較ポイント](/ja/guides/betterhistory-alternative/)
+- [ブラウザ履歴管理ツールの選び方](/ja/guides/browser-history-manager/)
+- [Chrome の閲覧履歴をサイト別に整理する方法](/ja/guides/organize-browser-history-by-website/)
+- [シークレットモードの履歴を自分だけで保存する方法](/ja/guides/save-incognito-history-privately/)

@@ -1,26 +1,19 @@
-# FAQ
+# Perguntas frequentes — BestHistory
 
-## Do I need an account?
-No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
+## BestHistory
 
-## Does BestHistory upload my browsing history?
-The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
+Não é preciso conta para a organização básica local. O login serve para o teste Pro de 30 dias, acesso Pro e compras.
 
-## Does AI read my entire history?
-No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
+O banco completo de histórico, os dados privados e os backups normalmente ficam no dispositivo. O BestHistory não vende dados de navegação.
 
-## What does Pro cost?
-$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
+Os recursos de IA são opcionais e só enviam pistas e metadados limitados quando você os usa. O banco completo e o cofre criptografado não são enviados.
 
-## How do cancellation and refunds work?
-Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
+## Histórico privado
 
-## Where is Private Mode data stored?
-Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
+O Modo Privado é uma área local criptografada com senha, não uma ferramenta para ocultar atividades de sites ou redes.
 
-## Why isn't the source code on GitHub?
-The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+## BestHistory Pro
 
-## Contact
+Os recursos básicos são gratuitos. Novas contas recebem atualmente 30 dias de teste Pro. Planos Pro: $2.99/mês ou $24.99/ano (renovação automática) ou $59.99 uma vez durante a vida operacional do produto. A Paddle processa pagamentos.
 
-Suporte: besthistory@126.com
+[Início](/pt/) · [Privacidade](/pt/privacy/) · [Termos](/pt/terms/) · [Reembolsos](/pt/refund/)

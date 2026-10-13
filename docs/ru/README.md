@@ -4,7 +4,7 @@
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · Русский · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
-> **v1.0.0** — BestHistory v1.0.0 — первый официальный релиз. Версия в Chrome Web Store появится в ближайшее время.
+> **BestHistory · Chrome Web Store** — Установите BestHistory из официального Chrome Web Store или Firefox Add-ons. Проверьте издателя, добавьте расширение и откройте его с панели браузера. Версии из магазина обычно обновляются автоматически. [Установить для Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) · [Главная](/ru/).
 
 BestHistory — ориентированный на приватность менеджер истории Chrome / Chromium. Он сначала группирует историю по сайтам, а затем помогает искать, ставить теги, делать заметки, закреплять, хранить приватно, создавать резервные копии и находить сайты снова.
 

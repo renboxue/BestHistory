@@ -1,4 +1,5 @@
 ---
+locale_section: guides
 layout: default
 title: BestHistory 中文使用指南
 permalink: /zh-CN/guides/
@@ -32,6 +33,14 @@ lang: zh-CN
 
 ### [为什么浏览历史管理器应该先显示网站，而不是页面](/zh-CN/guides/chrome-history-manager/)
 同一个网站几十条页面访问挤在历史记录里时，为什么“先按网站聚合”会更接近真实的回忆方式。
+
+
+## 更多专题
+
+- [BetterHistory 替代工具如何选择](/zh-CN/guides/betterhistory-alternative/)
+- [浏览历史管理器应该具备什么功能](/zh-CN/guides/browser-history-manager/)
+- [如何按网站整理 Chrome 浏览记录](/zh-CN/guides/organize-browser-history-by-website/)
+- [如何自行决定保存无痕浏览记录](/zh-CN/guides/save-incognito-history-privately/)
 
 <div class="bh-actions bh-actions-center">
   <a class="bh-btn bh-btn-primary" href="/zh-CN/">返回 BestHistory 中文首页</a>

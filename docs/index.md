@@ -1,4 +1,6 @@
 ---
+locale_section: home
+lang: en
 layout: default
 title: BestHistory — Close Chrome Tabs Without Losing Useful Websites
 description: Too many Chrome tabs? Find visited websites after closing them with BestHistory's website-first history search. Pro adds a locally encrypted private history vault.

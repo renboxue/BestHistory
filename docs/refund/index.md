@@ -1,4 +1,6 @@
 ---
+locale_section: refund
+lang: en
 layout: default
 title: BestHistory Refund Policy
 permalink: /refund/
