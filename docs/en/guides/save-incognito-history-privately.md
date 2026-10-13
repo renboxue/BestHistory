@@ -1,4 +1,6 @@
 ---
+lang: en
+seo_group: save-incognito-history-privately
 layout: default
 title: How to Save Incognito History Privately When You Choose To
 description: Incognito normally discards browsing history after the window closes. Learn how optional local encrypted private history can preserve selected incognito visits without mixing them into ordinary history.
