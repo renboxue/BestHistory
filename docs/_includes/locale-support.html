@@ -35,7 +35,7 @@
 {% when 'refund' %}
 <p>{{ s.refundText | escape }}</p><p>{{ s.paidText | escape }}</p>
 <p>{{ s.legalNote | escape }} <a href="/refund/">Refund Policy (English)</a>.</p>
-{% endif %}
+{% endcase %}
 <hr>
 <p><a href="/{{ page.lang }}/">{{ t.home | escape }}</a> · <a href="/{{ page.lang }}/guides/">{{ t.guides | escape }}</a> · <a href="mailto:besthistory@126.com">besthistory@126.com</a></p>
 </div>
