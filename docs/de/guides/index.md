@@ -15,7 +15,7 @@ Sie erinnern sich an den Zweck einer Website, aber nicht an ihren Namen? Diese A
 - [Tabs schließen und Websites wiederfinden](/de/guides/close-tabs-without-losing-websites/)
 - [Browserverlauf lokal verschlüsseln und mit Passwort schützen](/de/guides/encrypted-private-browser-history/)
 
-## Other guides
+## Weitere Anleitungen
 
 - [Vergessene Website wiederfinden](/de/guides/find-website-you-visited-before/)
 - [Alten Chrome-Verlauf suchen](/de/guides/search-old-chrome-history/)
