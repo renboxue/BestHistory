@@ -15,7 +15,7 @@ description: "タブを開きすぎたときの整理方法、サイトの再発
 - [タブを閉じてもサイトを見つける方法](/ja/guides/close-tabs-without-losing-websites/)
 - [暗号化したプライベート履歴を守る方法](/ja/guides/encrypted-private-browser-history/)
 
-## Other guides
+## その他のガイド
 
 - [名前を忘れたサイトを探す](/ja/guides/find-website-you-visited-before/)
 - [Chrome の古い履歴を検索](/ja/guides/search-old-chrome-history/)
