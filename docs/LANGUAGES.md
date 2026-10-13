@@ -1,22 +1,34 @@
-# BestHistory — 18 languages
+---
+layout: default
+lang: en
+title: BestHistory — 18 Languages
+description: BestHistory official website and browser-history guides in eighteen languages.
+permalink: /languages/
+---
 
-BestHistory v1.1.0 provides an 18-language product interface, Chrome official `_locales` metadata, and product documentation in 18 languages.
+# BestHistory — 18 Languages
 
-- **简体中文** — [README](../README.md) · [Privacy](../PRIVACY.md) · [Terms](../TERMS.md) · [FAQ](../FAQ.md) · [Install](../INSTALL.md) · [Changelog](../CHANGELOG.md)
-- **繁體中文** — [README](zh-TW/README.md) · [Privacy](zh-TW/PRIVACY.md) · [Terms](zh-TW/TERMS.md) · [FAQ](zh-TW/FAQ.md) · [Install](zh-TW/INSTALL.md) · [Changelog](zh-TW/CHANGELOG.md)
-- **English** — [README](en/README.md) · [Privacy](en/PRIVACY.md) · [Terms](en/TERMS.md) · [FAQ](en/FAQ.md) · [Install](en/INSTALL.md) · [Changelog](en/CHANGELOG.md)
-- **日本語** — [README](ja/README.md) · [Privacy](ja/PRIVACY.md) · [Terms](ja/TERMS.md) · [FAQ](ja/FAQ.md) · [Install](ja/INSTALL.md) · [Changelog](ja/CHANGELOG.md)
-- **한국어** — [README](ko/README.md) · [Privacy](ko/PRIVACY.md) · [Terms](ko/TERMS.md) · [FAQ](ko/FAQ.md) · [Install](ko/INSTALL.md) · [Changelog](ko/CHANGELOG.md)
-- **Español** — [README](es/README.md) · [Privacy](es/PRIVACY.md) · [Terms](es/TERMS.md) · [FAQ](es/FAQ.md) · [Install](es/INSTALL.md) · [Changelog](es/CHANGELOG.md)
-- **Português** — [README](pt/README.md) · [Privacy](pt/PRIVACY.md) · [Terms](pt/TERMS.md) · [FAQ](pt/FAQ.md) · [Install](pt/INSTALL.md) · [Changelog](pt/CHANGELOG.md)
-- **Français** — [README](fr/README.md) · [Privacy](fr/PRIVACY.md) · [Terms](fr/TERMS.md) · [FAQ](fr/FAQ.md) · [Install](fr/INSTALL.md) · [Changelog](fr/CHANGELOG.md)
-- **Deutsch** — [README](de/README.md) · [Privacy](de/PRIVACY.md) · [Terms](de/TERMS.md) · [FAQ](de/FAQ.md) · [Install](de/INSTALL.md) · [Changelog](de/CHANGELOG.md)
-- **Italiano** — [README](it/README.md) · [Privacy](it/PRIVACY.md) · [Terms](it/TERMS.md) · [FAQ](it/FAQ.md) · [Install](it/INSTALL.md) · [Changelog](it/CHANGELOG.md)
-- **Nederlands** — [README](nl/README.md) · [Privacy](nl/PRIVACY.md) · [Terms](nl/TERMS.md) · [FAQ](nl/FAQ.md) · [Install](nl/INSTALL.md) · [Changelog](nl/CHANGELOG.md)
-- **Русский** — [README](ru/README.md) · [Privacy](ru/PRIVACY.md) · [Terms](ru/TERMS.md) · [FAQ](ru/FAQ.md) · [Install](ru/INSTALL.md) · [Changelog](ru/CHANGELOG.md)
-- **العربية** — [README](ar/README.md) · [Privacy](ar/PRIVACY.md) · [Terms](ar/TERMS.md) · [FAQ](ar/FAQ.md) · [Install](ar/INSTALL.md) · [Changelog](ar/CHANGELOG.md)
-- **हिन्दी** — [README](hi/README.md) · [Privacy](hi/PRIVACY.md) · [Terms](hi/TERMS.md) · [FAQ](hi/FAQ.md) · [Install](hi/INSTALL.md) · [Changelog](hi/CHANGELOG.md)
-- **Bahasa Indonesia** — [README](id/README.md) · [Privacy](id/PRIVACY.md) · [Terms](id/TERMS.md) · [FAQ](id/FAQ.md) · [Install](id/INSTALL.md) · [Changelog](id/CHANGELOG.md)
-- **Türkçe** — [README](tr/README.md) · [Privacy](tr/PRIVACY.md) · [Terms](tr/TERMS.md) · [FAQ](tr/FAQ.md) · [Install](tr/INSTALL.md) · [Changelog](tr/CHANGELOG.md)
-- **বাংলা** — [README](bn/README.md) · [Privacy](bn/PRIVACY.md) · [Terms](bn/TERMS.md) · [FAQ](bn/FAQ.md) · [Install](bn/INSTALL.md) · [Changelog](bn/CHANGELOG.md)
-- **Tiếng Việt** — [README](vi/README.md) · [Privacy](vi/PRIVACY.md) · [Terms](vi/TERMS.md) · [FAQ](vi/FAQ.md) · [Install](vi/INSTALL.md) · [Changelog](vi/CHANGELOG.md)
+BestHistory provides a localized browser extension interface and website guides in eighteen languages. Choose your language below to visit the product homepage, learn how to close tabs without losing sites, or explore the encrypted private-history feature.
+
+| Language | Home | Guides | Private history | Install | FAQ |
+|---|---|---|---|---|---|
+| English | [Home](/) | [Guides](/en/guides/) | [Private](/en/guides/encrypted-private-browser-history/) | [Install](/en/install/) | [FAQ](/en/faq/) |
+| 简体中文 | [Home](/zh-CN/) | [Guides](/zh-CN/guides/) | [Private](/zh-CN/guides/encrypted-private-browser-history/) | [Install](/zh-CN/install/) | [FAQ](/zh-CN/faq/) |
+| 繁體中文 | [Home](/zh-TW/) | [Guides](/zh-TW/guides/) | [Private](/zh-TW/guides/encrypted-private-browser-history/) | [Install](/zh-TW/install/) | [FAQ](/zh-TW/faq/) |
+| 日本語 | [Home](/ja/) | [Guides](/ja/guides/) | [Private](/ja/guides/encrypted-private-browser-history/) | [Install](/ja/install/) | [FAQ](/ja/faq/) |
+| Français | [Home](/fr/) | [Guides](/fr/guides/) | [Private](/fr/guides/encrypted-private-browser-history/) | [Install](/fr/install/) | [FAQ](/fr/faq/) |
+| Deutsch | [Home](/de/) | [Guides](/de/guides/) | [Private](/de/guides/encrypted-private-browser-history/) | [Install](/de/install/) | [FAQ](/de/faq/) |
+| Español | [Home](/es/) | [Guides](/es/guides/) | [Private](/es/guides/encrypted-private-browser-history/) | [Install](/es/install/) | [FAQ](/es/faq/) |
+| Português | [Home](/pt/) | [Guides](/pt/guides/) | [Private](/pt/guides/encrypted-private-browser-history/) | [Install](/pt/install/) | [FAQ](/pt/faq/) |
+| 한국어 | [Home](/ko/) | [Guides](/ko/guides/) | [Private](/ko/guides/encrypted-private-browser-history/) | [Install](/ko/install/) | [FAQ](/ko/faq/) |
+| Italiano | [Home](/it/) | [Guides](/it/guides/) | [Private](/it/guides/encrypted-private-browser-history/) | [Install](/it/install/) | [FAQ](/it/faq/) |
+| Nederlands | [Home](/nl/) | [Guides](/nl/guides/) | [Private](/nl/guides/encrypted-private-browser-history/) | [Install](/nl/install/) | [FAQ](/nl/faq/) |
+| Русский | [Home](/ru/) | [Guides](/ru/guides/) | [Private](/ru/guides/encrypted-private-browser-history/) | [Install](/ru/install/) | [FAQ](/ru/faq/) |
+| العربية | [Home](/ar/) | [Guides](/ar/guides/) | [Private](/ar/guides/encrypted-private-browser-history/) | [Install](/ar/install/) | [FAQ](/ar/faq/) |
+| हिन्दी | [Home](/hi/) | [Guides](/hi/guides/) | [Private](/hi/guides/encrypted-private-browser-history/) | [Install](/hi/install/) | [FAQ](/hi/faq/) |
+| Bahasa Indonesia | [Home](/id/) | [Guides](/id/guides/) | [Private](/id/guides/encrypted-private-browser-history/) | [Install](/id/install/) | [FAQ](/id/faq/) |
+| Türkçe | [Home](/tr/) | [Guides](/tr/guides/) | [Private](/tr/guides/encrypted-private-browser-history/) | [Install](/tr/install/) | [FAQ](/tr/faq/) |
+| বাংলা | [Home](/bn/) | [Guides](/bn/guides/) | [Private](/bn/guides/encrypted-private-browser-history/) | [Install](/bn/install/) | [FAQ](/bn/faq/) |
+| Tiếng Việt | [Home](/vi/) | [Guides](/vi/guides/) | [Private](/vi/guides/encrypted-private-browser-history/) | [Install](/vi/install/) | [FAQ](/vi/faq/) |
+
+Original language-specific source documentation is also available from the [GitHub repository](https://github.com/renboxue/BestHistory). Archived release notes and payment checkout screens are separate from the public SEO guides.
