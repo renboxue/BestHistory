@@ -35,7 +35,7 @@ New BestHistory accounts receive a **30-day Pro Trial** before paid access is re
 
 ## Install
 
-Saat v1.0.0 tersedia di Chrome Web Store, instal dari store. Repositori publik berisi dokumentasi dan dukungan, bukan kode sumber aplikasi proprietary.
+Repositori publik berisi dokumentasi dan dukungan, bukan kode sumber aplikasi proprietary.
 
 ## Documentation
 

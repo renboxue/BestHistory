@@ -35,7 +35,7 @@ New BestHistory accounts receive a **30-day Pro Trial** before paid access is re
 
 ## Install
 
-عند توفر v1.0.0 في Chrome Web Store ثبّته من المتجر. المستودع العام مخصص للوثائق والدعم ولا يحتوي على الكود المصدري المملوك للتطبيق.
+المستودع العام مخصص للوثائق والدعم ولا يحتوي على الكود المصدري المملوك للتطبيق.
 
 ## Documentation
 

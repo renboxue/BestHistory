@@ -35,7 +35,7 @@ New BestHistory accounts receive a **30-day Pro Trial** before paid access is re
 
 ## Install
 
-Khi v1.0.0 có trên Chrome Web Store, hãy cài từ cửa hàng. Kho công khai chứa tài liệu và hỗ trợ, không chứa mã nguồn ứng dụng độc quyền.
+Kho công khai chứa tài liệu và hỗ trợ, không chứa mã nguồn ứng dụng độc quyền.
 
 ## Documentation
 
