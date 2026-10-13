@@ -1,7 +1,7 @@
 ---
 layout: default
-title: BestHistory — 找回那些你已经忘记名字的网站
-description: BestHistory 把 Chrome 历史记录变成以网站为中心的记忆工具。通过搜索、标签、备注、AI 回忆、私密模式和本地优先设计，重新找回以前用过的网站。
+title: BestHistory — 放心关闭标签页，找回历史网站并加密保存私密记录
+description: Chrome 标签页太多不敢关？BestHistory 按网站整理浏览历史，帮你重新找到关闭过的网站。Pro 私人保险箱支持在本机加密保存私密记录。
 permalink: /zh-CN/
 lang: zh-CN
 ---
@@ -9,7 +9,7 @@ lang: zh-CN
 <div class="bh-hero">
   <div class="bh-eyebrow">BESTHISTORY · 博学智伴 BEST SERIES 产品</div>
   <h1>放心关掉那些“怕以后找不到”的标签页。</h1>
-  <p class="bh-lead">浏览器记住的是一条条页面记录，<strong>BestHistory 想帮你记住的是：你以前到底用过哪些网站。</strong> 即使你已经忘了名字，只记得“它是干什么的”，也尽量把它重新找回来。</p>
+  <p class="bh-lead">标签页越开越多，是因为担心关掉以后再也找不到？<strong>BestHistory 帮你记住访问过的网站，不必为了以后可能用到而一直开着标签页。</strong> 它按网站整理浏览历史、支持标签与备注；Pro 私人保险箱还能在本机加密保存需要单独保护的记录。</p>
   <div class="bh-actions">
     <a class="bh-btn bh-btn-primary" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">Chrome 商店安装</a>
     <a class="bh-btn bh-btn-secondary" href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">Firefox 商店安装</a>
@@ -23,6 +23,19 @@ lang: zh-CN
 <section class="bh-section bh-problem"><div class="bh-section-heading"><span class="bh-kicker">真正的问题</span><h2>你往往记得“那个网站是干什么的”，却想不起它叫什么。</h2><p>普通历史记录默认你还记得日期、标题或关键词，但真实的记忆并没有这么整齐。</p></div><div class="bh-grid bh-grid-3"><div class="bh-card"><strong>“之前那个 PDF 网站……”</strong><p>两个月前用过一次，现在标签页没了，名字也忘了，只记得当时用它做过什么。</p></div><div class="bh-card"><strong>“之前试过的那个 AI 网站……”</strong><p>类似工具试过很多个，真正好用的那个反而最容易忘记名字。</p></div><div class="bh-card"><strong>“这个页面先别关……”</strong><p>很多标签页一直不敢关，并不是现在要看，而是怕以后再也找不到。</p></div></div></section>
 
 <section class="bh-section"><div class="bh-section-heading"><span class="bh-kicker">BestHistory 的不同</span><h2>按照人真正回忆东西的方式整理历史记录。</h2></div><div class="bh-grid bh-grid-3"><div class="bh-card bh-feature"><span class="bh-num">01</span><h3>先看网站，而不是先看几万条页面</h3><p>把历史记录先按网站聚合。先回答“我以前用过哪些网站”，需要时再展开某个网站下面具体访问过的页面。</p></div><div class="bh-card bh-feature"><span class="bh-num">02</span><h3>AI 回忆，处理那些说不清的记忆</h3><p>你可以描述一个模糊印象，AI 回忆负责把它变成更可能命中的搜索线索，再回到本机历史里验证。</p></div><div class="bh-card bh-feature"><span class="bh-num">03</span><h3>该私密的时候，就真正私密</h3><p>私密模式会把指定记录单独保存在本机并加密；如果你主动授权，也可以把无痕窗口访问记录私密保存下来。</p></div></div></section>
+
+<section class="bh-section">
+  <div class="bh-section-heading">
+    <span class="bh-kicker">从真实需求出发</span>
+    <h2>该关闭的标签页放心关闭，该留下的记录好好保存。</h2>
+    <p>有些历史需要找回，有些需要私密保存，不必把所有网页一直开着。</p>
+  </div>
+  <div class="bh-grid bh-grid-3">
+    <div class="bh-card"><h3>标签页太多，不敢关？</h3><p>把正在用的留着，把“怕以后找不到”的网站交给浏览历史。BestHistory 帮你从已有记录里重新找到网站。</p><p><a href="/zh-CN/guides/close-tabs-without-losing-websites/">关闭标签后怎样找回网站 →</a></p></div>
+    <div class="bh-card"><h3>浏览记录不想被随手看到？</h3><p>Pro 私人保险箱会把需要单独管理的私密记录保存在本机加密区域，用密码查看。</p><p><a href="/zh-CN/guides/encrypted-private-browser-history/">私人保险箱和无痕历史 →</a></p></div>
+    <div class="bh-card"><h3>忘了网站叫什么？</h3><p>只记得那个网站能做什么？试试按网站整理，再结合以前的页面标题、标签和备注搜索。</p><p><a href="/zh-CN/guides/find-website-you-visited-before/">如何找回忘记名字的网站 →</a></p></div>
+  </div>
+</section>
 
 <section class="bh-section bh-split"><div><span class="bh-kicker">给未来的自己留线索</span><h2>标签、备注和自己的描述，往往比网站官方标题更有用。</h2><p>你可以给网站写一句只有自己最明白的话，例如“上次用来把 PDF 转成图片的网站”。几个月后，这句话可能比网站名字更容易让你把它找回来。</p><p>BestHistory 还支持最近访问、最常访问、名称、已固定、未整理、废件箱、私密网站等不同视图。</p></div><div class="bh-shot"><img src="https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/site-detail.webp" alt="BestHistory 网站详情、标签和备注"></div></section>
 
