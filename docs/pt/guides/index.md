@@ -15,7 +15,7 @@ Você lembra para que servia um site, mas esqueceu seu nome? Veja como procurar 
 - [Fechar abas sem perder sites úteis](/pt/guides/close-tabs-without-losing-websites/)
 - [Proteger o histórico com senha e criptografia local](/pt/guides/encrypted-private-browser-history/)
 
-## Other guides
+## Outros guias
 
 - [Encontrar um site esquecido](/pt/guides/find-website-you-visited-before/)
 - [Pesquisar histórico antigo do Chrome](/pt/guides/search-old-chrome-history/)
