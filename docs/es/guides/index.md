@@ -15,7 +15,7 @@ description: "Consejos para cerrar pestañas de Chrome, volver a encontrar sitio
 - [Cerrar pestañas sin perder sitios útiles](/es/guides/close-tabs-without-losing-websites/)
 - [Proteger el historial privado con cifrado local](/es/guides/encrypted-private-browser-history/)
 
-## Other guides
+## Otras guías
 
 - [Encontrar un sitio web olvidado](/es/guides/find-website-you-visited-before/)
 - [Buscar historial antiguo de Chrome](/es/guides/search-old-chrome-history/)
