@@ -1,0 +1,30 @@
+{% assign t = site.data.marketing_i18n[page.lang] %}
+<div class="bh-hero">
+ <div class="bh-eyebrow">BESTHISTORY · ZHIBAN</div>
+ <h1>{{ t.hero | escape }}</h1>
+ <p class="bh-lead">{{ t.lead | escape }}</p>
+ <div class="bh-actions">
+  <a class="bh-btn bh-btn-primary" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">{{ t.getChrome | escape }}</a>
+  <a class="bh-btn bh-btn-secondary" href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">Firefox</a>
+  <a class="bh-btn bh-btn-secondary" href="/{{ page.lang }}/guides/">{{ t.guides | escape }}</a>
+ </div>
+ <p class="bh-trust">{{ t.freeNote | escape }}</p>
+</div>
+<div class="bh-shot bh-shot-hero">
+ <img src="https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp" alt="BestHistory — website-first browser history screenshot" loading="lazy">
+</div>
+<section class="bh-section"><div class="bh-section-heading">
+<h2>{{ t.guides | escape }}</h2><p>{{ t.guideIntro | escape }}</p>
+</div>
+<div class="bh-grid bh-grid-3">
+ <div class="bh-card"><h3>{{ t.tabs | escape }}</h3><p>{{ t.tabsDesc | escape }}</p><p><a href="/{{ page.lang }}/guides/close-tabs-without-losing-websites/">{{ t.guides | escape }} →</a></p></div>
+ <div class="bh-card"><h3>{{ t.vault | escape }}</h3><p>{{ t.vaultDesc | escape }}</p><p><a href="/{{ page.lang }}/guides/encrypted-private-browser-history/">{{ t.guides | escape }} →</a></p></div>
+ <div class="bh-card"><h3>{{ t.history | escape }}</h3><p>{{ t.historyDesc | escape }}</p><p><a href="/{{ page.lang }}/guides/find-website-you-visited-before/">{{ t.guides | escape }} →</a></p></div>
+</div></section>
+<section class="bh-section"><div class="bh-section-heading"><h2>BestHistory Pro</h2><p>{{ t.vaultDesc | escape }}</p></div>
+<div class="bh-grid bh-grid-3 bh-pricing">
+<div class="bh-card"><span>Monthly</span><strong>$2.99</strong></div>
+<div class="bh-card bh-card-accent"><span>Yearly</span><strong>$24.99</strong></div>
+<div class="bh-card"><span>Lifetime</span><strong>$59.99</strong></div></div>
+<div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-secondary" href="/{{ page.lang }}/faq/">{{ t.faq | escape }}</a><a class="bh-btn bh-btn-secondary" href="/{{ page.lang }}/privacy/">{{ t.privacy | escape }}</a></div>
+</section>
