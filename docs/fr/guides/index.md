@@ -15,7 +15,7 @@ Vous vous souvenez de ce qu'un site permettait de faire, mais plus de son nom ? 
 - [Fermer les onglets sans perdre ses sites](/fr/guides/close-tabs-without-losing-websites/)
 - [Protéger son historique avec un coffre chiffré](/fr/guides/encrypted-private-browser-history/)
 
-## Other guides
+## Autres guides
 
 - [Retrouver un site oublié](/fr/guides/find-website-you-visited-before/)
 - [Rechercher l'ancien historique Chrome](/fr/guides/search-old-chrome-history/)
