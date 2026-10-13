@@ -1,26 +1,19 @@
-# FAQ
+# 자주 묻는 질문 — BestHistory
 
-## Do I need an account?
-No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
+## BestHistory
 
-## Does BestHistory upload my browsing history?
-The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
+기본 로컬 방문 기록 관리는 계정 없이 사용할 수 있습니다. 로그인은 30일 Pro 체험, 유료 권한, 구매 연결에 사용됩니다.
 
-## Does AI read my entire history?
-No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
+전체 방문 기록 데이터베이스, 비공개 기록, 백업은 기본적으로 기기에 남습니다. BestHistory는 방문 기록 데이터를 판매하지 않습니다.
 
-## What does Pro cost?
-$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
+AI 기능은 사용자가 직접 요청한 경우에만 제한된 검색 단서와 사이트 정보를 보냅니다. 전체 방문 기록이나 암호화된 개인 데이터는 전송하지 않습니다.
 
-## How do cancellation and refunds work?
-Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
+## 비공개 방문 기록
 
-## Where is Private Mode data stored?
-Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
+비공개 모드는 기기에 암호화 저장하는 비밀번호 보호 영역이며, 웹사이트나 네트워크에서의 익명성을 보장하지 않습니다.
 
-## Why isn't the source code on GitHub?
-The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+## BestHistory Pro
 
-## Contact
+기본 기능은 무료이며 신규 계정은 현재 30일 Pro 체험을 받습니다. Pro는 월 $2.99 또는 연 $24.99(자동 갱신), 제품 운영 기간 동안의 일회성 $59.99 요금제가 있습니다. 결제는 Paddle에서 처리합니다.
 
-지원: besthistory@126.com
+[홈](/ko/) · [개인정보](/ko/privacy/) · [이용약관](/ko/terms/) · [환불](/ko/refund/)

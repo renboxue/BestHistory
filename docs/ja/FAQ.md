@@ -1,26 +1,19 @@
-# FAQ
+# よくある質問 — BestHistory
 
-## Do I need an account?
-No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
+## BestHistory
 
-## Does BestHistory upload my browsing history?
-The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
+基本的なローカル履歴整理にアカウントは不要です。ログインは30日間のPro体験、権限管理、購入のために使います。
 
-## Does AI read my entire history?
-No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
+通常の履歴データベース、プライベートな記録、バックアップは原則として端末に保存されます。BestHistoryは閲覧データを販売しません。
 
-## What does Pro cost?
-$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
+AI機能は自分で実行した場合に限り、検索の手がかりや少量のサイト情報を送信します。完全な履歴データベースや暗号化された記録は送信しません。
 
-## How do cancellation and refunds work?
-Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
+## プライベート履歴
 
-## Where is Private Mode data stored?
-Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
+プライベートモードは端末上の暗号化されたパスワード保護領域です。通信先サイトやネットワークから行動を隠すものではありません。
 
-## Why isn't the source code on GitHub?
-The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+## BestHistory Pro
 
-## Contact
+基本機能は無料です。新規アカウントには現在30日間のPro体験があります。Proは月額$2.99、年額$24.99（自動更新）、買い切り$59.99（製品の運営期間中）。決済はPaddleが取り扱います。
 
-サポート: besthistory@126.com
+[ホーム](/ja/) · [プライバシー](/ja/privacy/) · [利用規約](/ja/terms/) · [返金](/ja/refund/)

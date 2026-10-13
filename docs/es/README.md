@@ -4,7 +4,7 @@
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · [English](../en/README.md) · [日本語](../ja/README.md) · [한국어](../ko/README.md) · Español · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
-> **v1.0.0** — BestHistory v1.0.0 es la primera versión oficial. Su publicación en Chrome Web Store llegará muy pronto.
+> **BestHistory · Chrome Web Store** — Instala BestHistory desde Chrome Web Store o Firefox Add-ons oficiales. Comprueba el editor, añade la extensión y ábrela desde la barra del navegador. Las versiones de tienda suelen actualizarse automáticamente. [Instalar en Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) · [Inicio](/es/).
 
 BestHistory es un gestor de historial para Chrome / Chromium centrado en la privacidad. Agrupa primero por sitio web y permite buscar, etiquetar, anotar, fijar, guardar en privado, respaldar y redescubrir sitios.
 

@@ -1,26 +1,19 @@
-# 常見問題
+# 常見問題 — BestHistory
 
-## Do I need an account?
-No. Core local history organization works without an account. Sign-in is mainly for the 30-day Pro Trial, Pro entitlement, and purchases.
+## BestHistory
 
-## Does BestHistory upload my browsing history?
-The complete browsing-history database is not uploaded to the account server. Only when you deliberately use AI are limited fields needed for that request transmitted; see the Privacy Notice.
+免費的本機歷史整理不需要帳戶；登入主要用於 30 天 Pro 試用、付費權益及購買關聯。
 
-## Does AI read my entire history?
-No. AI Recall receives the query, tags and a small number of local hints. AI Organize receives limited website metadata in batches. Full history, page contents, Private Mode data and backups are not sent for AI processing.
+完整歷史資料庫、私密模式紀錄與備份預設留在裝置上；BestHistory 不販售瀏覽資料。
 
-## What does Pro cost?
-$2.99/month, $24.99/year, or $59.99 one-time Lifetime. New accounts currently receive a 30-day Pro Trial.
+只有主動使用 AI 回憶或整理時才會傳送少量必要的網站線索，不會上傳完整歷史資料庫或加密私密紀錄。
 
-## How do cancellation and refunds work?
-Monthly/Annual subscriptions can be canceled through Paddle's customer portal or management links in Paddle emails. Refund requests are handled by Paddle Buyer Support and the applicable Paddle refund policy.
+## 私密歷史
 
-## Where is Private Mode data stored?
-Private Mode records are encrypted locally. The password and decrypted private records are not sent to BestHistory servers.
+私密模式是本機加密、以密碼保護的獨立紀錄區，不能替你隱藏對網站或網路業者的活動。
 
-## Why isn't the source code on GitHub?
-The public repository is for the website, product documentation, policies, support and release information. The BestHistory application source code is proprietary.
+## BestHistory Pro
 
-## Contact
+核心功能免費。新帳戶目前有 30 天 Pro 試用；Pro 月付 $2.99、年付 $24.99（自動續訂），終身版一次性 $59.99，隨產品營運期間提供。款項由 Paddle 處理。
 
-支援信箱：besthistory@126.com
+[首頁](/zh-TW/) · [隱私](/zh-TW/privacy/) · [條款](/zh-TW/terms/) · [退款](/zh-TW/refund/)

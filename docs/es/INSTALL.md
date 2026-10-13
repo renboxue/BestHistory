@@ -1,19 +1,12 @@
-# Instalación — BestHistory v1.0.0
+# Instalar — BestHistory
 
-BestHistory v1.0.0 is distributed through the Chrome Web Store. Once the listing is live, install and update it through the store.
+Instala BestHistory desde Chrome Web Store o Firefox Add-ons oficiales. Comprueba el editor, añade la extensión y ábrela desde la barra del navegador. Las versiones de tienda suelen actualizarse automáticamente.
 
-## Install
+- [Instalar en Chrome](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb)
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/)
 
-1. Open the Chrome Web Store.
-2. Search for **BestHistory**.
-3. Verify the developer and website information, then choose **Add to Chrome**.
-4. Optionally pin BestHistory in the extensions menu.
-5. Click the toolbar icon to open BestHistory.
+## Historial privado
 
-## Incognito / Private Mode
+Si quieres guardar visitas de incógnito en Pro, debes permitir explícitamente que BestHistory se ejecute en modo incógnito desde los ajustes de extensiones de Chrome.
 
-If you want BestHistory Pro to save selected incognito-window visits into encrypted Private Mode, Chrome requires you to explicitly enable **Allow in Incognito** in `chrome://extensions/`. This permission is optional.
-
-## Updates
-
-Chrome automatically updates Chrome Web Store installations. Before major upgrades, keeping a `.bhbackup` file is still recommended.
+[Inicio](/es/) · [Privacidad](/es/privacy/)
