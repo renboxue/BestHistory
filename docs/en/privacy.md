@@ -1,4 +1,7 @@
 ---
+sitemap: false
+seo_alias: true
+canonical_url: https://besthistory.boxuezhiban.cn/privacy/
 layout: default
 lang: en
 permalink: /en/privacy/

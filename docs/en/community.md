@@ -1,4 +1,7 @@
 ---
+sitemap: false
+seo_alias: true
+canonical_url: https://besthistory.boxuezhiban.cn/community/
 layout: default
 lang: en
 permalink: /en/community/

@@ -1,4 +1,7 @@
 ---
+sitemap: false
+seo_alias: true
+canonical_url: https://besthistory.boxuezhiban.cn/terms/
 layout: default
 lang: en
 permalink: /en/terms/
