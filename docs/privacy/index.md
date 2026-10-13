@@ -1,4 +1,6 @@
 ---
+locale_section: privacy
+lang: en
 layout: default
 title: BestHistory Privacy Notice
 permalink: /privacy/

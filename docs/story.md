@@ -1,4 +1,5 @@
 ---
+locale_section: story
 layout: default
 title: Why I built BestHistory
 permalink: /story/

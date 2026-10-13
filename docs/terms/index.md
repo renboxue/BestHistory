@@ -1,4 +1,6 @@
 ---
+locale_section: terms
+lang: en
 layout: default
 title: BestHistory Terms of Service
 permalink: /terms/

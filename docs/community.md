@@ -1,4 +1,6 @@
 ---
+locale_section: community
+lang: en
 layout: default
 title: Zhiban Community — BestHistory
 permalink: /community/
