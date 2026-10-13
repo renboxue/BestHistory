@@ -1,0 +1,41 @@
+{% assign t = site.data.marketing_i18n[page.lang] %}
+{% assign s = site.data.support_i18n[page.lang] %}
+<div class="bh-doc-page">
+<h1>{{ t[page.locale_section] | escape }} — BestHistory</h1>
+{% case page.locale_section %}
+{% when 'install' %}
+<p>{{ s.installText | escape }}</p>
+<div class="bh-actions"><a class="bh-btn bh-btn-primary" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb">{{ t.getChrome | escape }}</a><a class="bh-btn bh-btn-secondary" href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/">Firefox Add-ons</a></div>
+<h2>{{ t.vault | escape }}</h2><p>{{ s.incognitoText | escape }}</p>
+{% when 'faq' %}
+<h2>{{ t.faq | escape }}</h2>
+<p>{{ s.faqAccount | escape }}</p>
+<p>{{ s.faqData | escape }}</p>
+<p>{{ s.faqAI | escape }}</p>
+<p>{{ s.faqPrivate | escape }}</p>
+<h2>BestHistory Pro</h2><p>{{ s.paidText | escape }}</p>
+<p><a href="/{{ page.lang }}/guides/encrypted-private-browser-history/">{{ t.vault | escape }}</a></p>
+{% when 'story' %}
+<h2>{{ t.hero | escape }}</h2><p>{{ s.storyText | escape }}</p><p>{{ t.tabsDesc | escape }}</p><p>{{ t.historyDesc | escape }}</p>
+<p><a href="/{{ page.lang }}/guides/close-tabs-without-losing-websites/">{{ t.tabs | escape }}</a></p>
+{% when 'community' %}
+<p>{{ s.communityText | escape }}</p>
+<div class="bh-actions"><a class="bh-btn bh-btn-primary" href="https://discord.gg/QRHNKweYqS" target="_blank" rel="noopener noreferrer">Zhiban · Discord</a><a class="bh-btn bh-btn-secondary" href="mailto:besthistory@126.com">besthistory@126.com</a></div>
+{% when 'privacy' %}
+<p>{{ s.privacyText | escape }}</p>
+<p>{{ s.privacyAI | escape }}</p>
+<h2>{{ t.vault | escape }}</h2><p>{{ s.faqPrivate | escape }}</p>
+<p>{{ s.legalNote | escape }} <a href="/privacy/">Privacy Notice (English)</a>.</p>
+{% when 'terms' %}
+<p>{{ s.termsText | escape }}</p><p>{{ s.paidText | escape }}</p>
+<p>{{ s.legalNote | escape }} <a href="/terms/">Terms of Service (English)</a>.</p>
+{% when 'security' %}
+<p>{{ s.securityText | escape }}</p><p>{{ s.faqData | escape }}</p><p>{{ s.faqPrivate | escape }}</p>
+<p><a href="mailto:besthistory@126.com">besthistory@126.com</a></p>
+{% when 'refund' %}
+<p>{{ s.refundText | escape }}</p><p>{{ s.paidText | escape }}</p>
+<p>{{ s.legalNote | escape }} <a href="/refund/">Refund Policy (English)</a>.</p>
+{% endif %}
+<hr>
+<p><a href="/{{ page.lang }}/">{{ t.home | escape }}</a> · <a href="/{{ page.lang }}/guides/">{{ t.guides | escape }}</a> · <a href="mailto:besthistory@126.com">besthistory@126.com</a></p>
+</div>
