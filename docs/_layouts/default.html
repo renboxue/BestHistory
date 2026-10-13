@@ -9,8 +9,10 @@
   <link rel="alternate" hreflang="zh-CN" href="{{ site.url }}/zh-CN/">
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/">
   {% elsif page.seo_pair %}
-  <link rel="alternate" hreflang="en" href="{{ site.url }}/en/guides/{{ page.seo_pair }}/">
-  <link rel="alternate" hreflang="zh-CN" href="{{ site.url }}/zh-CN/guides/{{ page.seo_pair }}/">
+  {% assign seo_pair_languages = 'en,zh-CN,ja,fr,de,es,pt,ko' | split: ',' %}
+  {% for seo_language in seo_pair_languages %}
+  <link rel="alternate" hreflang="{{ seo_language }}" href="{{ site.url }}/{{ seo_language }}/guides/{{ page.seo_pair }}/">
+  {% endfor %}
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/guides/{{ page.seo_pair }}/">
   {% endif %}
   {% if page.url == '/' %}
