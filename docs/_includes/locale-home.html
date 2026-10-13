@@ -1,4 +1,5 @@
 {% assign t = site.data.marketing_i18n[page.lang] %}
+{% assign support = site.data.support_i18n[page.lang] %}
 <div class="bh-hero">
  <div class="bh-eyebrow">BESTHISTORY · ZHIBAN</div>
  <h1>{{ t.hero | escape }}</h1>
@@ -22,9 +23,6 @@
  <div class="bh-card"><h3>{{ t.history | escape }}</h3><p>{{ t.historyDesc | escape }}</p><p><a href="/{{ page.lang }}/guides/find-website-you-visited-before/">{{ t.guides | escape }} →</a></p></div>
 </div></section>
 <section class="bh-section"><div class="bh-section-heading"><h2>BestHistory Pro</h2><p>{{ t.vaultDesc | escape }}</p></div>
-<div class="bh-grid bh-grid-3 bh-pricing">
-<div class="bh-card"><span>Monthly</span><strong>$2.99</strong></div>
-<div class="bh-card bh-card-accent"><span>Yearly</span><strong>$24.99</strong></div>
-<div class="bh-card"><span>Lifetime</span><strong>$59.99</strong></div></div>
+<p class="bh-lead">{{ support.paidText | escape }}</p>
 <div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-secondary" href="/{{ page.lang }}/faq/">{{ t.faq | escape }}</a><a class="bh-btn bh-btn-secondary" href="/{{ page.lang }}/privacy/">{{ t.privacy | escape }}</a></div>
 </section>
