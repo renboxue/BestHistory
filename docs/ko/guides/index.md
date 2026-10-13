@@ -15,7 +15,7 @@ description: "크롬 탭을 안전하게 정리하고 방문한 사이트를 다
 - [탭을 닫아도 사이트를 다시 찾는 방법](/ko/guides/close-tabs-without-losing-websites/)
 - [비공개 방문 기록을 비밀번호와 암호화로 보호하기](/ko/guides/encrypted-private-browser-history/)
 
-## Other guides
+## 다른 가이드
 
 - [이름을 잊은 사이트 찾기](/ko/guides/find-website-you-visited-before/)
 - [Chrome의 오래된 기록 검색](/ko/guides/search-old-chrome-history/)
