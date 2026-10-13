@@ -1,4 +1,5 @@
 ---
+locale_section: story
 layout: default
 title: 为什么我做了 BestHistory
 permalink: /zh-CN/story/
