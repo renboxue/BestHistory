@@ -1,4 +1,5 @@
 ---
+locale_section: guides
 layout: default
 title: BestHistory 中文使用指南
 permalink: /zh-CN/guides/

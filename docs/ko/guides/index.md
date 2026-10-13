@@ -1,4 +1,5 @@
 ---
+locale_section: guides
 layout: default
 lang: ko
 permalink: /ko/guides/

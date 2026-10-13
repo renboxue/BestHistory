@@ -1,4 +1,5 @@
 ---
+locale_section: guides
 layout: default
 lang: pt
 permalink: /pt/guides/
