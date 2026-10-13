@@ -1,19 +1,45 @@
 <!doctype html>
-<html lang="{{ page.lang | default: 'en' }}">
+<html lang="{{ page.lang | default: 'en' }}"{% if page.lang == "ar" %} dir="rtl"{% endif %}>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
-  {% if page.url == '/' or page.url == '/zh-CN/' %}
-  <link rel="alternate" hreflang="en" href="{{ site.url }}/">
-  <link rel="alternate" hreflang="zh-CN" href="{{ site.url }}/zh-CN/">
-  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/">
-  {% elsif page.seo_pair %}
-  {% assign seo_pair_languages = 'en,zh-CN,ja,fr,de,es,pt,ko' | split: ',' %}
-  {% for seo_language in seo_pair_languages %}
-  <link rel="alternate" hreflang="{{ seo_language }}" href="{{ site.url }}/{{ seo_language }}/guides/{{ page.seo_pair }}/">
-  {% endfor %}
-  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/guides/{{ page.seo_pair }}/">
+  {% assign active_locale = page.lang | default: 'en' %}
+  {% assign t = site.data.marketing_i18n[active_locale] %}
+  {% assign seo_languages = 'en,zh-CN,zh-TW,ja,fr,de,es,pt,ko,it,nl,ru,ar,hi,id,tr,bn,vi' | split: ',' %}
+  {% assign topic_slug = page.seo_pair | default: page.seo_group %}
+  {% if page.locale_section or topic_slug %}
+    {% for seo_language in seo_languages %}
+      {% if topic_slug %}
+        {% assign localized_target = '/' | append: seo_language | append: '/guides/' | append: topic_slug | append: '/' %}
+      {% elsif page.locale_section == 'home' and seo_language == 'en' %}
+        {% assign localized_target = '/' %}
+      {% elsif seo_language == 'en' and page.locale_section == 'story' %}
+        {% assign localized_target = '/story/' %}
+      {% elsif seo_language == 'en' and page.locale_section == 'community' %}
+        {% assign localized_target = '/community/' %}
+      {% elsif seo_language == 'en' and page.locale_section == 'privacy' %}
+        {% assign localized_target = '/privacy/' %}
+      {% elsif seo_language == 'en' and page.locale_section == 'terms' %}
+        {% assign localized_target = '/terms/' %}
+      {% elsif seo_language == 'en' and page.locale_section == 'refund' %}
+        {% assign localized_target = '/refund/' %}
+      {% else %}
+        {% if page.locale_section == 'home' %}
+          {% assign localized_target = '/' | append: seo_language | append: '/' %}
+        {% else %}
+          {% assign localized_target = '/' | append: seo_language | append: '/' | append: page.locale_section | append: '/' %}
+        {% endif %}
+      {% endif %}
+      <link rel="alternate" hreflang="{{ seo_language }}" href="{{ site.url }}{{ localized_target }}">
+    {% endfor %}
+    {% if topic_slug %}
+      <link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/guides/{{ topic_slug }}/">
+    {% elsif page.locale_section == 'home' %}
+      <link rel="alternate" hreflang="x-default" href="{{ site.url }}/">
+    {% else %}
+      <link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/{{ page.locale_section }}/">
+    {% endif %}
   {% endif %}
   {% if page.url == '/' %}
   <script type="application/ld+json">
@@ -38,143 +64,81 @@
   }
   </script>
   {% endif %}
-  {% if page.seo_group == 'find-website-you-visited-before' or page.seo_group == 'search-old-chrome-history' %}
-  {% assign seo_languages = 'en,zh-CN,es,ja,de,fr,pt,ko' | split: ',' %}
-  {% for seo_language in seo_languages %}
-  <link rel="alternate" hreflang="{{ seo_language }}" href="{{ site.url }}/{{ seo_language }}/guides/{{ page.seo_group }}/">
-  {% endfor %}
-  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/guides/{{ page.seo_group }}/">
-  {% endif %}
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="icon" href="https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/besthistory-icon.png">
 </head>
 <body>
-  {% assign seo_ui = site.data.seo_ui[page.lang] %}
-  {% if seo_ui %}
+  {% assign active_locale = page.lang | default: 'en' %}
+  {% assign t = site.data.marketing_i18n[active_locale] %}
+  {% assign topic_slug = page.seo_pair | default: page.seo_group %}
+  {% assign home_href = '/' %}
+  {% unless active_locale == 'en' %}{% assign home_href = '/' | append: active_locale | append: '/' %}{% endunless %}
   <header class="site-header" role="banner">
     <div class="wrapper bh-nav-wrap">
-      <a class="site-title" rel="author" href="/{{ page.lang }}/guides/">BestHistory</a>
-      <nav class="bh-nav" aria-label="{{ seo_ui.nav }}">
-        <a href="/{{ page.lang }}/guides/">{{ seo_ui.nav }}</a>
-        <a href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">{{ seo_ui.chrome }}</a>
-        <a href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">{{ seo_ui.firefox }}</a>
-        <a href="/{{ page.lang }}/guides/find-website-you-visited-before/">{{ seo_ui.find }}</a>
-        <a href="/{{ page.lang }}/guides/search-old-chrome-history/">{{ seo_ui.old }}</a>
-        <a class="bh-nav-lang" href="#bh-locales">{{ seo_ui.lang }}</a>
+      <a class="site-title" rel="author" href="{{ home_href }}">BestHistory</a>
+      <nav class="bh-nav" aria-label="{{ t.guides | escape }}">
+        <a href="{{ home_href }}">{{ t.home | escape }}</a>
+        <a href="/{{ active_locale }}/guides/">{{ t.guides | escape }}</a>
+        <a href="/{{ active_locale }}/install/">{{ t.install | escape }}</a>
+        <a href="/{{ active_locale }}/faq/">{{ t.faq | escape }}</a>
+        <a href="/{{ active_locale }}/guides/encrypted-private-browser-history/">{{ t.vault | escape }}</a>
+        <a class="bh-nav-lang" href="#bh-locales" aria-label="Select language">{{ t.native | escape }} ▾</a>
       </nav>
     </div>
   </header>
-  {% else %}
-  <header class="site-header" role="banner">
-    <div class="wrapper bh-nav-wrap">
-      <a class="site-title" rel="author" href="{% if page.lang == 'zh-CN' %}/zh-CN/{% else %}/{% endif %}">BestHistory</a>
-      <nav class="bh-nav" aria-label="Main navigation">
-        {% if page.lang == 'zh-CN' %}
-          <a href="/zh-CN/story/">为什么做 BestHistory</a>
-          <a href="/zh-CN/guides/">使用指南</a>
-          <a href="/zh-CN/install/">安装</a>
-          <a href="/zh-CN/community/">社区</a>
-          <a href="/zh-CN/faq/">常见问题</a>
-          <a href="/zh-CN/privacy/">隐私</a>
-          <a class="bh-nav-lang" href="/">English</a>
+  <nav class="bh-locales bh-locale-18" id="bh-locales" aria-label="Available languages">
+    <div class="wrapper bh-locale-inner">
+      {% for seo_language in seo_languages %}
+        {% assign l = site.data.marketing_i18n[seo_language] %}
+        {% if topic_slug %}
+          {% assign locale_href = '/' | append: seo_language | append: '/guides/' | append: topic_slug | append: '/' %}
+        {% elsif page.locale_section %}
+          {% if page.locale_section == 'home' and seo_language == 'en' %}
+            {% assign locale_href = '/' %}
+          {% elsif seo_language == 'en' and page.locale_section == 'story' %}
+            {% assign locale_href = '/story/' %}
+          {% elsif seo_language == 'en' and page.locale_section == 'community' %}
+            {% assign locale_href = '/community/' %}
+          {% elsif seo_language == 'en' and page.locale_section == 'privacy' %}
+            {% assign locale_href = '/privacy/' %}
+          {% elsif seo_language == 'en' and page.locale_section == 'terms' %}
+            {% assign locale_href = '/terms/' %}
+          {% elsif seo_language == 'en' and page.locale_section == 'refund' %}
+            {% assign locale_href = '/refund/' %}
+          {% elsif page.locale_section == 'home' %}
+            {% assign locale_href = '/' | append: seo_language | append: '/' %}
+          {% else %}
+            {% assign locale_href = '/' | append: seo_language | append: '/' | append: page.locale_section | append: '/' %}
+          {% endif %}
         {% else %}
-          <a href="/story/">Why I built BestHistory</a>
-          <a href="/en/guides/">Guides</a>
-          <a href="/en/install/">Install</a>
-          <a href="/community/">Community</a>
-          <a href="/LANGUAGES.html">Languages</a>
-          <a href="https://github.com/renboxue/BestHistory">GitHub</a>
-          <a class="bh-nav-lang" href="/zh-CN/">简体中文</a>
+          {% assign locale_href = '/' | append: seo_language | append: '/' %}
+          {% if seo_language == 'en' %}{% assign locale_href = '/' %}{% endif %}
         {% endif %}
-      </nav>
+        <a href="{{ locale_href }}"{% if active_locale == seo_language %} aria-current="page"{% endif %} lang="{{ seo_language }}">{{ l.native | escape }}</a>
+      {% endfor %}
     </div>
-  </header>
-
-  {% endif %}
-
-  {% if seo_ui %}
-  <nav id="bh-locales" class="bh-locales" aria-label="{{ seo_ui.lang }}">
-    {% assign seo_languages = 'en,zh-CN,es,ja,de,fr,pt,ko' | split: ',' %}
-    {% for seo_language in seo_languages %}
-      {% if page.seo_pair %}
-        {% assign locale_href = '/' | append: seo_language | append: '/guides/' | append: page.seo_pair | append: '/' %}
-      {% elsif page.seo_group %}
-        {% assign locale_href = '/' | append: seo_language | append: '/guides/' | append: page.seo_group | append: '/' %}
-      {% else %}
-        {% assign locale_href = '/' | append: seo_language | append: '/guides/' %}
-      {% endif %}
-      <a href="{{ locale_href }}"{% if page.lang == seo_language %} aria-current="page"{% endif %}>{% case seo_language %}{% when 'zh-CN' %}简体中文{% when 'es' %}Español{% when 'ja' %}日本語{% when 'de' %}Deutsch{% when 'fr' %}Français{% when 'pt' %}Português{% when 'ko' %}한국어{% else %}English{% endcase %}</a>
-    {% endfor %}
   </nav>
-  {% else %}
-  {% if page.seo_pair or page.seo_group == 'find-website-you-visited-before' or page.seo_group == 'search-old-chrome-history' %}
-  <nav class="bh-locales" aria-label="Article translations">
-    {% assign seo_languages = 'en,zh-CN,es,ja,de,fr,pt,ko' | split: ',' %}
-    {% for seo_language in seo_languages %}
-      {% assign article_group = page.seo_pair | default: page.seo_group %}
-      <a href="/{{ seo_language }}/guides/{{ article_group }}/"{% if page.lang == seo_language %} aria-current="page"{% endif %}>{% case seo_language %}{% when 'zh-CN' %}简体中文{% when 'es' %}Español{% when 'ja' %}日本語{% when 'de' %}Deutsch{% when 'fr' %}Français{% when 'pt' %}Português{% when 'ko' %}한국어{% else %}English{% endcase %}</a>
-    {% endfor %}
-  </nav>
-  {% endif %}
-  {% endif %}
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
       {{ content }}
     </div>
   </main>
-
-  {% if seo_ui %}
   <footer class="site-footer h-card">
     <div class="wrapper bh-footer-grid">
-      <div><strong>{{ seo_ui.by }}</strong><p>{{ seo_ui.about }}</p></div>
+      <div><strong>BestHistory · Zhiban</strong><p>{{ t.lead | escape }}</p></div>
       <div class="bh-footer-nav">
-        <a href="/{{ page.lang }}/guides/">{{ seo_ui.nav }}</a>
-        <a href="/{{ page.lang }}/guides/find-website-you-visited-before/">{{ seo_ui.find }}</a>
-        <a href="/{{ page.lang }}/guides/search-old-chrome-history/">{{ seo_ui.old }}</a>
-        <a href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb">{{ seo_ui.chrome }}</a>
-        <a href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/">{{ seo_ui.firefox }}</a>
-        <a href="/privacy/">{{ seo_ui.privacy }}</a>
-        <a href="/terms/">{{ seo_ui.terms }}</a>
-        <a href="mailto:besthistory@126.com">{{ seo_ui.help }}</a>
+        <a href="{{ home_href }}">{{ t.home | escape }}</a>
+        <a href="/{{ active_locale }}/guides/">{{ t.guides | escape }}</a>
+        <a href="/{{ active_locale }}/story/">{{ t.story | escape }}</a>
+        <a href="/{{ active_locale }}/community/">{{ t.community | escape }}</a>
+        <a href="/{{ active_locale }}/privacy/">{{ t.privacy | escape }}</a>
+        <a href="/{{ active_locale }}/terms/">{{ t.terms | escape }}</a>
+        <a href="/{{ active_locale }}/security/">{{ t.security | escape }}</a>
+        <a href="/{{ active_locale }}/refund/">{{ t.refund | escape }}</a>
+        <a href="mailto:besthistory@126.com">besthistory@126.com</a>
       </div>
-      <div class="bh-footer-copy">© 2026 Zhiban · {{ seo_ui.copy }} · besthistory@126.com · <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">京ICP备2026061674号-1</a></div>
+      <div class="bh-footer-copy">© 2026 Zhiban · <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">京ICP备2026061674号-1</a></div>
     </div>
   </footer>
-  {% else %}
-  <footer class="site-footer h-card">
-    <div class="wrapper bh-footer-grid">
-      <div>
-        <strong>BestHistory by Zhiban</strong>
-        <p>{% if page.lang == 'zh-CN' %}博学智伴 Best Series 产品，把浏览历史变成真正能重新找回的网站工具箱。{% else %}A Best Series product by Zhiban. Turn browser history into a website memory tool you can actually reuse.{% endif %}</p>
-      </div>
-      <div class="bh-footer-nav">
-        {% if page.lang == 'zh-CN' %}
-          <a href="/zh-CN/">首页</a>
-          <a href="/zh-CN/install/">安装</a>
-          <a href="/zh-CN/community/">社区</a>
-          <a href="https://discord.gg/QRHNKweYqS">Discord</a>
-          <a href="/zh-CN/faq/">常见问题</a>
-          <a href="/zh-CN/security/">安全</a>
-          <a href="/zh-CN/privacy/">隐私</a>
-          <a href="/zh-CN/terms/">条款</a>
-          <a href="/zh-CN/refund/">退款</a>
-          <a href="https://github.com/renboxue/BestHistory">GitHub</a>
-        {% else %}
-          <a href="/">Home</a>
-          <a href="/story/">Story</a>
-          <a href="/en/guides/">Guides</a>
-          <a href="/en/install/">Install</a>
-          <a href="/community/">Community</a>
-          <a href="https://discord.gg/QRHNKweYqS">Discord</a>
-          <a href="/privacy/">Privacy</a>
-          <a href="/terms/">Terms</a>
-          <a href="/refund/">Refund</a>
-          <a href="https://github.com/renboxue/BestHistory">GitHub</a>
-        {% endif %}
-      </div>
-      <div class="bh-footer-copy">© 2026 Zhiban · BestHistory is a Best Series product · besthistory@126.com · <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">京ICP备2026061674号-1</a></div>
-    </div>
-  </footer>
-  {% endif %}
 </body>
 </html>
