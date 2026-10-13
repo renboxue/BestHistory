@@ -1,14 +1,13 @@
 ---
 layout: default
-title: BestHistory — Find the websites you forgot
-seo_title: BestHistory — A better way to remember your browser history
-description: BestHistory turns Chrome history into a website-first memory tool. Rediscover forgotten websites with search, tags, notes, AI Recall, Private Mode, and local-first privacy.
+title: BestHistory — Close Chrome Tabs Without Losing Useful Websites
+description: Too many Chrome tabs? Find visited websites after closing them with BestHistory's website-first history search. Pro adds a locally encrypted private history vault.
 ---
 
 <div class="bh-hero">
   <div class="bh-eyebrow">BESTHISTORY · A BEST SERIES PRODUCT BY ZHIBAN</div>
   <h1>Close the tabs you're afraid you'll never find again.</h1>
-  <p class="bh-lead">Your browser remembers pages. <strong>BestHistory helps you remember websites.</strong> It turns Chrome history into a website-first memory tool, so you can rediscover something even when you no longer remember its name.</p>
+  <p class="bh-lead">Too many tabs open because you might need a website later? <strong>BestHistory helps you find useful sites again without keeping every tab open.</strong> Organize Chrome history by website, search past pages with your own notes, and keep selected private history encrypted on your device with Pro.</p>
   <div class="bh-actions">
     <a class="bh-btn bh-btn-primary" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">Add to Chrome</a>
     <a class="bh-btn bh-btn-secondary" href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">Get for Firefox</a>
@@ -43,6 +42,19 @@ description: BestHistory turns Chrome history into a website-first memory tool. 
     <div class="bh-card bh-feature"><span class="bh-num">01</span><h3>Website-first history</h3><p>Instead of opening a wall of thousands of page visits, start with the websites you actually used. Then drill down into pages only when you need them.</p></div>
     <div class="bh-card bh-feature"><span class="bh-num">02</span><h3>AI Recall for fuzzy memory</h3><p>Describe what you vaguely remember. AI Recall helps turn that memory into better search clues, then verifies them against your local history.</p></div>
     <div class="bh-card bh-feature"><span class="bh-num">03</span><h3>Private when it should be private</h3><p>Private Mode keeps selected history encrypted locally and can optionally remember incognito-window visits without mixing them into normal history.</p></div>
+  </div>
+</section>
+
+<section class="bh-section">
+  <div class="bh-section-heading">
+    <span class="bh-kicker">THREE REAL BROWSING PROBLEMS</span>
+    <h2>Find the sites you need. Close the tabs you don't.</h2>
+    <p>Start with the problem you have today, not another complicated system for saving everything.</p>
+  </div>
+  <div class="bh-grid bh-grid-3">
+    <div class="bh-card"><h3>Too many Chrome tabs?</h3><p>Keep your active work open, but stop hoarding tabs only because you fear forgetting a website. BestHistory helps you revisit sites recorded in your browser history.</p><p><a href="/en/guides/close-tabs-without-losing-websites/">Close tabs without losing useful websites →</a></p></div>
+    <div class="bh-card"><h3>Need a private history vault?</h3><p>Some sites are worth remembering without displaying them in BestHistory's everyday list. Pro Private Mode keeps selected records encrypted locally behind a password.</p><p><a href="/en/guides/encrypted-private-browser-history/">Private, encrypted browsing history →</a></p></div>
+    <div class="bh-card"><h3>Forgot the site's name?</h3><p>Remember what a site did, but not its address? Look up old visits by website, page title, tags and notes. The original visit must still be available.</p><p><a href="/en/guides/find-website-you-visited-before/">Find a website you visited before →</a></p></div>
   </div>
 </section>
 
