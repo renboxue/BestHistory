@@ -3,7 +3,7 @@ locale_section: privacy
 lang: en
 layout: default
 title: BestHistory Privacy Notice
-description: Official BestHistory privacy notice: local browser history, optional AI processing, encrypted Private Mode, account and payment information.
+description: "Official BestHistory privacy notice: local browser history, optional AI processing, encrypted Private Mode, account and payment information."
 permalink: /privacy/
 ---
 
