@@ -35,7 +35,7 @@ New BestHistory accounts receive a **30-day Pro Trial** before paid access is re
 
 ## Install
 
-v1.0.0 Chrome Web Store'da yayınlandığında mağazadan yükleyin. Genel depo ürün belgeleri ve destek içindir; özel uygulama kaynak kodunu içermez.
+Genel depo ürün belgeleri ve destek içindir; özel uygulama kaynak kodunu içermez.
 
 ## Documentation
 

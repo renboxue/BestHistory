@@ -35,7 +35,7 @@ New BestHistory accounts receive a **30-day Pro Trial** before paid access is re
 
 ## Install
 
-v1.0.0 Chrome Web Store-এ পাওয়া গেলে store থেকে install করুন। Public repository-তে documentation ও support আছে, proprietary app source code নয়।
+Public repository-তে documentation ও support আছে, proprietary app source code নয়।
 
 ## Documentation
 

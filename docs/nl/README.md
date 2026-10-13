@@ -35,7 +35,7 @@ New BestHistory accounts receive a **30-day Pro Trial** before paid access is re
 
 ## Install
 
-Wanneer v1.0.0 in de Chrome Web Store staat, installeer je via de store. De openbare repository bevat documentatie en support, niet de propriëtaire broncode.
+De openbare repository bevat documentatie en support, niet de propriëtaire broncode.
 
 ## Documentation
 

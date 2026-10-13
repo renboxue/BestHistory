@@ -35,7 +35,7 @@ New BestHistory accounts receive a **30-day Pro Trial** before paid access is re
 
 ## Install
 
-Sobald v1.0.0 im Chrome Web Store verfügbar ist, installiere sie dort. Das öffentliche Repository enthält Dokumentation und Support, nicht den proprietären Quellcode.
+Das öffentliche Repository enthält Dokumentation und Support, nicht den proprietären Quellcode.
 
 ## Documentation
 

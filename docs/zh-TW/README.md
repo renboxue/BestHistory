@@ -35,7 +35,7 @@ New BestHistory accounts receive a **30-day Pro Trial** before paid access is re
 
 ## Install
 
-v1.0.0 在 Chrome Web Store 上線後，請從商店安裝。此公開倉庫用於產品文件、官網與支援，不公開 BestHistory 應用程式原始碼。
+此公開倉庫用於產品文件、官網與支援，不公開 BestHistory 應用程式原始碼。
 
 ## Documentation
 
