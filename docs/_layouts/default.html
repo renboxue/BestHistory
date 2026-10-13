@@ -9,8 +9,10 @@
   <link rel="alternate" hreflang="zh-CN" href="{{ site.url }}/zh-CN/">
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/">
   {% elsif page.seo_pair %}
-  <link rel="alternate" hreflang="en" href="{{ site.url }}/en/guides/{{ page.seo_pair }}/">
-  <link rel="alternate" hreflang="zh-CN" href="{{ site.url }}/zh-CN/guides/{{ page.seo_pair }}/">
+  {% assign seo_pair_languages = 'en,zh-CN,ja,fr,de,es,pt,ko' | split: ',' %}
+  {% for seo_language in seo_pair_languages %}
+  <link rel="alternate" hreflang="{{ seo_language }}" href="{{ site.url }}/{{ seo_language }}/guides/{{ page.seo_pair }}/">
+  {% endfor %}
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/guides/{{ page.seo_pair }}/">
   {% endif %}
   {% if page.url == '/' %}
@@ -94,7 +96,9 @@
   <nav id="bh-locales" class="bh-locales" aria-label="{{ seo_ui.lang }}">
     {% assign seo_languages = 'en,zh-CN,es,ja,de,fr,pt,ko' | split: ',' %}
     {% for seo_language in seo_languages %}
-      {% if page.seo_group %}
+      {% if page.seo_pair %}
+        {% assign locale_href = '/' | append: seo_language | append: '/guides/' | append: page.seo_pair | append: '/' %}
+      {% elsif page.seo_group %}
         {% assign locale_href = '/' | append: seo_language | append: '/guides/' | append: page.seo_group | append: '/' %}
       {% else %}
         {% assign locale_href = '/' | append: seo_language | append: '/guides/' %}
@@ -103,11 +107,12 @@
     {% endfor %}
   </nav>
   {% else %}
-  {% if page.seo_group == 'find-website-you-visited-before' or page.seo_group == 'search-old-chrome-history' %}
+  {% if page.seo_pair or page.seo_group == 'find-website-you-visited-before' or page.seo_group == 'search-old-chrome-history' %}
   <nav class="bh-locales" aria-label="Article translations">
     {% assign seo_languages = 'en,zh-CN,es,ja,de,fr,pt,ko' | split: ',' %}
     {% for seo_language in seo_languages %}
-      <a href="/{{ seo_language }}/guides/{{ page.seo_group }}/"{% if page.lang == seo_language %} aria-current="page"{% endif %}>{% case seo_language %}{% when 'zh-CN' %}简体中文{% when 'es' %}Español{% when 'ja' %}日本語{% when 'de' %}Deutsch{% when 'fr' %}Français{% when 'pt' %}Português{% when 'ko' %}한국어{% else %}English{% endcase %}</a>
+      {% assign article_group = page.seo_pair | default: page.seo_group %}
+      <a href="/{{ seo_language }}/guides/{{ article_group }}/"{% if page.lang == seo_language %} aria-current="page"{% endif %}>{% case seo_language %}{% when 'zh-CN' %}简体中文{% when 'es' %}Español{% when 'ja' %}日本語{% when 'de' %}Deutsch{% when 'fr' %}Français{% when 'pt' %}Português{% when 'ko' %}한국어{% else %}English{% endcase %}</a>
     {% endfor %}
   </nav>
   {% endif %}
