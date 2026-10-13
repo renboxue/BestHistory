@@ -35,7 +35,7 @@ New BestHistory accounts receive a **30-day Pro Trial** before paid access is re
 
 ## Install
 
-v1.0.0이 Chrome Web Store에 공개되면 스토어에서 설치하세요. 공개 저장소는 제품 문서와 지원용이며 앱 소스 코드는 공개하지 않습니다.
+공개 저장소는 제품 문서와 지원용이며 앱 소스 코드는 공개하지 않습니다.
 
 ## Documentation
 
