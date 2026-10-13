@@ -32,7 +32,9 @@ Use the feature only when preserving those visits is what you actually want.
 
 The idea is simple: some history is useful enough that you do not want to forget it, but private enough that you do not want it sitting beside ordinary browsing history.
 
-For more details, read the [BestHistory privacy notice](../PRIVACY.md) and [BestHistory README](https://github.com/renboxue/BestHistory#readme).
+For password-protected records from ordinary or incognito browsing, see [the encrypted private browsing history guide](/en/guides/encrypted-private-browser-history/). BestHistory does not make browsing anonymous or automatically remove entries from Chrome's own history.
+
+For more details, read the [BestHistory privacy notice](/privacy/) and [BestHistory README](https://github.com/renboxue/BestHistory#readme).
 
 
 **Install BestHistory:** [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/).

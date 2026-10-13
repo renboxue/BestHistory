@@ -4,6 +4,38 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
+  {% if page.url == '/' or page.url == '/zh-CN/' %}
+  <link rel="alternate" hreflang="en" href="{{ site.url }}/">
+  <link rel="alternate" hreflang="zh-CN" href="{{ site.url }}/zh-CN/">
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/">
+  {% elsif page.seo_pair %}
+  <link rel="alternate" hreflang="en" href="{{ site.url }}/en/guides/{{ page.seo_pair }}/">
+  <link rel="alternate" hreflang="zh-CN" href="{{ site.url }}/zh-CN/guides/{{ page.seo_pair }}/">
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/guides/{{ page.seo_pair }}/">
+  {% endif %}
+  {% if page.url == '/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "@id": "https://besthistory.boxuezhiban.cn/#software",
+    "name": "BestHistory",
+    "url": "https://besthistory.boxuezhiban.cn/",
+    "description": "Website-first browser history manager to find visited websites after closing tabs, with optional locally encrypted Private Mode.",
+    "applicationCategory": "BrowserApplication",
+    "image": "https://raw.githubusercontent.com/renboxue/BestHistory/main/assets/screenshots/home.webp",
+    "publisher": {"@type": "Organization", "name": "Zhiban"},
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD",
+      "description": "Free core browser history tools; optional paid Pro features"
+    },
+    "installUrl": "https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb",
+    "featureList": ["Website-first browsing history", "History search with tags and notes", "Locally encrypted private history in Pro", "Optional incognito history recording with user permission"]
+  }
+  </script>
+  {% endif %}
   {% if page.seo_group == 'find-website-you-visited-before' or page.seo_group == 'search-old-chrome-history' %}
   {% assign seo_languages = 'en,zh-CN,es,ja,de,fr,pt,ko' | split: ',' %}
   {% for seo_language in seo_languages %}
