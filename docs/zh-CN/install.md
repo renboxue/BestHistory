@@ -1,23 +1,23 @@
 ---
 locale_section: install
 layout: default
-title: 安装 BestHistory v1.0.0
-description: BestHistory v1.0.0 简体中文安装说明，包括 GitHub 手动安装、开发者模式、Chrome Web Store、无痕模式授权和更新方式。
+title: 安装 BestHistory（Chrome / Firefox）
+description: 从 Chrome Web Store 或 Firefox Add-ons 安装 BestHistory，附 GitHub 手动安装、Chrome 无痕权限和备份说明。
 permalink: /zh-CN/install/
 lang: zh-CN
 ---
 
 <div class="bh-doc-page" markdown="1">
 
-# 安装 BestHistory v1.0.0
+# 安装 BestHistory
 
-BestHistory v1.0.0 已在 **Chrome Web Store** 和 **Firefox Add-ons** 上架。普通用户推荐从官方商店安装，后续版本由浏览器自动更新。
+**BestHistory 已在 Chrome Web Store 和 Firefox Add-ons 上架。** 普通用户推荐直接从官方商店安装，无需解压 ZIP，后续版本由浏览器自动更新。
 
 <div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">Chrome 商店安装</a><a class="bh-btn bh-btn-secondary" href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">Firefox 商店安装</a></div>
 
 <div class="bh-install-box" markdown="1">
 
-## 备用方式：从 GitHub 手动安装 v1.0.0
+## 备用方式：从 GitHub Releases 手动安装
 
 1. 打开 [BestHistory v1.0.0 GitHub Release](https://github.com/renboxue/BestHistory/releases/tag/v1.0.0)。
 2. 下载 `BestHistory-v1.0.0-chrome.zip`。

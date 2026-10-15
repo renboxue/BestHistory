@@ -10,7 +10,7 @@ No installation or account required. Fictional browsing history; AI Recall and P
 
 <p align="center">[简体中文](../../README.md) · [繁體中文](../zh-TW/README.md) · English · [日本語](../ja/README.md) · [한국어](../ko/README.md) · [Español](../es/README.md) · [Português](../pt/README.md) · [Français](../fr/README.md) · [Deutsch](../de/README.md) · [Italiano](../it/README.md) · [Nederlands](../nl/README.md) · [Русский](../ru/README.md) · [العربية](../ar/README.md) · [हिन्दी](../hi/README.md) · [Bahasa Indonesia](../id/README.md) · [Türkçe](../tr/README.md) · [বাংলা](../bn/README.md) · [Tiếng Việt](../vi/README.md)</p>
 
-> **v1.0.0** — BestHistory is available on the Chrome Web Store and Firefox Add-ons.
+> **Install from the Chrome Web Store or Firefox Add-ons.** Actual store versions may differ from the latest source code release.
 
 BestHistory is a **Best Series** product by **Zhiban (博学智伴)**. It is a privacy-first Chrome / Chromium browser history manager that groups history by website first, then lets you search, tag, annotate, pin, privately store, back up, and rediscover sites you used before.
 
@@ -18,7 +18,7 @@ BestHistory is a **Best Series** product by **Zhiban (博学智伴)**. It is a p
   <img src="../../assets/screenshots/home.webp" alt="BestHistory" width="100%" />
 </p>
 
-## v1.0.0
+## Features
 
 - Website-first history instead of a wall of page entries
 - Search across domains, page titles, tags and your own notes
@@ -43,7 +43,7 @@ New BestHistory accounts receive a **30-day Pro Trial** before paid access is re
 
 Install from [Chrome Web Store](https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb) or [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/besthistory/) for automatic browser-managed updates. Manual packages and instructions are available from the [official installation guide](https://besthistory.boxuezhiban.cn/en/install/).
 
-The public repository contains product documentation and support materials, not the proprietary application source code.
+**BestHistory is open source under [AGPL-3.0-only](../../LICENSE).** This repository includes the real Chrome/Firefox extension, Supabase Edge Functions and database migrations. See [build instructions](../../DEVELOPMENT.md) and [self-hosting setup](../../OPEN_SOURCE_SETUP.md). Official AI, Pro and payment services are operated separately.
 
 ## Zhiban Community
 

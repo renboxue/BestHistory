@@ -1,23 +1,23 @@
 ---
 locale_section: install
 layout: default
-title: Install BestHistory v1.0.0
-description: BestHistory v1.0.0 installation guide for GitHub manual installation, Developer Mode, Chrome Web Store, incognito permission, and updates.
+title: Install BestHistory for Chrome and Firefox
+description: Install BestHistory from Chrome Web Store or Firefox Add-ons. Optional manual install, Chrome incognito permission and local backup instructions.
 permalink: /en/install/
 lang: en
 ---
 
 <div class="bh-doc-page" markdown="1">
 
-# Install BestHistory v1.0.0
+# Install BestHistory
 
-BestHistory v1.0.0 is available from the **Chrome Web Store** and **Firefox Add-ons**. Official browser stores are the recommended installation path for automatic updates.
+**Install BestHistory directly from the Chrome Web Store or Firefox Add-ons.** Official store builds receive browser-managed updates, with no manual ZIP installation required.
 
 <div class="bh-actions bh-actions-center"><a class="bh-btn bh-btn-primary" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">Add to Chrome</a><a class="bh-btn bh-btn-secondary" href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">Get for Firefox</a></div>
 
 <div class="bh-install-box" markdown="1">
 
-## Alternative: install v1.0.0 manually from GitHub
+## Alternative: manually install from GitHub Releases
 
 1. Open [BestHistory v1.0.0 on GitHub Releases](https://github.com/renboxue/BestHistory/releases/tag/v1.0.0).
 2. Download `BestHistory-v1.0.0-chrome.zip`.

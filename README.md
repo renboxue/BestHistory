@@ -12,6 +12,7 @@ Update and append to it; do not replace it wholesale with a short product-spec R
 </p>
 
 <p align="center"><strong>把浏览历史变成真正能重新找回的网站工具箱。</strong></p>
+<p align="center">Find websites you forgot. Organize your browser history by website, search old pages, and keep selected history private. <a href="docs/en/README.md">Read in English →</a></p>
 
 <!-- BESTHISTORY_SEO_STEP27_SUMMARY_START -->
 <p align="center">BestHistory 是一款面向 Chrome / Chromium 的隐私优先浏览历史管理器：它可以搜索旧的浏览记录、找回曾经访问过但已经忘记名称的网站，并按照网站、标签和备注重新组织历史数据。</p>
