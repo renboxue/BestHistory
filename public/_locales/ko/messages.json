@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "BestHistory"
+  },
+  "extDescription": {
+    "message": "브라우저 방문 기록을 비공개로 관리되는 검색 가능한 웹사이트 라이브러리로 바꿉니다."
+  },
+  "extActionTitle": {
+    "message": "BestHistory 열기"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "BestHistory"
+  },
+  "extDescription": {
+    "message": "Biến lịch sử trình duyệt thành thư viện trang web riêng tư, có thể tìm kiếm."
+  },
+  "extActionTitle": {
+    "message": "Mở BestHistory"
+  }
+}

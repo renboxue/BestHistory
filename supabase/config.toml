@@ -1,0 +1,4 @@
+# Public self-host starter configuration. This file contains no secrets.
+project_id = "besthistory-selfhost"
+# Function verify_jwt behavior must be reviewed per endpoint before self-host production.
+# Do not globally disable verify_jwt. Public webhook functions verify provider signatures.

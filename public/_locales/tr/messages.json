@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "BestHistory"
+  },
+  "extDescription": {
+    "message": "Tarayıcı geçmişinizi özel ve aranabilir bir web sitesi kitaplığına dönüştürün."
+  },
+  "extActionTitle": {
+    "message": "BestHistory’yi aç"
+  }
+}

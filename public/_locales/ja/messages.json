@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "BestHistory"
+  },
+  "extDescription": {
+    "message": "閲覧履歴を、プライベートで検索できるウェブサイトライブラリに変えます。"
+  },
+  "extActionTitle": {
+    "message": "BestHistory を開く"
+  }
+}

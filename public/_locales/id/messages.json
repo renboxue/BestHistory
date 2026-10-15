@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "BestHistory"
+  },
+  "extDescription": {
+    "message": "Ubah riwayat browser menjadi pustaka situs web pribadi yang dapat dicari."
+  },
+  "extActionTitle": {
+    "message": "Buka BestHistory"
+  }
+}

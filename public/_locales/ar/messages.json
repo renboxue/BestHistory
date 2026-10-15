@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "BestHistory"
+  },
+  "extDescription": {
+    "message": "حوّل سجل التصفح إلى مكتبة مواقع خاصة وقابلة للبحث."
+  },
+  "extActionTitle": {
+    "message": "فتح BestHistory"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "BestHistory"
+  },
+  "extDescription": {
+    "message": "把瀏覽記錄變成私密、可搜尋的網站資料庫。"
+  },
+  "extActionTitle": {
+    "message": "開啟 BestHistory"
+  }
+}

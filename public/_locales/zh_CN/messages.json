@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "BestHistory"
+  },
+  "extDescription": {
+    "message": "将浏览历史变成私密、可搜索的网站资料库。"
+  },
+  "extActionTitle": {
+    "message": "打开 BestHistory"
+  }
+}

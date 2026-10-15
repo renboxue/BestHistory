@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "BestHistory"
+  },
+  "extDescription": {
+    "message": "ব্রাউজারের ইতিহাসকে ব্যক্তিগত ও অনুসন্ধানযোগ্য ওয়েবসাইট লাইব্রেরিতে রূপান্তর করুন।"
+  },
+  "extActionTitle": {
+    "message": "BestHistory খুলুন"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "besthistory",
+  "description": "A private, local-first browser history organizer.",
+  "private": true,
+  "version": "1.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "wxt",
+    "dev:firefox": "wxt -b firefox --mv3",
+    "build": "wxt build",
+    "build:firefox": "wxt build -b firefox --mv3",
+    "zip": "wxt zip",
+    "zip:firefox": "node scripts/build-firefox-release.mjs",
+    "compile": "tsc --noEmit",
+    "postinstall": "wxt prepare",
+    "release:preflight": "node scripts/release-preflight.mjs",
+    "release:check": "pnpm compile && pnpm build && pnpm release:preflight",
+    "build:chrome-web-store": "wxt build",
+    "zip:chrome-web-store": "node scripts/build-chrome-webstore-release.mjs",
+    "release:i18n-audit": "node scripts/i18n-v110-audit.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "@supabase/supabase-js": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@wxt-dev/module-react": "^1.1.5",
+    "typescript": "^5.9.3",
+    "web-ext": "^10.5.0",
+    "wxt": "^0.21.3"
+  }
+}

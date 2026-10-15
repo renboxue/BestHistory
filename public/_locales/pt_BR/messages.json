@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "BestHistory"
+  },
+  "extDescription": {
+    "message": "Transforme o histórico de navegação em uma biblioteca privada e pesquisável de sites."
+  },
+  "extActionTitle": {
+    "message": "Abrir BestHistory"
+  }
+}

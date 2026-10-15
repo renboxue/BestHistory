@@ -48,6 +48,9 @@ Update and append to it; do not replace it wholesale with a short product-spec R
 </p>
 
 
+<!-- BH_O5_SOURCE_RELEASE_CTA -->
+<p align="center"><strong>Open Source · AGPL-3.0-only</strong> · <a href="DEVELOPMENT.md">Source &amp; build</a> · <a href="LICENSE">License</a> · <a href="https://github.com/renboxue/BestHistory/stargazers">★ Star BestHistory</a></p>
+
 <!-- BH_D2_PUBLIC_DEMO_LINK -->
 <p align="center">
   <a href="https://besthistory.boxuezhiban.cn/demo/"><strong>▶ 在线体验 BestHistory · Try the Interactive Demo</strong></a><br>
@@ -426,7 +429,7 @@ BestHistory 主要解决的不是“把 Chrome 历史记录换个皮肤”，而
 
 这个 GitHub 仓库用于产品介绍、正式版本发布、使用文档、隐私与安全说明，以及 Issue 与用户反馈。
 
-**BestHistory 应用源码目前为非开源专有代码，不会在这个公开仓库中发布。**
+**BestHistory v1.1.0 的正式浏览器插件源码现已按 [AGPL-3.0-only](LICENSE) 开源。** 本仓库包含实际 Chrome/Firefox 应用、Supabase Edge Functions 与数据库迁移，而不是官网 Demo 的模拟代码。见 [源码构建说明](DEVELOPMENT.md)、[Supabase 自部署说明](OPEN_SOURCE_SETUP.md) 和 [品牌使用约定](TRADEMARKS.md)。自行构建版本默认不会连接 BestHistory 官方后端；官方 Pro、AI 及商店更新服务仍由 BestHistory 运营。
 
 ---
 

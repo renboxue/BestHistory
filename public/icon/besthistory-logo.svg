@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="110" y1="90" x2="930" y2="940" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F8CFF"/>
+      <stop offset="0.48" stop-color="#425CFF"/>
+      <stop offset="1" stop-color="#7844F5"/>
+    </linearGradient>
+  </defs>
+  <rect x="28" y="28" width="968" height="968" rx="226" fill="url(#bg)"/>
+  <path d="M512 178 L606 373 L821 402 L666 552 L704 763 L512 663 L320 763 L358 552 L203 402 L418 373 Z"
+        stroke="#FFFFFF" stroke-width="66" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="512" y="608" text-anchor="middle" fill="#FFFFFF"
+        font-family="Arial, Helvetica, sans-serif" font-size="238" font-weight="700" letter-spacing="-18">BH</text>
+</svg>

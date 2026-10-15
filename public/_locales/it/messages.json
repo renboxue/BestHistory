@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "BestHistory"
+  },
+  "extDescription": {
+    "message": "Trasforma la cronologia di navigazione in una raccolta privata e ricercabile di siti web."
+  },
+  "extActionTitle": {
+    "message": "Apri BestHistory"
+  }
+}

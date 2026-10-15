@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "BestHistory"
+  },
+  "extDescription": {
+    "message": "Turn browser history into a private, searchable website library."
+  },
+  "extActionTitle": {
+    "message": "Open BestHistory"
+  }
+}

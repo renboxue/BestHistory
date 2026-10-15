@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "BestHistory"
+  },
+  "extDescription": {
+    "message": "Превратите историю браузера в приватную библиотеку сайтов с поиском."
+  },
+  "extActionTitle": {
+    "message": "Открыть BestHistory"
+  }
+}
