@@ -47,6 +47,13 @@ Update and append to it; do not replace it wholesale with a short product-spec R
   <a href="docs/LANGUAGES.md">18 种语言文档</a>
 </p>
 
+
+<!-- BH_D2_PUBLIC_DEMO_LINK -->
+<p align="center">
+  <a href="https://besthistory.boxuezhiban.cn/demo/"><strong>▶ 在线体验 BestHistory · Try the Interactive Demo</strong></a><br>
+  <sub>无需安装或登录，使用虚构浏览记录。AI Recall 和私人保险箱为模拟演示，不读取真实浏览历史。</sub>
+</p>
+
 ---
 
 ## 写在前面：为什么会有 BestHistory

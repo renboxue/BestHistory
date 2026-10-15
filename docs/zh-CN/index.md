@@ -15,6 +15,7 @@ lang: zh-CN
     <a class="bh-btn bh-btn-primary" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">Chrome 商店安装</a>
     <a class="bh-btn bh-btn-secondary" href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">Firefox 商店安装</a>
     <a class="bh-btn bh-btn-secondary" href="/zh-CN/install/">查看安装说明</a>
+  <a class="bh-btn bh-btn-secondary" href="/demo/">在线体验 Demo →</a>
   </div>
   <p class="bh-trust">本地优先 · 支持 18 种界面语言 · 私密模式本机加密 · 新账户 30 天 Pro 试用 · Chrome / Firefox 商店均已上架</p>
 </div>

@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en" data-demo-version="BH_D1_R3_20261015">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#101a2d">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://besthistory.boxuezhiban.cn/demo/">
+  <meta name="description" content="Try a safe, interactive BestHistory browser history demo with fictional sample data. Find forgotten websites without installing anything.">
+  <title>Try BestHistory — Interactive Demo</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="/" aria-label="BestHistory homepage"><span class="brand-mark">BH<span class="brand-star">✦</span></span><span><strong>BestHistory</strong><small>INTERACTIVE DEMO</small></span></a>
+      <nav class="nav" aria-label="Demo views">
+        <button class="nav-item active" data-view="websites" aria-current="page"><span aria-hidden="true">▦</span> My websites</button>
+        <button class="nav-item" data-view="timeline"><span aria-hidden="true">◷</span> Timeline</button>
+        <button class="nav-item private-mode" id="private-mode-toggle" type="button"><span id="private-mode-icon" aria-hidden="true">◇</span><span class="nav-copy">Private Mode<small id="private-mode-state">Locked · Pro in extension</small></span></button>
+        <button id="simulate-locked-visit" class="simulate-locked hidden" type="button">↳ Simulate an incognito visit</button>
+      </nav>
+      <div class="sidebar-separator"></div>
+      <p class="side-kicker">WHAT YOU CAN TRY</p>
+      <p class="side-copy">Search past pages, browse by website, add notes and tags, and try the built-in Private Mode with a password and its website filter.</p>
+      <div class="sidebar-bottom">
+        <div class="privacy-note"><span class="green-dot"></span><strong>100% sample history</strong><p>This site never reads your browser history. No account, permissions, or API keys needed.</p></div>
+        <a class="sidebar-link" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">Install for Chrome <span aria-hidden="true">↗</span></a>
+      </div>
+    </aside>
+
+    <main class="main">
+      <div class="private-mode-banner hidden" id="private-mode-banner"><span>🔒 Private mode is unlocked · Private sites are visible in this browser-history view <small>DEMO ONLY</small></span><button id="private-lock" type="button">Lock now</button></div>
+      <div class="banner" role="status"><span class="banner-dot"></span><strong>Demo mode</strong> — fictional browsing data, stored only in this open page. AI responses and private-mode behavior are scripted previews of the installed extension. <button id="reset-demo" type="button">Reset demo</button></div>
+      <section id="websites-view" class="view">
+        <div class="page-head"><div><div class="eyebrow">YOUR BROWSING MEMORY, ORGANIZED</div><h1>Find the sites you forgot.</h1><p>Explore a sample history organized by website — not an endless list of clicks.</p></div><a class="primary-cta desktop-cta" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">Add to Chrome <span aria-hidden="true">↗</span></a></div>
+        <div class="search-modes" role="group" aria-label="Search tools"><button class="mode-button active" id="traditional-search-btn" type="button" aria-label="Focus traditional keyword search">Traditional search</button><button class="mode-button recall-launch" id="open-ai-recall" type="button" aria-haspopup="dialog" aria-controls="ai-modal">✦ Open AI Recall <span>· Demo</span></button></div>
+        <label class="main-search" for="search-input"><span aria-hidden="true">⌕</span><input id="search-input" type="search" placeholder="Search websites, page titles, notes, or tags…" autocomplete="off"><kbd>/</kbd></label>
+        <div class="stats" id="stats"></div>
+        <div class="content-card"><div class="content-heading"><div><h2>My websites <span id="result-count"></span></h2><p>Click a website to see its pages, history, tags, and notes.</p></div><select id="sort-select" aria-label="Sort websites"><option value="recent">Recently visited</option><option value="frequent">Most visited</option><option value="az">Name A–Z</option></select></div><div id="site-view-filters" class="site-view-filters" role="group" aria-label="Website views"><button data-site-view="recent" class="active">Recent</button><button data-site-view="frequent">Frequent</button><button data-site-view="all">All</button><button data-site-view="pinned">Pinned</button><button data-site-view="unorganized">Unorganized</button><button data-site-view="hidden">Hidden</button><button data-site-view="private" id="private-filter" class="hidden">🔒 Private Sites</button></div><div id="tag-filters" class="tags" aria-label="Filter by tag"></div><div id="private-filter-help" class="private-filter-help hidden"><strong>🔒 Private Sites</strong><span>These fictional records represent visits stored in the installed extension’s encrypted vault. This webpage does not encrypt or collect anything.</span><button id="simulate-incognito" type="button">Simulate incognito visit</button></div><div id="site-grid" class="site-grid" aria-live="polite"></div><p class="empty hidden" id="empty-sites">No matching websites. Try a different word or clear your tag filter.</p></div>
+      </section>
+
+      <section id="timeline-view" class="view hidden">
+        <div class="page-head"><div><div class="eyebrow">RETRACE YOUR STEPS</div><h1>A timeline of your browsing.</h1><p>Find where you were yesterday, last week, or earlier — with sample visits.</p></div></div>
+        <div class="content-card"><div class="content-heading"><div><h2>Browsing timeline</h2><p>These dates and visits are generated for demonstration.</p></div><select id="timeline-filter" aria-label="Filter timeline"><option value="all">All time</option><option value="7">Last 7 days</option><option value="30">Last 30 days</option></select></div><div class="timeline-list" id="timeline-list"></div></div>
+      </section>
+
+      <footer><span>BestHistory Interactive Demo · Fictional data, simulated vault · No access to your browsing history</span><div><a href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">Firefox Add-ons ↗</a> <a href="/">Official website ↗</a></div></footer>
+    </main>
+  </div>
+  <div class="overlay hidden" id="details-overlay"><div class="overlay-backdrop" data-close="true"></div><section class="detail-panel" role="dialog" aria-modal="true" aria-label="Website details" tabindex="-1"><button class="close" id="close-details" type="button" aria-label="Close website details">×</button><div id="details-body"></div></section></div>
+  <div class="modal-screen hidden" id="vault-modal" role="presentation">
+    <div class="modal-backdrop" data-modal-close="vault"></div><section class="vault-dialog" id="vault-dialog" role="dialog" aria-modal="true" aria-labelledby="vault-modal-title"></section>
+  </div>
+  <div class="modal-screen hidden" id="ai-modal" role="presentation">
+    <div class="modal-backdrop" data-modal-close="ai"></div><section class="ai-dialog" role="dialog" aria-modal="true" aria-labelledby="ai-modal-title">
+      <button class="modal-close" data-modal-close="ai" aria-label="Close AI Recall" type="button">×</button>
+      <div class="ai-heading"><span class="ai-spark">✦</span><div><small>BESTHISTORY PRO AI · SCRIPTED DEMO</small><h2 id="ai-modal-title">AI Recall</h2><p>Describe what you remember. In the installed extension, AI suggests clues and BestHistory verifies them against your local history.</p></div></div>
+      <div class="simulated-note">This demo replays one pre-written answer for the memory below. No AI call or real history access. Free-form AI queries are unavailable in this preview.</div>
+      <label class="ai-modal-label" for="ai-text">Example memory (pre-filled for this demo)</label>
+      <textarea id="ai-text" rows="3" readonly aria-readonly="true"></textarea>
+      <div class="ai-modal-actions"><span class="ai-replay-hint">One scripted example · no live AI queries</span><button class="main-btn" id="ai-run" type="button">↻ Replay example</button></div>
+      <p class="ai-privacy-note">🔒 Scripted demonstration. Nothing is sent to a server.</p>
+      <div class="ai-thinking hidden" id="ai-thinking" role="status"><div class="ai-spinner"></div><div><strong>Simulating AI Recall…</strong><p>Interpreting a vague memory → finding clues → matching fictional records</p><div class="thinking-dots"><i></i><i></i><i></i></div></div></div>
+      <div id="ai-results" class="ai-results" aria-live="polite"></div>
+    </section>
+  </div>
+  <div id="toast" role="status" aria-live="polite" class="toast hidden"></div>
+  <script src="./data.js" defer></script>
+  <script src="./app.js" defer></script>
+</body>
+</html>

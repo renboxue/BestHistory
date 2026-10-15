@@ -14,6 +14,7 @@ description: Too many Chrome tabs? Find visited websites after closing them with
     <a class="bh-btn bh-btn-primary" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">Add to Chrome</a>
     <a class="bh-btn bh-btn-secondary" href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">Get for Firefox</a>
     <a class="bh-btn bh-btn-secondary" href="/en/install/">Installation guide</a>
+  <a class="bh-btn bh-btn-secondary" href="/demo/">Try Interactive Demo →</a>
   </div>
   <p class="bh-trust">Local-first · 18 interface languages · Private Mode encrypted on your device · 30-day Pro Trial · Available on Chrome and Firefox</p>
 </div>

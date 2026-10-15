@@ -1,5 +1,9 @@
 # BestHistory
 
+<!-- BH_D2_EN_DEMO_LINK -->
+**[▶ Try BestHistory in your browser — Interactive Demo](https://besthistory.boxuezhiban.cn/demo/)**
+No installation or account required. Fictional browsing history; AI Recall and Private Mode are simulated demonstrations, not real AI or encryption.
+
 <p align="center"><strong>Find websites you've forgotten.</strong></p>
 
 <p align="center"><strong><a href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb">Add to Chrome</a> · <a href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/">Get for Firefox</a></strong> · <a href="https://besthistory.boxuezhiban.cn/">Official website</a> · <a href="https://besthistory.boxuezhiban.cn/en/install/">Install BestHistory</a> · <a href="https://besthistory.boxuezhiban.cn/en/guides/">Browser history guides</a> · <a href="https://discord.gg/QRHNKweYqS">Join Discord</a></p>
