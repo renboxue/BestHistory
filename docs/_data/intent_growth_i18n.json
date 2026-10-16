@@ -1,0 +1,92 @@
+{
+  "en": {
+    "vault": "Keep selected private sites in BestHistory Pro's locally encrypted, password-protected vault. Lock it after viewing. This does not erase Chrome's own history, synced copies, or network logs.",
+    "incognito": "In Chrome, open chrome://extensions, select BestHistory → Details, and explicitly allow it in incognito before using optional Pro recording. Previously unrecorded visits cannot be recovered. Firefox does not support automatic private-window recording.",
+    "tabs": "Keep tabs for work in progress; use bookmarks or a session manager for exact pages and full sessions. For sites you just fear forgetting, confirm the visit exists, add a BestHistory tag or note, then close the tab. Deleted history cannot be restored."
+  },
+  "zh-CN": {
+    "vault": "把不希望出现在日常网站列表、却想以后再查看的记录放入 BestHistory Pro 私人保险箱。设置密码并在查看后锁定；保险箱不会自动清除 Chrome 自带历史、同步备份或网络记录。",
+    "incognito": "在 Chrome 打开 chrome://extensions，进入 BestHistory 详情，主动允许扩展在无痕模式运行，再提前启用相应 Pro 记录功能。没有事先记录的无痕访问无法事后恢复；Firefox 版不支持自动记录隐私窗口。",
+    "tabs": "正在工作的标签继续打开；要精确恢复整组标签请使用会话管理工具；只是怕忘记网站时，先确认浏览历史中有该记录，给它加标签或备注，再关闭。BestHistory 不能恢复被删除的历史或未保存的表单。"
+  },
+  "zh-TW": {
+    "vault": "將有用卻不想放在日常網站清單的造訪紀錄放入 BestHistory Pro 私人保險箱。設定密碼並於查看後鎖定；保險箱不會自動清除 Chrome 原有的歷史、同步備份或網路紀錄。",
+    "incognito": "在 Chrome 開啟 chrome://extensions，進入 BestHistory 詳細資訊，主動允許無痕模式執行，再預先開啟相關 Pro 記錄功能。未曾記錄的無痕造訪無法事後復原；Firefox 版不支援自動記錄隱私視窗。",
+    "tabs": "工作中的分頁繼續保留；需要原樣恢復完整工作階段請使用工作階段管理工具；只是怕忘記網站時，先確認瀏覽紀錄存在，再加標籤或備註後關閉。BestHistory 無法還原已刪除的紀錄或未儲存的表單。"
+  },
+  "ja": {
+    "vault": "普段の一覧には表示したくないサイトを、BestHistory Pro のパスワード付きプライベート保管庫に暗号化して保存できます。確認後は再びロックしてください。Chrome 本体の履歴や同期バックアップ、ネットワーク記録までは消えません。",
+    "incognito": "Chrome で chrome://extensions を開き、BestHistory の詳細からシークレットモードでの実行を自分で許可し、事前に該当する Pro 機能を有効にします。記録されなかった訪問は後から復元できず、Firefox 版ではプライベートウィンドウを自動記録できません。",
+    "tabs": "進行中の作業タブは残し、完全なセッションの保存にはセッション管理ツールを使います。忘れたくないだけのサイトは履歴に存在することを確認し、BestHistory にタグやメモを付けてから閉じましょう。削除された履歴や未保存のフォームは戻せません。"
+  },
+  "fr": {
+    "vault": "Conservez certains sites utiles mais personnels dans le coffre chiffré et protégé par mot de passe de BestHistory Pro. Verrouillez-le après utilisation. Il n'efface pas l'historique propre à Chrome, les copies synchronisées ni les journaux réseau.",
+    "incognito": "Dans Chrome, ouvrez chrome://extensions, puis les détails de BestHistory, et autorisez explicitement le mode navigation privée avant d'activer la fonction Pro correspondante. Les visites jamais enregistrées ne peuvent pas être récupérées. Firefox n'offre pas la capture automatique des fenêtres privées.",
+    "tabs": "Gardez les onglets de travail actif. Pour restaurer des pages exactes ou une session entière, utilisez des favoris ou un gestionnaire de sessions. Pour un site à ne pas oublier, vérifiez qu'il figure dans l'historique, ajoutez une note BestHistory, puis fermez l'onglet. Les données supprimées ne sont pas récupérables."
+  },
+  "de": {
+    "vault": "Speichern Sie ausgewählte private Websites im lokal verschlüsselten, passwortgeschützten Tresor von BestHistory Pro und sperren Sie ihn danach wieder. Der Tresor löscht nicht automatisch Chromes eigenen Verlauf, synchronisierte Kopien oder Netzwerkprotokolle.",
+    "incognito": "Öffnen Sie in Chrome chrome://extensions, erlauben Sie BestHistory unter Details ausdrücklich die Ausführung im Inkognitomodus und aktivieren Sie die passende Pro-Funktion vor dem Besuch. Nicht aufgezeichnete Besuche lassen sich später nicht wiederherstellen. Firefox unterstützt keine automatische Erfassung privater Fenster.",
+    "tabs": "Lassen Sie Tabs für laufende Arbeit offen; für vollständige Sitzungen verwenden Sie einen Sitzungsmanager. Wenn Sie eine Website nur nicht vergessen möchten, prüfen Sie ihren Verlaufseintrag, ergänzen Sie ein BestHistory-Tag oder eine Notiz und schließen Sie den Tab. Gelöschte Verläufe oder ungespeicherte Formulare bleiben verloren."
+  },
+  "es": {
+    "vault": "Guarda los sitios personales que quieres recordar en la bóveda cifrada y protegida por contraseña de BestHistory Pro. Vuelve a bloquearla tras consultarlos. La bóveda no borra por sí sola el historial de Chrome, las copias sincronizadas ni los registros de red.",
+    "incognito": "En Chrome, abre chrome://extensions, entra en los detalles de BestHistory y permite expresamente que funcione en incógnito antes de activar la función Pro correspondiente. Las visitas nunca registradas no pueden recuperarse. Firefox no dispone de captura automática de ventanas privadas.",
+    "tabs": "Mantén las pestañas del trabajo actual; para recuperar toda una sesión usa un gestor de sesiones. Si solo temes olvidar un sitio, confirma que aparece en el historial, añade una etiqueta o nota en BestHistory y cierra la pestaña. No se recuperan historiales borrados ni formularios sin guardar."
+  },
+  "pt": {
+    "vault": "Guarde sites pessoais que deseja lembrar no cofre localmente criptografado e protegido por senha do BestHistory Pro. Bloqueie-o após consultar. Ele não apaga automaticamente o histórico do Chrome, cópias sincronizadas nem registros da rede.",
+    "incognito": "No Chrome, abra chrome://extensions, entre nos detalhes do BestHistory e permita explicitamente sua execução no modo anônimo antes de ativar o recurso Pro correspondente. Visitas nunca registradas não podem ser recuperadas. A versão Firefox não faz captura automática de janelas privadas.",
+    "tabs": "Mantenha abas de trabalho abertas; para recuperar uma sessão completa, use um gerenciador de sessões. Se só tem medo de esquecer um site, confirme que está no histórico, adicione uma nota ou etiqueta no BestHistory e feche a aba. Histórico apagado e formulários não salvos não são recuperados."
+  },
+  "ko": {
+    "vault": "평소 목록에 보이고 싶지 않은 유용한 사이트는 BestHistory Pro의 비밀번호 보호·로컬 암호화 보관함에 넣고 확인 후 다시 잠그세요. 이 기능이 Chrome 자체 방문 기록, 동기화 사본 또는 네트워크 로그까지 지우지는 않습니다.",
+    "incognito": "Chrome에서 chrome://extensions를 열고 BestHistory 세부정보에서 시크릿 모드 실행을 직접 허용한 뒤 방문 전에 관련 Pro 기능을 켜세요. 기록되지 않은 방문은 나중에 복구할 수 없습니다. Firefox는 비공개 창 자동 기록을 지원하지 않습니다.",
+    "tabs": "현재 작업 중인 탭은 유지하고 전체 세션을 저장하려면 세션 관리자 도구를 사용하세요. 사이트를 잊을까 걱정된다면 방문 기록이 있는지 확인하고 BestHistory에 태그나 메모를 추가한 뒤 탭을 닫으세요. 삭제된 기록과 저장하지 않은 양식은 복구할 수 없습니다."
+  },
+  "it": {
+    "vault": "Salva i siti personali che vuoi ricordare nella cassaforte locale cifrata e protetta da password di BestHistory Pro, poi bloccala dopo l'uso. Non cancella automaticamente la cronologia di Chrome, le copie sincronizzate o i registri di rete.",
+    "incognito": "In Chrome apri chrome://extensions, vai nei dettagli di BestHistory e consenti esplicitamente l'uso in incognito prima di attivare la relativa funzione Pro. Le visite mai registrate non si possono recuperare. Firefox non registra automaticamente le finestre private.",
+    "tabs": "Tieni aperte le schede del lavoro in corso; per ripristinare intere sessioni usa un gestore di sessioni. Se vuoi solo ricordare un sito, verifica che compaia nella cronologia, aggiungi un'etichetta o una nota in BestHistory e chiudi la scheda. I dati eliminati e i moduli non salvati non sono recuperabili."
+  },
+  "nl": {
+    "vault": "Bewaar nuttige privéwebsites in de lokaal versleutelde, met een wachtwoord beschermde kluis van BestHistory Pro en vergrendel die na gebruik. De kluis wist niet automatisch de eigen geschiedenis van Chrome, gesynchroniseerde kopieën of netwerklogboeken.",
+    "incognito": "Open in Chrome chrome://extensions, ga naar BestHistory-details en sta gebruik in incognitomodus uitdrukkelijk toe voordat je de bijbehorende Pro-functie inschakelt. Nooit vastgelegde bezoeken kun je achteraf niet terughalen. Firefox registreert privévensters niet automatisch.",
+    "tabs": "Houd tabbladen voor lopend werk open; gebruik een sessiebeheerder als je een hele sessie wilt herstellen. Ben je alleen bang een website te vergeten, controleer dan de geschiedenis, voeg in BestHistory een label of notitie toe en sluit het tabblad. Gewiste geschiedenis en niet-opgeslagen formulieren zijn niet terug te halen."
+  },
+  "ru": {
+    "vault": "Сохраните нужные приватные сайты в локально зашифрованном хранилище BestHistory Pro с паролем и блокируйте его после просмотра. Это не удаляет автоматически историю самого Chrome, синхронизированные копии или сетевые журналы.",
+    "incognito": "В Chrome откройте chrome://extensions, в сведениях о BestHistory явно разрешите работу в режиме инкогнито и заранее включите соответствующую функцию Pro. Посещения, которые не были записаны, восстановить позже нельзя. Firefox не поддерживает автоматическую запись приватных окон.",
+    "tabs": "Оставьте вкладки текущей работы открытыми; для восстановления целой сессии используйте менеджер сессий. Если боитесь только забыть сайт, проверьте его наличие в истории, добавьте метку или заметку в BestHistory и закройте вкладку. Удалённая история и несохранённые формы не восстанавливаются."
+  },
+  "ar": {
+    "vault": "احتفظ بالمواقع المفيدة والحساسة في خزنة BestHistory Pro المشفرة محليًا والمحمية بكلمة مرور، ثم أقفلها بعد الاطلاع. لا تحذف الخزنة تلقائيًا سجل Chrome الأصلي أو النسخ المتزامنة أو سجلات الشبكة.",
+    "incognito": "في Chrome افتح chrome://extensions ثم تفاصيل BestHistory، واسمح صراحةً بتشغيل الإضافة في التصفح المتخفي قبل تفعيل وظيفة Pro المناسبة. لا يمكن استعادة زيارة لم تُسجّل من قبل. لا يدعم Firefox التسجيل التلقائي للنوافذ الخاصة.",
+    "tabs": "احتفظ بعلامات العمل الحالي، واستخدم مدير جلسات لاستعادة جلسة كاملة. إذا كنت تخشى فقط نسيان موقع، فتأكد أنه موجود في السجل، وأضف ملاحظة أو وسمًا في BestHistory ثم أغلق علامة التبويب. لا يمكن استعادة السجل المحذوف أو النماذج غير المحفوظة."
+  },
+  "hi": {
+    "vault": "जिन उपयोगी निजी साइटों को सामान्य सूची में नहीं दिखाना चाहते, उन्हें BestHistory Pro के पासवर्ड-सुरक्षित, डिवाइस पर एन्क्रिप्टेड वॉल्ट में रखें और देखने के बाद लॉक करें। इससे Chrome का अपना इतिहास, सिंक की गई कॉपी या नेटवर्क लॉग अपने-आप नहीं मिटते।",
+    "incognito": "Chrome में chrome://extensions खोलें, BestHistory की जानकारी में इनकॉग्निटो अनुमति स्वयं दें और विज़िट से पहले संबंधित Pro सुविधा चालू करें। पहले रिकॉर्ड न हुई विज़िट बाद में वापस नहीं आती। Firefox में निजी विंडो की स्वचालित रिकॉर्डिंग समर्थित नहीं है।",
+    "tabs": "काम के टैब खुले रखें; पूरा सेशन लौटाना हो तो सेशन मैनेजर इस्तेमाल करें। सिर्फ वेबसाइट भूलने का डर है तो इतिहास में उसकी मौजूदगी जाँचें, BestHistory में टैग या नोट जोड़ें और टैब बंद करें। मिटा हुआ इतिहास और न सहेजे फ़ॉर्म वापस नहीं आएँगे।"
+  },
+  "id": {
+    "vault": "Simpan situs pribadi yang masih ingin Anda ingat di brankas BestHistory Pro yang terenkripsi secara lokal dan dilindungi kata sandi. Kunci kembali setelah selesai. Brankas tidak otomatis menghapus riwayat Chrome, salinan sinkronisasi, atau log jaringan.",
+    "incognito": "Di Chrome buka chrome://extensions, masuk ke detail BestHistory, izinkan mode samaran secara jelas, lalu aktifkan fitur Pro terkait sebelum berkunjung. Kunjungan yang belum pernah direkam tidak bisa dipulihkan. Firefox tidak mendukung perekaman otomatis jendela privat.",
+    "tabs": "Biarkan tab pekerjaan aktif terbuka; gunakan pengelola sesi jika ingin memulihkan seluruh sesi. Jika hanya takut lupa situs, pastikan kunjungannya ada dalam riwayat, beri catatan atau label di BestHistory, lalu tutup tab. Riwayat terhapus atau formulir yang belum disimpan tidak dapat dipulihkan."
+  },
+  "tr": {
+    "vault": "Hatırlamak istediğiniz özel siteleri BestHistory Pro'nun cihaz üzerinde şifrelenen, parolayla korunan kasasında tutun ve işiniz bitince yeniden kilitleyin. Kasa, Chrome'un kendi geçmişini, eşitlenen kopyaları veya ağ kayıtlarını otomatik silmez.",
+    "incognito": "Chrome'da chrome://extensions sayfasını açın, BestHistory ayrıntılarında gizli mod iznini açıkça verin ve ilgili Pro özelliğini ziyaret öncesinde açın. Hiç kaydedilmemiş ziyaretler sonradan kurtarılamaz. Firefox özel pencereleri otomatik kaydetmez.",
+    "tabs": "Devam eden işlerin sekmelerini açık tutun; tüm oturumu geri yüklemek için oturum yöneticisi kullanın. Yalnızca siteyi unutmak istemiyorsanız geçmişte kayıt olduğunu kontrol edin, BestHistory'de etiket veya not ekleyip sekmeyi kapatın. Silinen geçmiş ve kaydedilmemiş formlar geri getirilemez."
+  },
+  "bn": {
+    "vault": "যে দরকারি ব্যক্তিগত সাইট সাধারণ তালিকায় রাখতে চান না, সেগুলো BestHistory Pro-এর পাসওয়ার্ড-সুরক্ষিত, ডিভাইসে এনক্রিপ্টেড ভল্টে রাখুন এবং দেখা শেষে লক করুন। এতে Chrome-এর নিজস্ব ইতিহাস, সিঙ্ক কপি বা নেটওয়ার্ক লগ নিজে থেকে মুছে যায় না।",
+    "incognito": "Chrome-এ chrome://extensions খুলে BestHistory-এর বিবরণে ইনকগনিটো অনুমতি স্পষ্টভাবে দিন এবং ভিজিটের আগেই সংশ্লিষ্ট Pro সুবিধা চালু করুন। আগে রেকর্ড না করা ভিজিট পরে উদ্ধার করা যায় না। Firefox ব্যক্তিগত উইন্ডো স্বয়ংক্রিয়ভাবে রেকর্ড করে না।",
+    "tabs": "চলমান কাজের ট্যাব খোলা রাখুন; পুরো সেশন ফিরিয়ে আনতে সেশন ম্যানেজার ব্যবহার করুন। শুধু সাইট ভুলে যাওয়ার ভয় হলে ইতিহাসে তার রেকর্ড আছে কি না দেখুন, BestHistory-তে ট্যাগ বা নোট দিন, তারপর ট্যাব বন্ধ করুন। মুছে যাওয়া ইতিহাস বা সেভ না করা ফর্ম ফেরানো যায় না।"
+  },
+  "vi": {
+    "vault": "Lưu những website riêng tư cần nhớ vào kho BestHistory Pro được mã hóa trên thiết bị và bảo vệ bằng mật khẩu, rồi khóa lại sau khi xem. Kho không tự xóa lịch sử Chrome, bản sao đồng bộ hoặc nhật ký mạng.",
+    "incognito": "Trong Chrome, mở chrome://extensions, vào chi tiết BestHistory, chủ động cấp quyền chạy ẩn danh rồi bật tính năng Pro liên quan trước khi duyệt. Những lượt truy cập chưa từng được ghi lại không thể khôi phục sau đó. Firefox không tự ghi lại cửa sổ riêng tư.",
+    "tabs": "Giữ các tab đang làm việc; dùng trình quản lý phiên nếu cần khôi phục toàn bộ phiên. Nếu chỉ sợ quên một website, hãy kiểm tra nó có trong lịch sử, thêm nhãn hoặc ghi chú trong BestHistory rồi đóng tab. Không thể khôi phục lịch sử đã xóa hay biểu mẫu chưa lưu."
+  }
+}

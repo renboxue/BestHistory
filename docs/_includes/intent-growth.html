@@ -1,0 +1,34 @@
+{% assign language = include.lang | default: 'en' %}
+{% assign localized = site.data.intent_growth_i18n[language] %}
+{% assign labels = site.data.marketing_i18n[language] %}
+{% assign advanced = site.data.advanced_i18n[language] %}
+{% assign topic = include.topic %}
+{% assign intent_kind = 'tabs' %}
+{% if topic == 'encrypted-private-browser-history' %}
+  {% assign intent_kind = 'vault' %}
+{% elsif topic == 'save-incognito-history-privately' %}
+  {% assign intent_kind = 'incognito' %}
+{% endif %}
+{% assign intent_text = localized[intent_kind] %}
+{% if intent_text %}
+<section class="bh-doc-page bh-seo-intent-followup" aria-label="BestHistory practical guidance">
+  {% if intent_kind == 'vault' %}
+    <h2>{{ labels.vault | escape }} · BestHistory Pro</h2>
+  {% elsif intent_kind == 'incognito' %}
+    <h2>{{ advanced.incognitoTitle | escape }} · Chrome</h2>
+  {% else %}
+    <h2>{{ labels.tabs | escape }} · BestHistory</h2>
+  {% endif %}
+  <p>{{ intent_text | escape }}</p>
+  <p>{{ labels.freeNote | escape }}</p>
+  <p>
+    <a href="/{{ language }}/guides/encrypted-private-browser-history/">{{ labels.vault | escape }}</a>
+    · <a href="/{{ language }}/guides/save-incognito-history-privately/">{{ advanced.incognitoTitle | escape }}</a>
+    · <a href="/{{ language }}/guides/close-tabs-without-losing-websites/">{{ labels.tabs | escape }}</a>
+  </p>
+  <div class="bh-actions">
+    <a class="bh-btn bh-btn-primary" href="https://chromewebstore.google.com/detail/besthistory/ehcgfdgajgkkmelcjipahckmgjfdcajb" target="_blank" rel="noopener noreferrer">{{ labels.getChrome | escape }}</a>
+    <a class="bh-btn bh-btn-secondary" href="https://addons.mozilla.org/en-US/firefox/addon/besthistory/" target="_blank" rel="noopener noreferrer">Firefox Add-ons</a>
+  </div>
+</section>
+{% endif %}

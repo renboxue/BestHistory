@@ -122,6 +122,9 @@
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
       {{ content }}
+      {% if topic_slug == 'encrypted-private-browser-history' or topic_slug == 'save-incognito-history-privately' or topic_slug == 'close-tabs-without-losing-websites' %}
+        {% include intent-growth.html topic=topic_slug lang=active_locale %}
+      {% endif %}
     </div>
   </main>
   <footer class="site-footer h-card">
