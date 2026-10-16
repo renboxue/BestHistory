@@ -12,3 +12,33 @@ header_pages:
   - story.md
   - en/guides/index.md
   - LANGUAGES.md
+
+# Keep localized HTML pages as the indexed versions.
+# Capitalized README-style documents are retained in GitHub for developers,
+# but their duplicate URLs should not compete in the public sitemap.
+# Do not hide en/INSTALL.md: it owns the canonical /en/install/ page.
+defaults:
+  - scope:
+      path: "*/FAQ.md"
+    values:
+      sitemap: false
+  - scope:
+      path: "*/INSTALL.md"
+    values:
+      sitemap: false
+  - scope:
+      path: "*/PRIVACY.md"
+    values:
+      sitemap: false
+  - scope:
+      path: "*/SECURITY.md"
+    values:
+      sitemap: false
+  - scope:
+      path: "*/TERMS.md"
+    values:
+      sitemap: false
+  - scope:
+      path: "en/INSTALL.md"
+    values:
+      sitemap: true
